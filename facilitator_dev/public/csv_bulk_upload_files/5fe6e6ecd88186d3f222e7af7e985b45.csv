@@ -1,0 +1,427 @@
+name,last_evaluation,acc_no,email,phone,address,latitude,longitude,image,status,shop_type_id,created,modified,address_search,door_number,street_number,colony,distric,province,postal_code,country,Zone
+AL SHOWAY CONTRACT EST.,31-12-18,241318,Jotun.Shop1@gmail.com,1234455,Quawayia,24.06456,45.28644,,1,2,31-12-18,31-12-18,,,,,Quawayia,,,Saudi Arabia,1
+NAIF FAISAL AL -OTAIBI EST.,31-12-18,248680,Jotun.Shop2@gmail.com,1234455,Riyadh ,24.54423,46.66516,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+NAIF FAISAL AL -OTAIBI EST.,31-12-18,248680,Jotun.Shop3@gmail.com,1234455,Riyadh ,24.53447,46.6979,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+KHALEEJ AL ZAHIR EST,31-12-18,301188,Jotun.Shop4@gmail.com,1234455,Al Kharaj,24.12781,47.27562,,1,2,31-12-18,31-12-18,,,,,Al Kharaj,,,Saudi Arabia,1
+MALEM AL HALWAH EST,31-12-18,301767,Jotun.Shop5@gmail.com,1234455,Hota Bani Tamim,23.49591,46.85307,,1,2,31-12-18,31-12-18,,,,,Hota Bani Tamim,,,Saudi Arabia,1
+Raea Al- Muhandis Est.,31-12-18,279771,Jotun.Shop6@gmail.com,1234455,Al-Kharj,24.127792,47.27581,,1,2,31-12-18,31-12-18,,,,,Al-Kharj,,,Saudi Arabia,1
+Raea Al- Muhandis Est.,31-12-18,279771,Jotun.Shop7@gmail.com,1234455,Al-Hayathem,24.165134,47.233257,,1,2,31-12-18,31-12-18,,,,,Al-Hayathem,,,Saudi Arabia,1
+AL INSHA ALSHAMIL CONT. EST.,31-12-18,241352,Jotun.Shop8@gmail.com,1234455,Riyadh ,24.632486,46.563525,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+AL INSHA ALSHAMIL CONT. EST.,31-12-18,241352,Jotun.Shop9@gmail.com,1234455,Riyadh ,24.62851,46.52194,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+NAGHAM ALWARD EST,31-12-18,290232,Jotun.Shop10@gmail.com,1234455,ALREMAL,24.854275,46.828178,,1,2,31-12-18,31-12-18,,,,,ALREMAL,,,Saudi Arabia,1
+ATHAL EST.,31-12-18,241297,Jotun.Shop11@gmail.com,1234455,Riyadh ,24.698311,46.796757,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Al Rebash Est.,31-12-18,277675,Jotun.Shop12@gmail.com,1234455,Riyadh ,24.703611,46.780247,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Al Rehla Al Mutaqadima,31-12-18,279734,Jotun.Shop13@gmail.com,1234455,Riyadh ,24.8103,46.86821,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Al Rehla Al Mutaqadima,31-12-18,279734,Jotun.Shop14@gmail.com,1234455,Riyadh ,24.69689,46.80661,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Amash Mosa Alshamari Trading Est.,31-12-18,287383,Jotun.Shop15@gmail.com,1234455,Riyadh ,24.653053,46.597008,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+FAHAD MOHD. AL ISSA CONT. EST.,31-12-18,251704,Jotun.Shop16@gmail.com,1234455,Riyadh ,24.690444,46.587083,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+GHADA MOHAMMED AL DOSARY EST,31-12-18,301113,Jotun.Shop17@gmail.com,1234455,Layla Flaj,22.28748,46.716014,,1,2,31-12-18,31-12-18,,,,,Layla Flaj,,,Saudi Arabia,1
+NAWADIR AL RAWAYE EST.,31-12-18,241152,Jotun.Shop18@gmail.com,1234455,Riyadh ,24.635444,46.590734,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+SHADDAN TRADING CO.,31-12-18,241294,Jotun.Shop19@gmail.com,1234455,Riyadh,25.18687,44.60116,,1,2,31-12-18,31-12-18,,,,,Riyadh,,,Saudi Arabia,1
+SHADDAN TRADING CO.,31-12-18,241294,Jotun.Shop20@gmail.com,1234455,Qassim,25.8732,43.52311,,1,2,31-12-18,31-12-18,,,,,Qassim,,,Saudi Arabia,1
+SHADDAN TRADING CO.,31-12-18,241294,Jotun.Shop21@gmail.com,1234455,Qassim,25.85292,44.22677,,1,2,31-12-18,31-12-18,,,,,Qassim,,,Saudi Arabia,1
+SHADDAN TRADING CO.,31-12-18,241294,Jotun.Shop22@gmail.com,1234455,Qassim,26.34289,43.97255,,1,2,31-12-18,31-12-18,,,,,Qassim,,,Saudi Arabia,1
+SHADDAN TRADING CO.,31-12-18,241294,Jotun.Shop23@gmail.com,1234455,Qassim,24.51131,44.40134,,1,2,31-12-18,31-12-18,,,,,Qassim,,,Saudi Arabia,1
+SHADDAN TRADING CO.,31-12-18,241294,Jotun.Shop24@gmail.com,1234455,Riyadh ,24.783637,46.662647,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+SHADDAN TRADING CO.,31-12-18,241294,Jotun.Shop25@gmail.com,1234455,Riyadh,27.49868,41.67488,,1,2,31-12-18,31-12-18,,,,,Riyadh,,,Saudi Arabia,1
+SHADDAN TRADING CO.,31-12-18,241294,Jotun.Shop26@gmail.com,1234455,Riyadh ,24.681667,46.677163,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+SHADDAN TRADING CO.,31-12-18,241294,Jotun.Shop27@gmail.com,1234455,Qassim,26.09304,44.00736,,1,2,31-12-18,31-12-18,,,,,Qassim,,,Saudi Arabia,1
+SHADDAN TRADING CO.,31-12-18,241294,Jotun.Shop28@gmail.com,1234455,Buridah,26.416685,43.913876,,1,2,31-12-18,31-12-18,,,,,Buridah,,,Saudi Arabia,1
+SHADDAN TRADING CO.,31-12-18,241294,Jotun.Shop29@gmail.com,1234455,Riyadh,28.43439,45.96758,,1,2,31-12-18,31-12-18,,,,,Riyadh,,,Saudi Arabia,1
+SHADDAN TRADING CO.,31-12-18,241294,Jotun.Shop30@gmail.com,1234455,Riyadh ,24.76103,46.76389,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+RAMZ ALKHER EST.,31-12-18,274507,Jotun.Shop31@gmail.com,1234455,Riyadh ,24.61883,46.53437,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+TURKEY SAHMY AL-SABIE EST,31-12-18,265234,Jotun.Shop32@gmail.com,1234455,Riyadh ,24.50113,46.633154,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+WADI AL-MUSMAH EST,31-12-18,301189,Jotun.Shop33@gmail.com,1234455,Al Sulayail,20.47521,45.58212,,1,2,31-12-18,31-12-18,,,,,Al Sulayail,,,Saudi Arabia,1
+WADI AL-MUSMAH EST,31-12-18,301189,Jotun.Shop34@gmail.com,1234455,Wadi Dawasir ,20.45591,44.827335,,1,2,31-12-18,31-12-18,,,,,Wadi Dawasir ,,,Saudi Arabia,1
+SARAH ABDULLAH AL JORAYED EST,31-12-18,301190,Jotun.Shop35@gmail.com,1234455,Riyadh,23.98775,47.13811,,1,2,31-12-18,31-12-18,,,,,Riyadh,,,Saudi Arabia,1
+Salah Alamoudi Trading Est.,31-12-18,279102,Jotun.Shop36@gmail.com,1234455,Riyadh ,24.681644,46.711468,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Ali Seddiq Utaif Trading Est.,31-12-18,287384,Jotun.Shop37@gmail.com,1234455,Riyadh ,24.60427,46.75198,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Ali Seddiq Utaif Trading Est.,31-12-18,287384,Jotun.Shop38@gmail.com,1234455,Riyadh ,24.682399,46.785192,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Ali Seddiq Utaif Trading Est.,31-12-18,287384,Jotun.Shop39@gmail.com,1234455,Riyadh ,24.633057,46.698914,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Art Coordination General Contract Est.,31-12-18,310507,Jotun.Shop40@gmail.com,1234455,Riyadh ,28.40829,45.96547,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+AWAD BIN BARAK ALMUSRAFI EST.,31-12-18,241413,Jotun.Shop41@gmail.com,1234455,Riyadh ,24.566132,46.545145,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+AWAD BIN BARAK ALMUSRAFI EST.,31-12-18,241413,Jotun.Shop42@gmail.com,1234455,Riyadh ,24.55324,46.507771,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Abdul Aziz Al-Hokail,31-12-18,241364,Jotun.Shop43@gmail.com,1234455,Riyadh ,24.778318,46.686293,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+OCEAN CONSTRUCTION EST.,31-12-18,245365,Jotun.Shop44@gmail.com,1234455,Riyadh ,24.867514,46.640865,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Hassan Hussain Al Zarwi Cont Est,31-12-18,279100,Jotun.Shop45@gmail.com,1234455,Riyadh ,24.63472,46.700681,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Hassan Hussain Al Zarwi Cont Est,31-12-18,279100,Jotun.Shop46@gmail.com,1234455,Riyadh ,24.62768,46.69566,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+QIMET AL BADER PAINTS SHOP ,31-12-18,241292,Jotun.Shop47@gmail.com,1234455,Riyadh ,24.764553,46.802583,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+QIMET AL BADER PAINTS SHOP ,31-12-18,241292,Jotun.Shop48@gmail.com,1234455,Riyadh ,24.78614,46.704157,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+QIMET AL BADER PAINTS SHOP ,31-12-18,241292,Jotun.Shop49@gmail.com,1234455,Riyadh ,24.754283,46.67932,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+QIMET AL BADER PAINTS SHOP ,31-12-18,241292,Jotun.Shop50@gmail.com,1234455,Riyadh ,24.75062,46.67804,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+QIMET AL BADER PAINTS SHOP ,31-12-18,241292,Jotun.Shop51@gmail.com,1234455,Riyadh ,24.804772,46.797991,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Bashar Al-Shayeh,31-12-18,274531,Jotun.Shop52@gmail.com,1234455,Riyadh ,24.89554,46.6265,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Abdullah Ali Al Ashri Est.,31-12-18,288581,Jotun.Shop53@gmail.com,1234455,Riyadh ,24.734701,46.839349,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Fragrant Desert Co. Ltd.,31-12-18,256885,Jotun.Shop54@gmail.com,1234455,Riyadh ,24.730746,46.824336,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+MUSAED A. AL-MALKI CONT. EST.,31-12-18,241136,Jotun.Shop55@gmail.com,1234455,Durma,24.602442,46.126811,,1,2,31-12-18,31-12-18,,,,,Durma,,,Saudi Arabia,1
+MUSAED A. AL-MALKI CONT. EST.,31-12-18,241136,Jotun.Shop56@gmail.com,1234455,Mozahmia ,24.471809,46.264198,,1,2,31-12-18,31-12-18,,,,,Mozahmia ,,,Saudi Arabia,1
+AHMED S. AL AHMARI TRAD. EST,31-12-18,254517,Jotun.Shop57@gmail.com,1234455,Riyadh ,24.691904,46.650475,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+MOHD.AHMAD AL-QURAISHI,31-12-18,261937,Jotun.Shop58@gmail.com,1234455,Riyadh ,24.83121,46.62359,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Al Khashabi Est,31-12-18,301415,Jotun.Shop59@gmail.com,1234455,Riyadh,24.810015,46.757378,,1,2,31-12-18,31-12-18,,,,,Riyadh,,,Saudi Arabia,1
+MISFER HAMAD MOHD. ALQAHTANI FOR CONT. ,31-12-18,259187,Jotun.Shop60@gmail.com,1234455,Riyadh ,24.56913,46.77285,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+MISFER HAMAD MOHD. ALQAHTANI FOR CONT. ,31-12-18,259187,Jotun.Shop61@gmail.com,1234455,Darul Baida,24.56174,46.79186,,1,2,31-12-18,31-12-18,,,,,Darul Baida,,,Saudi Arabia,1
+MISFER HAMAD MOHD. ALQAHTANI FOR CONT. ,31-12-18,259187,Jotun.Shop62@gmail.com,1234455,Riyadh ,24.58748,46.601107,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+MISFER HAMAD MOHD. ALQAHTANI FOR CONT. ,31-12-18,259187,Jotun.Shop63@gmail.com,1234455,Riyadh ,24.55903,46.57194,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+FALAH SHDEED ALMUTAIRY,31-12-18,301600,Jotun.Shop64@gmail.com,1234455,Riyadh ,28.30346,46.12558,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Saleh Abdullah Jarbo Saiari Est. ,31-12-18,269855,Jotun.Shop65@gmail.com,1234455,Riyadh ,24.580071,46.78204,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Saleh Abdullah Jarbo Saiari Est. ,31-12-18,269855,Jotun.Shop66@gmail.com,1234455,Riyadh ,24.610001,46.726727,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+KHALID ABDULLAH AL-MOSAAD EST,31-12-18,281317,Jotun.Shop67@gmail.com,1234455,Riyadh ,24.830574,46.681831,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+ABDULRAHMN A.AZIZ A.SHALAN EST,31-12-18,241366,Jotun.Shop68@gmail.com,1234455,Riyadh ,24.789544,46.745334,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+ABDULRAHMN A.AZIZ A.SHALAN EST,31-12-18,241366,Jotun.Shop69@gmail.com,1234455,Riyadh ,24.786674,46.613435,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,11
+M. A.  AL FOZAN EST.,31-12-18,241250,Jotun.Shop70@gmail.com,1234455,Riyadh ,25.92033,45.36566,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Aydeena for Contracting Est,31-12-18,301114,Jotun.Shop71@gmail.com,1234455,Unayzah,26.097773,44.011051,,1,2,31-12-18,31-12-18,,,,,Unayzah,,,Saudi Arabia,1
+DURRA ZULFI CONTRACTING EST.,31-12-18,241354,Jotun.Shop72@gmail.com,1234455,Riyadh ,26.294954,44.818103,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+DURRA ZULFI CONTRACTING EST.,31-12-18,241354,Jotun.Shop73@gmail.com,1234455,Riyadh ,26.297546,44.806236,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Asateel Alamar Est.,31-12-18,276592,Jotun.Shop74@gmail.com,1234455,Riyadh ,25.11046,46.10445,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Asateel Alamar Est.,31-12-18,276592,Jotun.Shop75@gmail.com,1234455,Riyadh ,25.27973,45.86608,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Mafaza for Trading & Contracting,31-12-18,287698,Jotun.Shop76@gmail.com,1234455,Hail,27.52397,41.685108,,1,2,31-12-18,31-12-18,,,,,Hail,,,Saudi Arabia,1
+TELEMAKERS,31-12-18,259912,Jotun.Shop77@gmail.com,1234455,Hail,24.67232,46.81621,,1,2,31-12-18,31-12-18,,,,,Hail,,,Saudi Arabia,1
+THAMARAT AL-MOUSIM TRADING EST.,31-12-18,243160,Jotun.Shop78@gmail.com,1234455,Riyadh ,24.80843,46.89942,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+EALAF  WORKER EST. FOR GEN.,31-12-18,241871,Jotun.Shop79@gmail.com,1234455,Afif,23.911665,42.920601,,1,2,31-12-18,31-12-18,,,,,Afif,,,Saudi Arabia,1
+NOUF ADOOS AL SAIBANI ,31-12-18,266799,Jotun.Shop80@gmail.com,1234455,Riyadh ,24.85509,46.82838,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Al Turiqi O.S Al Onaizi Est,31-12-18,287110,Jotun.Shop81@gmail.com,1234455,Riyadh ,24.82467,46.57258,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+KHALID AL SHAMMARY EST .,31-12-18,247956,Jotun.Shop82@gmail.com,1234455,BAQAA,27.904306,42.38892,,1,2,31-12-18,31-12-18,,,,,BAQAA,,,Saudi Arabia,1
+FUTURE PALACE CONT. EST.,31-12-18,297245,Jotun.Shop83@gmail.com,1234455,Riyadh ,25.704011,45.871501,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+TAMAYUZ NAJD CONT.  EST.,31-12-18,241153,Jotun.Shop84@gmail.com,1234455,Riyadh ,24.748935,46.722707,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Building Construction & Trading,31-12-18,242065,Jotun.Shop85@gmail.com,1234455,Riyadh ,24.83402,46.80987,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+ABDULLA HAZZAH AL FADL CO.,31-12-18,279855,Jotun.Shop86@gmail.com,1234455,Riyadh ,24.81176,46.62636,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+3 Lines For Trading ,31-12-18,301822,Jotun.Shop87@gmail.com,1234455,Buraidah ,26.492651,43.624966,,1,2,31-12-18,31-12-18,,,,,Buraidah ,,,Saudi Arabia,1
+Al Hweimel for Trading & Cont. ,31-12-18,303207,Jotun.Shop88@gmail.com,1234455,Buraidah ,26.347942,43.958363,,1,2,31-12-18,31-12-18,,,,,Buraidah ,,,Saudi Arabia,1
+Mohammed I. Al- Munif Est,31-12-18,300650,Jotun.Shop89@gmail.com,1234455,Qassim,25.98449,43.73581,,1,2,31-12-18,31-12-18,,,,,Qassim,,,Saudi Arabia,1
+Mohammed I. Al- Munif Est,31-12-18,300650,Jotun.Shop90@gmail.com,1234455,Qassim,26.06454,43.55779,,1,2,31-12-18,31-12-18,,,,,Qassim,,,Saudi Arabia,1
+Mohammed I. Al- Munif Est,31-12-18,300650,Jotun.Shop91@gmail.com,1234455,Riyadh ,24.625998,46.597031,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Mohammed I. Al- Munif Est,31-12-18,300650,Jotun.Shop92@gmail.com,1234455,Ar Rass,25.849911,43.495495,,1,2,31-12-18,31-12-18,,,,,Ar Rass,,,Saudi Arabia,1
+ALLON AL-SABA CONT. EST.,31-12-18,265240,Jotun.Shop93@gmail.com,1234455,Riyadh ,24.869087,46.618443,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+LAWHAT FANAN,31-12-18,297619,Jotun.Shop94@gmail.com,1234455,Riyadh ,24.818031,46.596289,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+MADAR AL MAKAN. EST.,31-12-18,249035,Jotun.Shop95@gmail.com,1234455,Riyadh ,24.88436,46.61188,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+EASTERN DECORATION FOR PAINTS,31-12-18,241116,Jotun.Shop96@gmail.com,1234455,Riyadh ,24.77215,46.62585,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+SAWADER CENTER FOR PAINTING ,31-12-18,241010,Jotun.Shop97@gmail.com,1234455,Riyadh ,24.598138,46.687086,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+SAWADER CENTER FOR PAINTING ,31-12-18,241010,Jotun.Shop98@gmail.com,1234455,Riyadh ,24.572377,46.664632,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+MOSAED SAUD AWAID AL MUTAIRY EST.,31-12-18,276097,Jotun.Shop99@gmail.com,1234455,Riyadh ,24.680597,46.799271,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+BARUQ SAHARI EST.,31-12-18,264460,Jotun.Shop100@gmail.com,1234455,Riyadh ,24.83622,46.68336,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Fahd Hamad Al-Subaie Est,31-12-18,290059,Jotun.Shop101@gmail.com,1234455,Riyadh ,25.566774,47.159851,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+EID HAMAD ALMANSOUR EST.,31-12-18,271268,Jotun.Shop102@gmail.com,1234455,Riyadh ,24.8163,46.77528,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Al Zaki Al Zahabi,31-12-18,301133,Jotun.Shop103@gmail.com,1234455,Riyadh,24.758867,46.6953,,1,2,31-12-18,31-12-18,,,,,Riyadh,,,Saudi Arabia,1
+Abdul Rahman Mohammad Al Miqhim Est,31-12-18,300386,Jotun.Shop104@gmail.com,1234455,Shaqra,25.239443,45.257648,,1,2,31-12-18,31-12-18,,,,,Shaqra,,,Saudi Arabia,1
+SAKA'EK CONTRACTING EST.,31-12-18,254097,Jotun.Shop105@gmail.com,1234455,Riyadh ,24.8931,46.60604,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+Elaf Alhuda,31-12-18,302175,Jotun.Shop106@gmail.com,1234455,Riyadh,24.858221,46.624199,,1,2,31-12-18,31-12-18,,,,,Riyadh,,,Saudi Arabia,1
+BOYOUT MAMORA EST.,31-12-18,274751,Jotun.Shop107@gmail.com,1234455,Riyadh ,24.89418,46.44151,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+CONVERGENCE INVESTMENT FOR TRADING CO.,31-12-18,259911,Jotun.Shop108@gmail.com,1234455,Riyadh ,24.75263,46.63979,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+EMAR WA FANON CONTRACTING TING EST,31-12-18,261283,Jotun.Shop109@gmail.com,1234455,Riyadh ,24.7431,46.77703,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+N.I. Alhumaidan,31-12-18,241289,Jotun.Shop110@gmail.com,1234455,Riyadh,24.686941,46.674492,,1,2,31-12-18,31-12-18,,,,,Riyadh,,,Saudi Arabia,1
+NASIR IBRAHIM ALHUMAIDAN,31-12-18,241134,Jotun.Shop111@gmail.com,1234455,Riyadh ,24.763751,46.833864,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+FAHD IZZADEEN AL-ALASAAD TRAD. EST,31-12-18,301414,Jotun.Shop112@gmail.com,1234455,Riyadh ,24.804861,46.737499,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+PAINT EST .,31-12-18,241288,Jotun.Shop113@gmail.com,1234455,Al Kharj,24.152255,47.301269,,1,2,31-12-18,31-12-18,,,,,Al Kharj,,,Saudi Arabia,1
+PAINT EST .,31-12-18,241288,Jotun.Shop114@gmail.com,1234455,Riyadh ,24.73543,46.647927,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+PAINT EST .,31-12-18,241288,Jotun.Shop115@gmail.com,1234455,Riyadh ,24.71531,46.69653,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+PAINT TECHNIQUES TRADING CO ,31-12-18,258983,Jotun.Shop116@gmail.com,1234455,Riyadh ,24.56102,46.70788,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+PAINT TECHNIQUES TRADING CO ,31-12-18,258983,Jotun.Shop117@gmail.com,1234455,Riyadh ,24.63841,46.72684,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+PAINT TECHNIQUES TRADING CO ,31-12-18,258983,Jotun.Shop118@gmail.com,1234455,Riyadh ,24.62089,46.73488,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+PAINT TECHNIQUES TRADING CO ,31-12-18,258983,Jotun.Shop119@gmail.com,1234455,Riyadh ,24.64405,46.83433,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+PAINT TECHNIQUES TRADING CO ,31-12-18,258983,Jotun.Shop120@gmail.com,1234455,Riyadh ,24.67546,46.74645,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+PAINT TECHNIQUES TRADING CO ,31-12-18,258983,Jotun.Shop121@gmail.com,1234455,Riyadh ,24.649454,46.670393,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+PAINT TECHNIQUES TRADING CO ,31-12-18,258983,Jotun.Shop122@gmail.com,1234455,Riyadh ,24.64977,46.78251,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+PAINT TECHNIQUES TRADING CO ,31-12-18,258983,Jotun.Shop123@gmail.com,1234455,Riyadh ,24.799394,46.643548,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+PAINT TECHNIQUES TRADING CO ,31-12-18,258983,Jotun.Shop124@gmail.com,1234455,Riyadh ,24.750669,46.573994,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+PAINT TECHNIQUES TRADING CO ,31-12-18,258983,Jotun.Shop125@gmail.com,1234455,Riyadh ,24.787572,46.768037,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+PAINT TECHNIQUES TRADING CO ,31-12-18,258983,Jotun.Shop126@gmail.com,1234455,Riyadh ,24.658758,46.735867,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+PAINT TECHNIQUES TRADING CO ,31-12-18,258983,Jotun.Shop127@gmail.com,1234455,Riyadh ,24.796355,46.742478,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+PAINT TECHNIQUES TRADING CO ,31-12-18,258983,Jotun.Shop128@gmail.com,1234455,Riyadh ,24.587704,46.625021,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+PAINT TECHNIQUES TRADING CO ,31-12-18,258983,Jotun.Shop129@gmail.com,1234455,Riyadh ,24.560827,46.707695,,1,2,31-12-18,31-12-18,,,,,Riyadh ,,,Saudi Arabia,1
+ARABIAN PAINT EST.,31-12-18,241075,Jotun.Shop130@gmail.com,1234455,Jeddah,21.585745,39.177124,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Abdullah Bin Abdullah Al Qahtani,31-12-18,277844,Jotun.Shop131@gmail.com,1234455,Jeddah,21.744858,39.140513,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Abdullah Bin Abdullah Al Qahtani,31-12-18,277844,Jotun.Shop132@gmail.com,1234455,Jeddah,21.608196,39.129272,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Abdullah Bin Abdullah Al Qahtani,31-12-18,277844,Jotun.Shop133@gmail.com,1234455,Jeddah,21.756105,39.120762,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Al Sawan Est,31-12-18,280237,Jotun.Shop134@gmail.com,1234455,Jeddah,21.514236,39.181739,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+AL TAZAM JEDDAH EST.,31-12-18,241013,Jotun.Shop135@gmail.com,1234455,Jeddah,21.773903,39.091473,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+KHALID BARIAN EST.,31-12-18,287701,Jotun.Shop136@gmail.com,1234455,Jeddah,21.620528,39.147494,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+KHALID BARIAN EST.,31-12-18,287701,Jotun.Shop137@gmail.com,1234455,Jeddah,21.611953,39.144958,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+OMAR BINMUTLALQ AL-RASHEDI EST.,31-12-18,240984,Jotun.Shop138@gmail.com,1234455,Jeddah,21.515406,39.171921,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+QASEM MOH'D AL-SALEH TRADING.,31-12-18,241043,Jotun.Shop139@gmail.com,1234455,Jeddah,21.598356,39.123316,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+ZAHRAT  AL MATAR EST.,31-12-18,251855,Jotun.Shop140@gmail.com,1234455,Jeddah,21.578868,39.157636,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Wadi Murekh Est.,31-12-18,277774,Jotun.Shop141@gmail.com,1234455,Jeddah,21.532518,39.288197,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+PAINTS THE MIDDE EAST,31-12-18,262176,Jotun.Shop142@gmail.com,1234455,Jeddah,21.455756,39.218697,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+PAINTS THE MIDDE EAST,31-12-18,262176,Jotun.Shop143@gmail.com,1234455,Jeddah,21.400512,39.445314,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+PAINTS THE MIDDE EAST,31-12-18,262176,Jotun.Shop144@gmail.com,1234455,Jeddah,21.478189,39.369297,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+PAINTS THE MIDDE EAST,31-12-18,262176,Jotun.Shop145@gmail.com,1234455,Jeddah,21.452347,39.391487,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+PAINTS THE MIDDE EAST,31-12-18,262176,Jotun.Shop146@gmail.com,1234455,Jeddah,21.428311,39.298255,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+PAINTS THE MIDDE EAST,31-12-18,262176,Jotun.Shop147@gmail.com,1234455,Jeddah,21.447654,39.300972,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+PAINTS THE MIDDE EAST,31-12-18,262176,Jotun.Shop148@gmail.com,1234455,Jeddah,21.409518,39.297651,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Raya Hasan M Al Qasimi,31-12-18,243702,Jotun.Shop149@gmail.com,1234455,Jeddah,21.457088,39.245525,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Rapid Technical Est.,31-12-18,250165,Jotun.Shop150@gmail.com,1234455,Jeddah,21.496523,39.213338,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+MOHAMD AHMED BASAQAR TRAD.EST,31-12-18,241048,Jotun.Shop151@gmail.com,1234455,Jeddah,21.482761,39.229602,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+AL TEZAM JEDDAH EST.,31-12-18,248340,Jotun.Shop152@gmail.com,1234455,Jeddah,21.502762,39.189021,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+AL TEZAM JEDDAH EST.,31-12-18,248340,Jotun.Shop153@gmail.com,1234455,Jeddah,21.796555,39.087383,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+AL REESHI EST,31-12-18,273371,Jotun.Shop154@gmail.com,1234455,Jeddah,21.565033,39.248264,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+AL REESHI EST,31-12-18,273371,Jotun.Shop155@gmail.com,1234455,Jeddah,21.597818,39.254406,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+AL REESHI EST,31-12-18,273371,Jotun.Shop156@gmail.com,1234455,Jeddah,21.676884,39.210854,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+BASAER AL SAUDI,31-12-18,272192,Jotun.Shop157@gmail.com,1234455,Jeddah,21.652515,39.239719,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+First Saudi Est.,31-12-18,241099,Jotun.Shop158@gmail.com,1234455,Jeddah,21.516862,39.223186,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Ismail Ashraf H.Alfarooq,31-12-18,276989,Jotun.Shop159@gmail.com,1234455,Jeddah,21.762486,39.200318,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Ismail Ashraf H.Alfarooq,31-12-18,276989,Jotun.Shop160@gmail.com,1234455,Dahban,21.932928,39.122055,,1,2,31-12-18,31-12-18,,,,,Dahban,,,Saudi Arabia,3
+KHALID M.M.AL BASHEERI EST.,31-12-18,240962,Jotun.Shop161@gmail.com,1234455,Al Jumum,21.612247,39.700397,,1,2,31-12-18,31-12-18,,,,,Al Jumum,,,Saudi Arabia,3
+Saad ABAS HASHIM AL MUHABI,31-12-18,258653,Jotun.Shop162@gmail.com,1234455,Jeddah,21.619149,39.193272,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Taif Al Tamayoz  Est. ,31-12-18,245366,Jotun.Shop163@gmail.com,1234455,Jeddah,21.845928,39.202217,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Taif Al Tamayoz  Est. ,31-12-18,245366,Jotun.Shop164@gmail.com,1234455,Jeddah,21.865185,39.230648,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+YASSER AL THEBITY  EST.,31-12-18,241851,Jotun.Shop165@gmail.com,1234455,Jeddah,21.768532,39.180349,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+YASSER AL THEBITY  EST.,31-12-18,241851,Jotun.Shop166@gmail.com,1234455,Jeddah,21.79241,39.200184,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+YASSER AL THEBITY  EST.,31-12-18,241851,Jotun.Shop167@gmail.com,1234455,Makkah,21.440781,39.840908,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+YASSER AL THEBITY  EST.,31-12-18,241851,Jotun.Shop168@gmail.com,1234455,Jeddah,21.738823,39.192751,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+YASSER AL THEBITY  EST.,31-12-18,241851,Jotun.Shop169@gmail.com,1234455,Jeddah,21.496965,39.296024,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+YOUSAF HASHIM SUBHI EST.,31-12-18,248489,Jotun.Shop170@gmail.com,1234455,Jeddah,22.107214,39.311028,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+YOUSAF HASHIM SUBHI EST.,31-12-18,248489,Jotun.Shop171@gmail.com,1234455,Jeddah,21.934262,39.357293,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+AHMED A. JABEER ALSAYD EST,31-12-18,241828,Jotun.Shop172@gmail.com,1234455,Jeddah,21.79825,39.140335,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+SALEH AL- SHATREE EST.,31-12-18,241081,Jotun.Shop173@gmail.com,1234455,Jeddah,21.643845,39.142555,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+WAFAQ AL-ALLMYAH EST.,31-12-18,240987,Jotun.Shop174@gmail.com,1234455,Jeddah,21.624313,39.209373,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Professional House Est,31-12-18,307617,Jotun.Shop175@gmail.com,1234455,Jeddah,21.809743,39.06815,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+ABDELMUHSIN AL LIHAIBY,31-12-18,303935,Jotun.Shop176@gmail.com,1234455,Jeddah,21.595562,39.220498,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+ABDUL RAHMAN BATARFI,31-12-18,240961,Jotun.Shop177@gmail.com,1234455,Jeddah,21.563482,39.209252,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+ABDUL RAHMAN BATARFI,31-12-18,240961,Jotun.Shop178@gmail.com,1234455,Jeddah,21.686703,39.109624,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+AL TASAHEEL MODERN TRADING EST.,31-12-18,273215,Jotun.Shop179@gmail.com,1234455,Jeddah,21.749778,39.148649,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Attiah Al Rashdy,31-12-18,274879,Jotun.Shop180@gmail.com,1234455,Thuwal,22.291815,39.116554,,1,2,31-12-18,31-12-18,,,,,Thuwal,,,Saudi Arabia,3
+Bandar Owebed Obed Alghanmy,31-12-18,283318,Jotun.Shop181@gmail.com,1234455,Rabigh,22.803825,39.032532,,1,2,31-12-18,31-12-18,,,,,Rabigh,,,Saudi Arabia,3
+HAYATH AL ALWAN  EST,31-12-18,260876,Jotun.Shop182@gmail.com,1234455,Jeddah,21.661217,39.122578,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+MUSFIRAH KHADRAD AL MALKI EST.,31-12-18,262248,Jotun.Shop183@gmail.com,1234455,Jeddah,21.617056,39.127028,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+PAINT'S MASTERPIECES FOR BUILDING MATERIALS EST.,31-12-18,289632,Jotun.Shop184@gmail.com,1234455,Jeddah,21.774896,39.103777,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+RAGHAD ALHAYAT,31-12-18,285708,Jotun.Shop185@gmail.com,1234455,Rabigh,22.800688,39.044449,,1,2,31-12-18,31-12-18,,,,,Rabigh,,,Saudi Arabia,3
+"FATIMA ALI MEZHER ABU GHANIYA TRADING EST,",31-12-18,241040,Jotun.Shop186@gmail.com,1234455,Jeddah,21.579856,39.208581,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+MOHAMED NASER AL SHAHRI EST. ,31-12-18,241053,Jotun.Shop187@gmail.com,1234455,Jeddah,21.391819,39.29787,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+MOHAMED NASER AL SHAHRI EST. ,31-12-18,241053,Jotun.Shop188@gmail.com,1234455,Jeddah,21.544935,39.193653,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+OMAR RAJAB CONTRACTING EST.,31-12-18,297830,Jotun.Shop189@gmail.com,1234455,Jeddah,21.589797,39.186415,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Alramz Alhijazi Trading Est.,31-12-18,240956,Jotun.Shop190@gmail.com,1234455,Jeddah,21.556193,39.193326,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+AL SHUAIBI EST.,31-12-18,241001,Jotun.Shop191@gmail.com,1234455,Makkah,21.410185,39.788932,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+ALRAED AL SHREQI,31-12-18,270270,Jotun.Shop192@gmail.com,1234455,Makkah,21.465193,39.918304,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+ARIF MARZOOKI KUTBI CONSTRUSTION EST,31-12-18,245142,Jotun.Shop193@gmail.com,1234455,Makkah,21.409142,39.787193,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+ARIF MARZOOKI KUTBI CONSTRUSTION EST,31-12-18,272093,Jotun.Shop194@gmail.com,1234455,Makkah,21.396835,39.798323,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+"ABDUL RAHMAN ABDULAZIZ MNQEL EST, GENERAL CONTRACTING",31-12-18,309045,Jotun.Shop195@gmail.com,1234455,Makkah,21.359971,39.874966,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+"ABDUL RAHMAN ABDULAZIZ MNQEL EST, GENERAL CONTRACTING",31-12-18,309045,Jotun.Shop196@gmail.com,1234455,Makkah,21.529271,39.785827,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+"ABDUL RAHMAN ABDULAZIZ MNQEL EST, GENERAL CONTRACTING",31-12-18,309045,Jotun.Shop197@gmail.com,1234455,Makkah,21.439956,39.796779,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+LUJEEN COMMERCIAL GROUP,31-12-18,241086,Jotun.Shop198@gmail.com,1234455,Makkah,21.402017,39.705613,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+LUJEEN COMMERCIAL GROUP,31-12-18,249037,Jotun.Shop199@gmail.com,1234455,Makkah,21.498448,39.881964,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+MAMLIKAT ALAM ALMABANI ,31-12-18,240995,Jotun.Shop200@gmail.com,1234455,Makkah,21.423813,39.806959,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+Yasir Al Homrani,31-12-18,280838,Jotun.Shop201@gmail.com,1234455,Makkah,21.471766,39.791134,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+Yasir Al Homrani,31-12-18,280838,Jotun.Shop202@gmail.com,1234455,Makkah,21.512788,39.783313,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+HASSAN AL SAWAT,31-12-18,241044,Jotun.Shop203@gmail.com,1234455,Al Ta'if,21.446598,40.502054,,1,2,31-12-18,31-12-18,,,,,Al Ta'if,,,Saudi Arabia,3
+HASSAN AL SAWAT,31-12-18,241044,Jotun.Shop204@gmail.com,1234455,Al Ta'if,21.913279,42.02671,,1,2,31-12-18,31-12-18,,,,,Al Ta'if,,,Saudi Arabia,3
+HASSAN AL SAWAT,31-12-18,241044,Jotun.Shop205@gmail.com,1234455,Al Ta'if,21.268101,40.414447,,1,2,31-12-18,31-12-18,,,,,Al Ta'if,,,Saudi Arabia,3
+HASSAN AL SAWAT,31-12-18,241044,Jotun.Shop206@gmail.com,1234455,Al Ta'if,21.346903,40.434109,,1,2,31-12-18,31-12-18,,,,,Al Ta'if,,,Saudi Arabia,3
+HASSAN AL SAWAT,31-12-18,241044,Jotun.Shop207@gmail.com,1234455,Al Ta'if,22.610978,41.345401,,1,2,31-12-18,31-12-18,,,,,Al Ta'if,,,Saudi Arabia,3
+Murad A.M.Jamjoom,31-12-18,277911,Jotun.Shop208@gmail.com,1234455,Makkah,21.397802,39.739094,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+Al Firdous Gulf Arabian Trading Co. (Al Futtaim),31-12-18,286987,Jotun.Shop209@gmail.com,1234455,Jeddah,21.618164,39.152172,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+ABDULLAH OMAR BAGALF EST.,31-12-18,240985,Jotun.Shop210@gmail.com,1234455,Jeddah,21.571443,39.168482,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+AL WAHA GENERAL CONTRACTING EST.,31-12-18,261658,Jotun.Shop211@gmail.com,1234455,Jeddah,21.550329,39.228424,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+ANWAR AL SHUHAB EST.,31-12-18,253391,Jotun.Shop212@gmail.com,1234455,Jeddah,21.593027,39.237412,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+ANWAR AL SHUHAB EST.,31-12-18,253391,Jotun.Shop213@gmail.com,1234455,Jeddah,21.544149,39.216256,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+ANWAR AL SHUHAB EST.,31-12-18,253391,Jotun.Shop214@gmail.com,1234455,Jeddah,21.609152,39.169117,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+ANWAR AL SHUHAB EST.,31-12-18,253391,Jotun.Shop215@gmail.com,1234455,Jeddah,21.529625,39.198874,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+IBRAHIM ABDUL KAREM BAQLAF EST,31-12-18,303957,Jotun.Shop216@gmail.com,1234455,Jeddah,21.558355,39.181915,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Hameed Al Sanani,31-12-18,241066,Jotun.Shop217@gmail.com,1234455,Jeddah,21.569274,39.187398,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Abdullah Babhair Trd. Est.,31-12-18,241041,Jotun.Shop218@gmail.com,1234455,Jeddah,21.472936,39.260739,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+AL MIRZA BUILDING MET.CETR.CO. ,31-12-18,241090,Jotun.Shop219@gmail.com,1234455,Jeddah,21.613356,39.177417,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+AL MIRZA BUILDING MET.CETR.CO. ,31-12-18,241090,Jotun.Shop220@gmail.com,1234455,Jeddah,21.576956,39.166731,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+AL MIRZA BUILDING MET.CETR.CO. ,31-12-18,241090,Jotun.Shop221@gmail.com,1234455,Makkah,21.39992,39.881317,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+AL MIRZA BUILDING MET.CETR.CO. ,31-12-18,241090,Jotun.Shop222@gmail.com,1234455,Madinah,24.47073,39.630639,,1,2,31-12-18,31-12-18,,,,,Madinah,,,Saudi Arabia,3
+AL MIRZA BUILDING MET.CETR.CO. ,31-12-18,241090,Jotun.Shop223@gmail.com,1234455,Madinah,24.472118,39.596512,,1,2,31-12-18,31-12-18,,,,,Madinah,,,Saudi Arabia,3
+Nawasi Alebdaa Commercial Co.,31-12-18,240993,Jotun.Shop224@gmail.com,1234455,Jeddah,21.53124,39.199669,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+HAYATH AL ALWAN  EST,31-12-18,298776,Jotun.Shop225@gmail.com,1234455,Jeddah,21.533301,39.199947,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+MAHAL AL-DEHANAT AL-RA'AH EST,31-12-18,288227,Jotun.Shop226@gmail.com,1234455,Jeddah,21.526889,39.192389,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Abdul Lateef Asady,31-12-18,250460,Jotun.Shop227@gmail.com,1234455,Makkah,21.601368,39.791077,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+Abdul Lateef Asady,31-12-18,250460,Jotun.Shop228@gmail.com,1234455,Makkah,21.56002,39.773327,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+Abdullah Al-Musabi - ASHEED TRADING EST,31-12-18,310506,Jotun.Shop229@gmail.com,1234455,Makkah,21.430445,39.807072,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+FUAD ABDULMUTALIB ALSHARIF,31-12-18,241088,Jotun.Shop230@gmail.com,1234455,Makkah,21.389645,39.786804,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+IBRAHIM HEMAIDAN ALHARBI ,31-12-18,267963,Jotun.Shop231@gmail.com,1234455,Makkah,21.259302,39.938793,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+Tala Al Shareef,31-12-18,277062,Jotun.Shop232@gmail.com,1234455,Makkah,21.457402,39.954748,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+MOTAAB AL KABI EST,31-12-18,241109,Jotun.Shop233@gmail.com,1234455,Makkah,21.478523,39.998675,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+MOTAAB AL KABI EST,31-12-18,241109,Jotun.Shop234@gmail.com,1234455,Makkah,21.47837,39.998957,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,33
+SROUOH ALDEAFAH EST.,31-12-18,241403,Jotun.Shop235@gmail.com,1234455,Makkah,21.45203,39.808239,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+YAHYA ABDULLAH ASSIRI EST.,31-12-18,273121,Jotun.Shop236@gmail.com,1234455,Makkah,21.467038,39.88954,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+ABDULLA AHMED AL NASHARY ,31-12-18,241059,Jotun.Shop237@gmail.com,1234455,Al Qouz,18.970853,41.31968,,1,2,31-12-18,31-12-18,,,,,Al Qouz,,,Saudi Arabia,3
+ABDULLA AHMED AL NASHARY ,31-12-18,241059,Jotun.Shop238@gmail.com,1234455,Al Qunfudhah,19.132303,41.081797,,1,2,31-12-18,31-12-18,,,,,Al Qunfudhah,,,Saudi Arabia,3
+ABDULLA AHMED AL NASHARY ,31-12-18,241059,Jotun.Shop239@gmail.com,1234455,Hally,18.765409,41.391155,,1,2,31-12-18,31-12-18,,,,,Hally,,,Saudi Arabia,3
+ABDULLA AHMED AL NASHARY ,31-12-18,241059,Jotun.Shop240@gmail.com,1234455,Al Mudhaylif,19.524892,41.053423,,1,2,31-12-18,31-12-18,,,,,Al Mudhaylif,,,Saudi Arabia,3
+ABDULLAH ALI EST. ,31-12-18,262542,Jotun.Shop241@gmail.com,1234455,Adham,20.440903,40.877002,,1,2,31-12-18,31-12-18,,,,,Adham,,,Saudi Arabia,3
+ABDULLAH OTHMAN SAEEDI TRD. EST.,31-12-18,273624,Jotun.Shop242@gmail.com,1234455,Jeddah,21.301244,39.246787,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+ABDULLAH OTHMAN SAEEDI TRD. EST.,31-12-18,273624,Jotun.Shop243@gmail.com,1234455,Jeddah,21.304575,39.231575,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Al AOON A.MAZ EST,31-12-18,251266,Jotun.Shop244@gmail.com,1234455,Jeddah,21.409093,39.258737,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Al AOON A.MAZ EST,31-12-18,251266,Jotun.Shop245@gmail.com,1234455,Jeddah,21.400318,39.27718,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+Al AOON A.MAZ EST,31-12-18,251266,Jotun.Shop246@gmail.com,1234455,Jeddah,21.454758,39.272264,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+ALJAZIRA CONSTRUCTION & TRD,31-12-18,278285,Jotun.Shop247@gmail.com,1234455,Makkah,21.322787,39.682904,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+EMAAR ASIA COMPANY CONT. LT.,31-12-18,301938,Jotun.Shop248@gmail.com,1234455,Makkah,21.351641,39.782411,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+Foud Mohammed Est. Al-Rashedi,31-12-18,274960,Jotun.Shop249@gmail.com,1234455,Jeddah,21.443501,39.255819,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+KINDA TRD.INVST.CO.LTD.,31-12-18,241062,Jotun.Shop250@gmail.com,1234455,Makkah,21.374718,39.79995,,1,2,31-12-18,31-12-18,,,,,Makkah,,,Saudi Arabia,3
+MAWTEN AL-EMAR HOLDING C.O,31-12-18,241106,Jotun.Shop251@gmail.com,1234455,Al Baha,20.080939,41.445042,,1,2,31-12-18,31-12-18,,,,,Al Baha,,,Saudi Arabia,3
+MAWTEN AL-EMAR HOLDING C.O,31-12-18,241106,Jotun.Shop252@gmail.com,1234455,Al Aqiq,20.26333,41.653863,,1,2,31-12-18,31-12-18,,,,,Al Aqiq,,,Saudi Arabia,3
+MAWTEN AL-EMAR HOLDING C.O,31-12-18,241106,Jotun.Shop253@gmail.com,1234455,Baljurashi,19.857485,41.579665,,1,2,31-12-18,31-12-18,,,,,Baljurashi,,,Saudi Arabia,3
+MAWTEN AL-EMAR HOLDING C.O,31-12-18,241106,Jotun.Shop254@gmail.com,1234455,Al Mandaq,20.144671,41.291194,,1,2,31-12-18,31-12-18,,,,,Al Mandaq,,,Saudi Arabia,3
+MAWTEN AL-EMAR HOLDING C.O,31-12-18,241106,Jotun.Shop255@gmail.com,1234455,Al Baha,20.225142,41.363865,,1,2,31-12-18,31-12-18,,,,,Al Baha,,,Saudi Arabia,3
+MOHAMMED AL GAMDI EST.,31-12-18,240977,Jotun.Shop256@gmail.com,1234455,Baljurashi,19.872333,41.574353,,1,2,31-12-18,31-12-18,,,,,Baljurashi,,,Saudi Arabia,3
+Mohammed Hassan Al Harty,31-12-18,266366,Jotun.Shop257@gmail.com,1234455,Jeddah,21.323719,39.261593,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+SAEED ABDULLA AL OMARI EST.,31-12-18,241089,Jotun.Shop258@gmail.com,1234455,Al Makhwah,19.788671,41.437645,,1,2,31-12-18,31-12-18,,,,,Al Makhwah,,,Saudi Arabia,3
+SAEED ABDULLA AL OMARI EST.,31-12-18,241089,Jotun.Shop259@gmail.com,1234455,Qilwa,19.939342,41.254227,,1,2,31-12-18,31-12-18,,,,,Qilwa,,,Saudi Arabia,3
+ZAINAB MOHAMED QAJO,31-12-18,241095,Jotun.Shop260@gmail.com,1234455,Jeddah,21.555252,39.188357,,1,2,31-12-18,31-12-18,,,,,Jeddah,,,Saudi Arabia,3
+TARIQ RAJAB HUSSAIN ALAHMADAIN  ,31-12-18,259314,Jotun.Shop261@gmail.com,1234455,Alwasqah,19.983465,40.572983,,1,2,31-12-18,31-12-18,,,,,Alwasqah,,,Saudi Arabia,3
+RAWHA INTERNATIONAL,31-12-18,241162,Jotun.Shop262@gmail.com,1234455,Dammam,26.36047,50.06861,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+INSTITUTION SWEETER COLOR DECO,31-12-18,241861,Jotun.Shop263@gmail.com,1234455,Dammam,26.35,50.14,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+INSTITUTION SWEETER COLOR DECO,31-12-18,241861,Jotun.Shop264@gmail.com,1234455,Dammam,26.32,50.16,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+ALWAN AL TADOUM EST.,31-12-18,267666,Jotun.Shop265@gmail.com,1234455,Dammam,26.43,50.04,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+ALWAN AL TADOUM EST.,31-12-18,267666,Jotun.Shop266@gmail.com,1234455,Dammam,26.357573,49.96453,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+ALWAN AL TADOUM EST.,31-12-18,267666,Jotun.Shop267@gmail.com,1234455,Dammam,26.4,50.06,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+Osama Al Thwimer,31-12-18,275799,Jotun.Shop268@gmail.com,1234455,Dammam,26.346708,50.054267,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+Abdul Aziz Al Khaldi,31-12-18,290057,Jotun.Shop269@gmail.com,1234455,Dammam,26.360466,50.068604,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+Dana of Arab Oreient for Cont,31-12-18,279616,Jotun.Shop270@gmail.com,1234455,Dammam,26.421633,50.003025,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+ABDUL AZIZ ISMAIL SONS TRD.CO. ,31-12-18,241204,Jotun.Shop271@gmail.com,1234455,Hafouf,25.35,49.58,,1,2,31-12-18,31-12-18,,,,,Hafouf,,,Saudi Arabia,4
+ABDUL AZIZ ISMAIL SONS TRD.CO. ,31-12-18,241204,Jotun.Shop272@gmail.com,1234455,Hafouf,25.61,49.56,,1,2,31-12-18,31-12-18,,,,,Hafouf,,,Saudi Arabia,4
+COLOUR PALACE FOR PAINTS ,31-12-18,241490,Jotun.Shop273@gmail.com,1234455,Hafouf,25.44,49.66,,1,2,31-12-18,31-12-18,,,,,Hafouf,,,Saudi Arabia,4
+COLOUR PALACE FOR PAINTS ,31-12-18,241490,Jotun.Shop274@gmail.com,1234455,Hafouf,25.308838,49.590397,,1,2,31-12-18,31-12-18,,,,,Hafouf,,,Saudi Arabia,4
+COLOUR PALACE FOR PAINTS ,31-12-18,241490,Jotun.Shop275@gmail.com,1234455,Hafouf,25.36,49.55,,1,2,31-12-18,31-12-18,,,,,Hafouf,,,Saudi Arabia,4
+Salman Al Naeem Est,31-12-18,241449,Jotun.Shop276@gmail.com,1234455,Hafouf,25.36,49.61,,1,2,31-12-18,31-12-18,,,,,Hafouf,,,Saudi Arabia,4
+MUSTAFA BIN ABBASS AL QATTAN  CONTRACTING EST,31-12-18,247604,Jotun.Shop277@gmail.com,1234455,Dammam,25.38,49.67,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+YOUSEF ALI AL OMRAN EST.,31-12-18,264588,Jotun.Shop278@gmail.com,1234455, Al Ahsa,25.36,49.61,,1,2,31-12-18,31-12-18,,,,, Al Ahsa,,,Saudi Arabia,4
+YOUSEF ALI AL OMRAN EST.,31-12-18,264588,Jotun.Shop279@gmail.com,1234455, Al Ahsa,25.361298,49.725597,,1,2,31-12-18,31-12-18,,,,, Al Ahsa,,,Saudi Arabia,4
+RAMADAN EST. FOR PAINT- Hafuf,31-12-18,241209,Jotun.Shop280@gmail.com,1234455, Al Ahsa,25.39,49.6,,1,2,31-12-18,31-12-18,,,,, Al Ahsa,,,Saudi Arabia,4
+RAMADAN EST. FOR PAINT - Mubbaraz,31-12-18,241225,Jotun.Shop281@gmail.com,1234455, Al Ahsa,25.434185,49.582863,,1,2,31-12-18,31-12-18,,,,, Al Ahsa,,,Saudi Arabia,4
+Zien Darak Est.,31-12-18,299267,Jotun.Shop282@gmail.com,1234455, Al Ahsa,25.460997,49.611275,,1,2,31-12-18,31-12-18,,,,, Al Ahsa,,,Saudi Arabia,4
+Basmat Mukatassas Est.,31-12-18,303161,Jotun.Shop283@gmail.com,1234455, Al Ahsa,25.428102,49.572762,,1,2,31-12-18,31-12-18,,,,, Al Ahsa,,,Saudi Arabia,4
+RED SEA TRADING & CONT. EST. ,31-12-18,241207,Jotun.Shop284@gmail.com,1234455,Safaniya,27.94262,48.65927,,1,2,31-12-18,31-12-18,,,,,Safaniya,,,Saudi Arabia,4
+RED SEA TRADING & CONT. EST. ,31-12-18,241207,Jotun.Shop285@gmail.com,1234455,Al Khafji,28.42,48.5,,1,2,31-12-18,31-12-18,,,,,Al Khafji,,,Saudi Arabia,4
+RED SEA TRADING & CONT. EST. ,31-12-18,241207,Jotun.Shop286@gmail.com,1234455,Al Khafji,28.452109,48.489242,,1,2,31-12-18,31-12-18,,,,,Al Khafji,,,Saudi Arabia,4
+HUSSAIN ALI M.ALI CONT.,31-12-18,241181,Jotun.Shop287@gmail.com,1234455,Dammam,26.47,50.05,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+SAAD AL-BADAR TRD. EST.,31-12-18,241507,Jotun.Shop288@gmail.com,1234455,Al Nairyah,27.47,48.47,,1,2,31-12-18,31-12-18,,,,,Al Nairyah,,,Saudi Arabia,4
+OPHIR FOR GENERAL CONTRACTING EST.,31-12-18,245302,Jotun.Shop289@gmail.com,1234455,Jubail,27.12,49.55,,1,2,31-12-18,31-12-18,,,,,Jubail,,,Saudi Arabia,4
+SALMAN ALI ALMUBARAK FOR PAINT,31-12-18,241501,Jotun.Shop290@gmail.com,1234455,Dammam,26.36,50.08,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+Saud Al Harbi Est.,31-12-18,274509,Jotun.Shop291@gmail.com,1234455,Jubail,27.01,49.65,,1,2,31-12-18,31-12-18,,,,,Jubail,,,Saudi Arabia,4
+JUBAIL CORPORATION TRD. EST.,31-12-18,241447,Jotun.Shop292@gmail.com,1234455,Jubail,26.99,49.66,,1,2,31-12-18,31-12-18,,,,,Jubail,,,Saudi Arabia,4
+Dorrah Sanam Genral Contracting,31-12-18,278381,Jotun.Shop293@gmail.com,1234455,Dammam,26.391719,50.091945,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+High Wave Commercial Est,31-12-18,303721,Jotun.Shop294@gmail.com,1234455,Jubail,27.00761,49.654949,,1,2,31-12-18,31-12-18,,,,,Jubail,,,Saudi Arabia,4
+MEESAQ AL TAHDI GEN.CONTRACTING,31-12-18,280123,Jotun.Shop295@gmail.com,1234455,Jubail,26.991916,49.656949,,1,2,31-12-18,31-12-18,,,,,Jubail,,,Saudi Arabia,4
+Bint Al Waadi Est ,31-12-18,302625,Jotun.Shop296@gmail.com,1234455,Dammam,26.444008,50.111324,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+NASSER A AL-HAWASHI EST.,31-12-18,241240,Jotun.Shop297@gmail.com,1234455,Ras Tanurah,26.71,50.06,,1,2,31-12-18,31-12-18,,,,,Ras Tanurah,,,Saudi Arabia,4
+NASSER A AL-HAWASHI EST.,31-12-18,241240,Jotun.Shop298@gmail.com,1234455,Ras Tanurah,26.72,50.07,,1,2,31-12-18,31-12-18,,,,,Ras Tanurah,,,Saudi Arabia,4
+NASSER A AL-HAWASHI EST.,31-12-18,241240,Jotun.Shop299@gmail.com,1234455,Al Jish,26.512445,49.974959,,1,2,31-12-18,31-12-18,,,,,Al Jish,,,Saudi Arabia,4
+SAID AID AL GARNI TRADING EST.,31-12-18,241194,Jotun.Shop300@gmail.com,1234455,Raka,26.36,50.2,,1,2,31-12-18,31-12-18,,,,,Raka,,,Saudi Arabia,4
+ZUHAIR A. H. AL-MUJJADEDI TRD. AKRABIYA,31-12-18,241206,Jotun.Shop301@gmail.com,1234455,Al Khobar,26.3,50.19,,1,2,31-12-18,31-12-18,,,,,Al Khobar,,,Saudi Arabia,4
+ZUHAIR A. H. AL-MUJJADEDI TRD. AKRABIYA,31-12-18,241206,Jotun.Shop302@gmail.com,1234455,Al Khobar,26.21,50.21,,1,2,31-12-18,31-12-18,,,,,Al Khobar,,,Saudi Arabia,4
+ZUHAIR A. H. AL-MUJJADEDI TRD. AKRABIYA,31-12-18,241206,Jotun.Shop303@gmail.com,1234455,Al Khobar,26.28,50.21,,1,2,31-12-18,31-12-18,,,,,Al Khobar,,,Saudi Arabia,4
+ZUHAIR A. H. AL-MUJJADEDI TRD. AKRABIYA,31-12-18,241206,Jotun.Shop304@gmail.com,1234455,Al Khobar,26.3,50.22,,1,2,31-12-18,31-12-18,,,,,Al Khobar,,,Saudi Arabia,4
+ZUHAIR A. H. AL-MUJJADEDI TRD. AKRABIYA,31-12-18,241206,Jotun.Shop305@gmail.com,1234455,Dammam,26.21,50.19,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+ZUHAIR A. H. AL-MUJJADEDI TRD. AKRABIYA,31-12-18,241206,Jotun.Shop306@gmail.com,1234455,Al Khobar,26.28,50.2,,1,2,31-12-18,31-12-18,,,,,Al Khobar,,,Saudi Arabia,4
+ZUHAIR A. H. AL-MUJJADEDI TRD. AKRABIYA,31-12-18,241206,Jotun.Shop307@gmail.com,1234455,Daharan,26.18092,50.183605,,1,2,31-12-18,31-12-18,,,,,Daharan,,,Saudi Arabia,4
+MILFI FOHAID ALDOSSARY TRD EST.,31-12-18,241438,Jotun.Shop308@gmail.com,1234455,Abqaiq,25.93,49.66,,1,2,31-12-18,31-12-18,,,,,Abqaiq,,,Saudi Arabia,4
+HASSAN SAAD AL RAJEH TRD. EST.,31-12-18,241451,Jotun.Shop309@gmail.com,1234455,Dammam,26.65,49.92,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+MODERN EXECUTION GATE GENERAL CONT. EST.,31-12-18,253359,Jotun.Shop310@gmail.com,1234455,Al Khobar,26.15,50.14,,1,2,31-12-18,31-12-18,,,,,Al Khobar,,,Saudi Arabia,4
+MOSSA A. AL-HUSSIAN EST.,31-12-18,241174,Jotun.Shop311@gmail.com,1234455,Dammam,26.42,50.07,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+NAIF SULAIMAN AL AROUJ CONT EST.,31-12-18,241492,Jotun.Shop312@gmail.com,1234455,Dammam,26.37,50.12,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+NOOR AL SANA EST. GENERAL CONTRACTING,31-12-18,247284,Jotun.Shop313@gmail.com,1234455,Al Qatif,26.56,50.06,,1,2,31-12-18,31-12-18,,,,,Al Qatif,,,Saudi Arabia,4
+NOOR AL SANA EST. GENERAL CONTRACTING,31-12-18,247284,Jotun.Shop314@gmail.com,1234455,Dammam,26.45,50.08,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+NOOR AL SANA EST. GENERAL CONTRACTING,31-12-18,247284,Jotun.Shop315@gmail.com,1234455,Anak,26.52,50.03,,1,2,31-12-18,31-12-18,,,,,Anak,,,Saudi Arabia,4
+NOOR AL SANA EST. GENERAL CONTRACTING,31-12-18,247284,Jotun.Shop316@gmail.com,1234455,Dammam,26.414867,50.030262,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+RAED M ALI AL-SAFFAR TRD EST.,31-12-18,241243,Jotun.Shop317@gmail.com,1234455,Al Qatif,26.57,50.05,,1,2,31-12-18,31-12-18,,,,,Al Qatif,,,Saudi Arabia,4
+RAED M ALI AL-SAFFAR TRD EST.,31-12-18,241243,Jotun.Shop318@gmail.com,1234455,Saihat,26.488197,50.03347,,1,2,31-12-18,31-12-18,,,,,Saihat,,,Saudi Arabia,4
+RAED M ALI AL-SAFFAR TRD EST.,31-12-18,241243,Jotun.Shop319@gmail.com,1234455,Al Qatif,26.560384,50.002273,,1,2,31-12-18,31-12-18,,,,,Al Qatif,,,Saudi Arabia,4
+Sana Star,31-12-18,278508,Jotun.Shop320@gmail.com,1234455,Dammam,26.44,50.1,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+Sana Star,31-12-18,278508,Jotun.Shop321@gmail.com,1234455,Dammam,26.443586,50.091804,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+TAREK AL SHIMMARI,31-12-18,248338,Jotun.Shop322@gmail.com,1234455,Dammam,26.378815,50.058922,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+TAREK AL SHIMMARI,31-12-18,248338,Jotun.Shop323@gmail.com,1234455,Dammam,26.38,50.05,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+ABDUL WAHID MOIS TRD. EST.,31-12-18,241461,Jotun.Shop324@gmail.com,1234455,Dammam,26.52,50,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+First Source Solution,31-12-18,308920,Jotun.Shop325@gmail.com,1234455,Dammam,26.460928,50.092239,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+HUSSAIN ABDUL-HAMID AL-MARHOUN EST.,31-12-18,259774,Jotun.Shop326@gmail.com,1234455,Al Qatif,26.05,50,,1,2,31-12-18,31-12-18,,,,,Al Qatif,,,Saudi Arabia,4
+HUSSAIN HAMAD AL AMEER EST.,31-12-18,241157,Jotun.Shop327@gmail.com,1234455,SAYHAT,26.47,50.05,,1,2,31-12-18,31-12-18,,,,,SAYHAT,,,Saudi Arabia,4
+MOHAMMAD A.ALLUWIM TRADING EST.,31-12-18,241233,Jotun.Shop328@gmail.com,1234455,Dammam,26.46,50.06,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+MOHAMMED ABD.ALKHATER TRD EST.,31-12-18,241454,Jotun.Shop329@gmail.com,1234455,Dammam,26.43,50.11,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+Raid Abdulrahman Al-Ruzaihan Est. ,31-12-18,276170,Jotun.Shop330@gmail.com,1234455,Dammam,26.379507,50.103904,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+SHADDAN TRADING EST. ,31-12-18,241166,Jotun.Shop331@gmail.com,1234455,Dammam,26.42,50.02,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+STYLE & ART EST.,31-12-18,241241,Jotun.Shop332@gmail.com,1234455,Dammam,26.4,50.1,,1,2,31-12-18,31-12-18,,,,,Dammam,,,Saudi Arabia,4
+MAKI ALI ABU FOR EST.,31-12-18,241193,Jotun.Shop333@gmail.com,1234455,Al Qatif,26.55,50.01,,1,2,31-12-18,31-12-18,,,,,Al Qatif,,,Saudi Arabia,4
+Saied Fahd Al Hajri Est . ,31-12-18,279178,Jotun.Shop334@gmail.com,1234455,Safwa,26.651636,49.956539,,1,2,31-12-18,31-12-18,,,,,Safwa,,,Saudi Arabia,4
+MOOSA TURKI AL MOWAIS CONT.& DÉCOR,31-12-18,282455,Jotun.Shop335@gmail.com,1234455,Al Qatif,26.518467,50.003971,,1,2,31-12-18,31-12-18,,,,,Al Qatif,,,Saudi Arabia,4
+AL MANAL AL RAFEE EST.,31-12-18,272787,Jotun.Shop336@gmail.com,1234455,Madinah,24.410934,39.588383,,1,2,31-12-18,31-12-18,,,,,Madinah,,,Saudi Arabia,5
+AL-BALWI EST.,31-12-18,241381,Jotun.Shop337@gmail.com,1234455,Alula,23.776055,38.794498,,1,2,31-12-18,31-12-18,,,,,Alula,,,Saudi Arabia,5
+ANAS EST.,31-12-18,273659,Jotun.Shop338@gmail.com,1234455,Madinah,24.445053,39.648544,,1,2,31-12-18,31-12-18,,,,,Madinah,,,Saudi Arabia,5
+MAHER JABR AL-JUHANI,31-12-18,267894,Jotun.Shop339@gmail.com,1234455,Madinah,24.389523,39.625591,,1,2,31-12-18,31-12-18,,,,,Madinah,,,Saudi Arabia,5
+MOHAMED Refaa EST,31-12-18,266870,Jotun.Shop340@gmail.com,1234455,Mahd Al Thahab,23.501117,40.880065,,1,2,31-12-18,31-12-18,,,,,Mahd Al Thahab,,,Saudi Arabia,5
+NASIR JARALLAH F.ALM0ZAINI EST.MADINAH ,31-12-18,254038,Jotun.Shop341@gmail.com,1234455,Madinah,24.466673,39.600572,,1,2,31-12-18,31-12-18,,,,,Madinah,,,Saudi Arabia,5
+RASMI HAMOUD AL JEHANI EST,31-12-18,241386,Jotun.Shop342@gmail.com,1234455,Madinah,24.451797,39.506664,,1,2,31-12-18,31-12-18,,,,,Madinah,,,Saudi Arabia,5
+TAJ TAHAIBA EST,31-12-18,241085,Jotun.Shop343@gmail.com,1234455,Madinah,24.495634,39.608515,,1,2,31-12-18,31-12-18,,,,,Madinah,,,Saudi Arabia,5
+TAJ TAHAIBA EST,31-12-18,248606,Jotun.Shop344@gmail.com,1234455,Madinah,24.451507,39.509301,,1,2,31-12-18,31-12-18,,,,,Madinah,,,Saudi Arabia,5
+Zayid Al-Harbi Est.,31-12-18,251415,Jotun.Shop345@gmail.com,1234455,Madinah,24.415616,39.591204,,1,2,31-12-18,31-12-18,,,,,Madinah,,,Saudi Arabia,5
+Abdulaziz Aljohani,31-12-18,311017,Jotun.Shop346@gmail.com,1234455,Madinah,24.386675,39.524077,,1,2,31-12-18,31-12-18,,,,,Madinah,,,Saudi Arabia,5
+AL-ZAWRAK CONTRACTING EST,31-12-18,280856,Jotun.Shop347@gmail.com,1234455,Madinah,24.495792,39.699936,,1,2,31-12-18,31-12-18,,,,,Madinah,,,Saudi Arabia,5
+Omran Taiba ,31-12-18,289380,Jotun.Shop348@gmail.com,1234455,Madinah,24.419739,39.625683,,1,2,31-12-18,31-12-18,,,,,Madinah,,,Saudi Arabia,5
+Naesh Alharbi Est.,31-12-18,282354,Jotun.Shop349@gmail.com,1234455,Madinah,24.860554,40.497715,,1,2,31-12-18,31-12-18,,,,,Madinah,,,Saudi Arabia,5
+"OMAR BEN MOHAMMED AMAN AL-GAMY EST.
+(Shop name Jannath Al Alwan)",31-12-18,241093,Jotun.Shop350@gmail.com,1234455,Madina,24.47792,39.64755,,1,2,31-12-18,31-12-18,,,,,Madina,,,Saudi Arabia,5
+Ali Abdurrahman Aljohani,31-12-18,305090,Jotun.Shop351@gmail.com,1234455,Madina,24.479193,39.583871,,1,2,31-12-18,31-12-18,,,,,Madina,,,Saudi Arabia,5
+ABDULLAH ABDUL RAHMAN AL SOBHI,31-12-18,241387,Jotun.Shop352@gmail.com,1234455,Duba,27.358161,35.690445,,1,2,31-12-18,31-12-18,,,,,Duba,,,Saudi Arabia,5
+Medina Al Tameer,31-12-18,308322,Jotun.Shop353@gmail.com,1234455,Tabuk,28.393213,36.573971,,1,2,31-12-18,31-12-18,,,,,Tabuk,,,Saudi Arabia,5
+AL AUD AL THAHABI EST. TRADING,31-12-18,241525,Jotun.Shop354@gmail.com,1234455,Al Wajh,26.23328,36.457508,,1,2,31-12-18,31-12-18,,,,,Al Wajh,,,Saudi Arabia,5
+BALDKOM EST,31-12-18,253208,Jotun.Shop355@gmail.com,1234455,Gurayat,31.336649,37.345948,,1,2,31-12-18,31-12-18,,,,,Gurayat,,,Saudi Arabia,5
+DAR ATLAS EST.,31-12-18,241385,Jotun.Shop356@gmail.com,1234455,Tabuk,28.402706,36.558651,,1,2,31-12-18,31-12-18,,,,,Tabuk,,,Saudi Arabia,5
+FAN AL-MALAAB EST.,31-12-18,264458,Jotun.Shop357@gmail.com,1234455,Sakaka,29.97087,40.215454,,1,2,31-12-18,31-12-18,,,,,Sakaka,,,Saudi Arabia,5
+Khaled Fehed Al-Bishi Est,31-12-18,282323,Jotun.Shop358@gmail.com,1234455,Tabuk,28.361614,36.524599,,1,2,31-12-18,31-12-18,,,,,Tabuk,,,Saudi Arabia,5
+Khaled Fehed Al-Bishi Est,31-12-18,282323,Jotun.Shop359@gmail.com,1234455,Tabuk,28.398474,36.565453,,1,2,31-12-18,31-12-18,,,,,Tabuk,,,Saudi Arabia,5
+KHALID OWAID AL SHARARI EST.,31-12-18,240969,Jotun.Shop360@gmail.com,1234455,Tabarjal,30.49349,38.221649,,1,2,31-12-18,31-12-18,,,,,Tabarjal,,,Saudi Arabia,5
+Nagi Al-Refai Est,31-12-18,298774,Jotun.Shop361@gmail.com,1234455,Umluj,25.03755,37.265645,,1,2,31-12-18,31-12-18,,,,,Umluj,,,Saudi Arabia,5
+DUNNYA AL INSHAAT EST,31-12-18,242143,Jotun.Shop362@gmail.com,1234455,Tabuk,28.421944,36.564747,,1,2,31-12-18,31-12-18,,,,,Tabuk,,,Saudi Arabia,5
+SHADDAN TRADING CO. ,31-12-18,271017,Jotun.Shop363@gmail.com,1234455,Turaif,31.663961,38.648687,,1,2,31-12-18,31-12-18,,,,,Turaif,,,Saudi Arabia,5
+Hammad Hamoud AL JUMAID CONT.EST. ,31-12-18,241105,Jotun.Shop364@gmail.com,1234455,Sakakah,29.949274,40.19444,,1,2,31-12-18,31-12-18,,,,,Sakakah,,,Saudi Arabia,5
+Hammad Hamoud AL JUMAID CONT.EST. ,31-12-18,241105,Jotun.Shop365@gmail.com,1234455,Dumah Al Jandal,29.811063,39.853994,,1,2,31-12-18,31-12-18,,,,,Dumah Al Jandal,,,Saudi Arabia,5
+BUSHRAA AL ENEZI EST,31-12-18,288480,Jotun.Shop366@gmail.com,1234455,Tayma,27.61174,38.548721,,1,2,31-12-18,31-12-18,,,,,Tayma,,,Saudi Arabia,5
+HAMEED ALI ABDUL RAHEEM,31-12-18,241516,Jotun.Shop367@gmail.com,1234455,Yanbu,24.105556,38.062896,,1,2,31-12-18,31-12-18,,,,,Yanbu,,,Saudi Arabia,5
+HAMEED ALI ABDUL RAHEEM,31-12-18,241516,Jotun.Shop368@gmail.com,1234455,Yanbu,24.0837,38.051236,,1,2,31-12-18,31-12-18,,,,,Yanbu,,,Saudi Arabia,5
+HAMEED ALI ABDUL RAHEEM,31-12-18,241516,Jotun.Shop369@gmail.com,1234455,Badr,23.776062,38.794353,,1,2,31-12-18,31-12-18,,,,,Badr,,,Saudi Arabia,5
+HAMEED ALI ABDUL RAHEEM,31-12-18,241516,Jotun.Shop370@gmail.com,1234455,Yanbu,24.076064,38.100826,,1,2,31-12-18,31-12-18,,,,,Yanbu,,,Saudi Arabia,5
+HAMEED ALI ABDUL RAHEEM,31-12-18,241516,Jotun.Shop371@gmail.com,1234455,Yanbu,24.01417,38.193031,,1,2,31-12-18,31-12-18,,,,,Yanbu,,,Saudi Arabia,5
+HAMEED ALI ABDUL RAHEEM,31-12-18,241516,Jotun.Shop372@gmail.com,1234455,Yanbu,24.095085,38.027481,,1,2,31-12-18,31-12-18,,,,,Yanbu,,,Saudi Arabia,5
+Dolvien Al-Dahabi Est. ,31-12-18,274896,Jotun.Shop373@gmail.com,1234455,Yanbu,24.109647,38.053028,,1,2,31-12-18,31-12-18,,,,,Yanbu,,,Saudi Arabia,5
+Dolvien Al-Dahabi Est. ,31-12-18,274896,Jotun.Shop374@gmail.com,1234455,Yanbu,24.087635,38.062663,,1,2,31-12-18,31-12-18,,,,,Yanbu,,,Saudi Arabia,5
+Dolvien Al-Dahabi Est. ,31-12-18,274896,Jotun.Shop375@gmail.com,1234455,Yanbu,24.069441,38.116093,,1,2,31-12-18,31-12-18,,,,,Yanbu,,,Saudi Arabia,5
+Dolvien Al-Dahabi Est. ,31-12-18,274896,Jotun.Shop376@gmail.com,1234455,Yanbu,24.126162,38.010348,,1,2,31-12-18,31-12-18,,,,,Yanbu,,,Saudi Arabia,5
+AAMAL ALSATEH CONT. EST.,31-12-18,241396,Jotun.Shop377@gmail.com,1234455,Al-Darb,17.722925,42.242119,,1,2,31-12-18,31-12-18,,,,,Al-Darb,,,Saudi Arabia,2
+AAMAL ALSATEH CONT. EST.,31-12-18,241396,Jotun.Shop378@gmail.com,1234455,Al-Wadeen,18.093557,42.807808,,1,2,31-12-18,31-12-18,,,,,Al-Wadeen,,,Saudi Arabia,2
+ALI ASBAN KHATANI TRD. EST.,31-12-18,241017,Jotun.Shop379@gmail.com,1234455,Khamis Mushit,18.297281,42.729652,,1,2,31-12-18,31-12-18,,,,,Khamis Mushit,,,Saudi Arabia,2
+ALI ASBAN KHATANI TRD. EST.,31-12-18,241017,Jotun.Shop380@gmail.com,1234455,Sarat Ubaidah,18.084442,43.14305,,1,2,31-12-18,31-12-18,,,,,Sarat Ubaidah,,,Saudi Arabia,2
+ALI ASBAN KHATANI TRD. EST.,31-12-18,241017,Jotun.Shop381@gmail.com,1234455,Khamis Mushit,18.211499,42.812268,,1,2,31-12-18,31-12-18,,,,,Khamis Mushit,,,Saudi Arabia,2
+ALI ASBAN KHATANI TRD. EST.,31-12-18,241017,Jotun.Shop382@gmail.com,1234455,Khamis Mushit,18.297747,42.70401,,1,2,31-12-18,31-12-18,,,,,Khamis Mushit,,,Saudi Arabia,2
+EAGLE INTERNATIONAL  (ABHA),31-12-18,241098,Jotun.Shop383@gmail.com,1234455,Abha,18.23568,42.589561,,1,2,31-12-18,31-12-18,,,,,Abha,,,Saudi Arabia,2
+EAGLE INTERNATIONAL  (ABHA),31-12-18,241098,Jotun.Shop384@gmail.com,1234455,Abha,18.215472,42.509222,,1,2,31-12-18,31-12-18,,,,,Abha,,,Saudi Arabia,2
+EAGLE INTERNATIONAL  (ABHA),31-12-18,241098,Jotun.Shop385@gmail.com,1234455,Abha,18.212184,42.493496,,1,2,31-12-18,31-12-18,,,,,Abha,,,Saudi Arabia,2
+SAFAR SAUD AL OTHEEBY EST.,31-12-18,241401,Jotun.Shop386@gmail.com,1234455,Jizan,16.896817,42.55152,,1,2,31-12-18,31-12-18,,,,,Jizan,,,Saudi Arabia,2
+SAFAR SAUD AL OTHEEBY EST.,31-12-18,241401,Jotun.Shop387@gmail.com,1234455,Sabya,17.149241,42.63812,,1,2,31-12-18,31-12-18,,,,,Sabya,,,Saudi Arabia,2
+SAFAR SAUD AL OTHEEBY EST.,31-12-18,241401,Jotun.Shop388@gmail.com,1234455,Samtah,16.601857,42.935415,,1,2,31-12-18,31-12-18,,,,,Samtah,,,Saudi Arabia,2
+SAFAR SAUD AL OTHEEBY EST.,31-12-18,241401,Jotun.Shop389@gmail.com,1234455,Abu Arish,16.966917,42.838348,,1,2,31-12-18,31-12-18,,,,,Abu Arish,,,Saudi Arabia,2
+SAFAR SAUD AL OTHEEBY EST.,31-12-18,241401,Jotun.Shop390@gmail.com,1234455,Ahad Al Masarihah,16.708019,42.950928,,1,2,31-12-18,31-12-18,,,,,Ahad Al Masarihah,,,Saudi Arabia,2
+SAFAR SAUD AL OTHEEBY EST.,31-12-18,241401,Jotun.Shop391@gmail.com,1234455,Damad,17.112118,42.766533,,1,2,31-12-18,31-12-18,,,,,Damad,,,Saudi Arabia,2
+SAFAR SAUD AL OTHEEBY EST.,31-12-18,241401,Jotun.Shop392@gmail.com,1234455,Addayer,17.341951,43.143803,,1,2,31-12-18,31-12-18,,,,,Addayer,,,Saudi Arabia,2
+SAFAR SAUD AL OTHEEBY EST.,31-12-18,241401,Jotun.Shop393@gmail.com,1234455,Jizan,16.894857,42.581612,,1,2,31-12-18,31-12-18,,,,,Jizan,,,Saudi Arabia,2
+SAFAR SAUD AL OTHEEBY EST.,31-12-18,241401,Jotun.Shop394@gmail.com,1234455,Baish,17.36488,42.545607,,1,2,31-12-18,31-12-18,,,,,Baish,,,Saudi Arabia,2
+SAFAR SAUD AL OTHEEBY EST.,31-12-18,241401,Jotun.Shop395@gmail.com,1234455,AL ARDAH,17.029217,43.045414,,1,2,31-12-18,31-12-18,,,,,AL ARDAH,,,Saudi Arabia,2
+Njum Abha for cont. est ,31-12-18,271335,Jotun.Shop396@gmail.com,1234455,Tendaha,18.354481,42.824132,,1,2,31-12-18,31-12-18,,,,,Tendaha,,,Saudi Arabia,2
+Majed Ahmed Alassiri,31-12-18,282851,Jotun.Shop397@gmail.com,1234455,Tareeb,18.574057,43.208336,,1,2,31-12-18,31-12-18,,,,,Tareeb,,,Saudi Arabia,2
+Al Bashayer Saudi Company,31-12-18,241110,Jotun.Shop398@gmail.com,1234455,Bushaytah,19.591991,41.893627,,1,2,31-12-18,31-12-18,,,,,Bushaytah,,,Saudi Arabia,2
+Al Bashayer Saudi Company,31-12-18,241110,Jotun.Shop399@gmail.com,1234455,Sabt Alallayah,19.591734,41.962212,,1,2,31-12-18,31-12-18,,,,,Sabt Alallayah,,,Saudi Arabia,2
+Al Bashayer Saudi Company,31-12-18,241110,Jotun.Shop400@gmail.com,1234455,Al Bashayer,19.729845,41.920521,,1,2,31-12-18,31-12-18,,,,,Al Bashayer,,,Saudi Arabia,2
+Mohammed Abdullah Atef Al-Shehry est,31-12-18,240945,Jotun.Shop401@gmail.com,1234455,Almajaridah,19.11705,41.922062,,1,2,31-12-18,31-12-18,,,,,Almajaridah,,,Saudi Arabia,2
+Mohammed Abdullah Atef Al-Shehry est,31-12-18,240945,Jotun.Shop402@gmail.com,1234455,Mahyel Asser (Old Shop),18.549749,42.045593,,1,2,31-12-18,31-12-18,,,,,Mahyel Asser (Old Shop),,,Saudi Arabia,2
+Mohammed Abdullah Atef Al-Shehry est,31-12-18,240945,Jotun.Shop403@gmail.com,1234455,Bariq,18.934999,41.937637,,1,2,31-12-18,31-12-18,,,,,Bariq,,,Saudi Arabia,2
+Mohammed Abdullah Atef Al-Shehry est,31-12-18,240945,Jotun.Shop404@gmail.com,1234455,Namerah,19.575562,41.670605,,1,2,31-12-18,31-12-18,,,,,Namerah,,,Saudi Arabia,2
+Mohammed Abdullah Atef Al-Shehry est,31-12-18,240945,Jotun.Shop405@gmail.com,1234455,Mahyel Asser (New Shop),18.554377,42.041664,,1,2,31-12-18,31-12-18,,,,,Mahyel Asser (New Shop),,,Saudi Arabia,2
+FAIZ ATIF ABDEL RAHMAN SHAHRY,31-12-18,241397,Jotun.Shop406@gmail.com,1234455,Tanomah,18.935261,42.18726,,1,2,31-12-18,31-12-18,,,,,Tanomah,,,Saudi Arabia,2
+MOHAMMED ABDULLAH AL-MOHMADAI,31-12-18,241107,Jotun.Shop407@gmail.com,1234455,Alnaqee,20.249685,42.701214,,1,2,31-12-18,31-12-18,,,,,Alnaqee,,,Saudi Arabia,2
+MOHAMMED ABDULLAH AL-MOHMADAI,31-12-18,241107,Jotun.Shop408@gmail.com,1234455,Bisha,20.00798,42.612534,,1,2,31-12-18,31-12-18,,,,,Bisha,,,Saudi Arabia,2
+MOHAMMED ABDULLAH AL-MOHMADAI,31-12-18,241107,Jotun.Shop409@gmail.com,1234455,Bisha,19.998903,42.59383,,1,2,31-12-18,31-12-18,,,,,Bisha,,,Saudi Arabia,2
+DAHYAT HALBA CONT. EST. ,31-12-18,247414,Jotun.Shop410@gmail.com,1234455,Halaba,19.26932,42.0882,,1,2,31-12-18,31-12-18,,,,,Halaba,,,Saudi Arabia,2
+DAHYAT HALBA CONT. EST. ,31-12-18,247414,Jotun.Shop411@gmail.com,1234455,Bani Amr,19.383314,42.042816,,1,2,31-12-18,31-12-18,,,,,Bani Amr,,,Saudi Arabia,2
+DAHYAT HALBA CONT. EST. ,31-12-18,247414,Jotun.Shop412@gmail.com,1234455,Al Namas,19.140404,42.1217,,1,2,31-12-18,31-12-18,,,,,Al Namas,,,Saudi Arabia,2
+Naser Faiz Al-Hallaf est.,31-12-18,265295,Jotun.Shop413@gmail.com,1234455,Rania,21.260019,42.84462,,1,2,31-12-18,31-12-18,,,,,Rania,,,Saudi Arabia,2
+AL-JADEBYA AL-FADAIEA FOR TRADE EST,31-12-18,282260,Jotun.Shop414@gmail.com,1234455,Wadi Binhajbal,18.614115,42.679382,,1,2,31-12-18,31-12-18,,,,,Wadi Binhajbal,,,Saudi Arabia,2
+Ibrahim Musa Assery Est,31-12-18,276448,Jotun.Shop415@gmail.com,1234455,Khamis Al Bahar,18.3197,41.907009,,1,2,31-12-18,31-12-18,,,,,Khamis Al Bahar,,,Saudi Arabia,2
+Abdullah Hadi Al Muhsin,31-12-18,297365,Jotun.Shop416@gmail.com,1234455,Blhamr,18.63131,42.326977,,1,2,31-12-18,31-12-18,,,,,Blhamr,,,Saudi Arabia,2
+Khalid Mesfer  LASLOM CONTR. EST.,31-12-18,241108,Jotun.Shop417@gmail.com,1234455,Najran,17.542515,44.222301,,1,2,31-12-18,31-12-18,,,,,Najran,,,Saudi Arabia,2
+Khalid Mesfer  LASLOM CONTR. EST.,31-12-18,241108,Jotun.Shop418@gmail.com,1234455,Najran,17.568714,44.335295,,1,2,31-12-18,31-12-18,,,,,Najran,,,Saudi Arabia,2
+Khalid Mesfer  LASLOM CONTR. EST.,31-12-18,241108,Jotun.Shop419@gmail.com,1234455,Najran,17.507122,44.333542,,1,2,31-12-18,31-12-18,,,,,Najran,,,Saudi Arabia,2
+Khalid Mesfer  LASLOM CONTR. EST.,31-12-18,241108,Jotun.Shop420@gmail.com,1234455,Dhahran Al Janub,17.66803,43.508057,,1,2,31-12-18,31-12-18,,,,,Dhahran Al Janub,,,Saudi Arabia,2
+Khalid Mesfer  LASLOM CONTR. EST.,31-12-18,241108,Jotun.Shop421@gmail.com,1234455,Hubuna,17.850666,44.031406,,1,2,31-12-18,31-12-18,,,,,Hubuna,,,Saudi Arabia,2
+Khalid Mesfer  LASLOM CONTR. EST.,31-12-18,241108,Jotun.Shop422@gmail.com,1234455,Al Harajah,17.921093,43.369469,,1,2,31-12-18,31-12-18,,,,,Al Harajah,,,Saudi Arabia,2
+Khalid Mesfer  LASLOM CONTR. EST.,31-12-18,241108,Jotun.Shop423@gmail.com,1234455,Yadamah,18.526129,44.208042,,1,2,31-12-18,31-12-18,,,,,Yadamah,,,Saudi Arabia,2
+Khalid Mesfer  LASLOM CONTR. EST.,31-12-18,241108,Jotun.Shop424@gmail.com,1234455,Najran ,17.458523,44.121888,,1,2,31-12-18,31-12-18,,,,,Najran ,,,Saudi Arabia,2
+Khalid Mesfer  LASLOM CONTR. EST.,31-12-18,241108,Jotun.Shop425@gmail.com,1234455,Sharorah,17.49518,47.108192,,1,2,31-12-18,31-12-18,,,,,Sharorah,,,Saudi Arabia,2

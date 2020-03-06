@@ -1,0 +1,6 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-05-14 15:25:07 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Services' does not have a method 'index_get' /home/jotinksa/public_html/facilitator_dev/server/application/libraries/REST_Controller.php 805
+ERROR - 2019-05-14 15:25:07 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/jotinksa/public_html/facilitator_dev/server/application/core/This_Exceptions.php:87) /home/jotinksa/public_html/facilitator_dev/server/system/core/Common.php 573
+ERROR - 2019-05-14 18:27:31 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Services' does not have a method 'index_get' /home/jotinksa/public_html/facilitator_dev/server/application/libraries/REST_Controller.php 805
+ERROR - 2019-05-14 18:27:31 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/jotinksa/public_html/facilitator_dev/server/application/core/This_Exceptions.php:87) /home/jotinksa/public_html/facilitator_dev/server/system/core/Common.php 573

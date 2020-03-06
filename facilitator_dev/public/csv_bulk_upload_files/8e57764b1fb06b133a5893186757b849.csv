@@ -1,0 +1,461 @@
+name,last_evaluation,acc_no,email,phone,address,latitude,longitude,image,status,shop_type_id,created,modified,address_search,door_number,street_number,colony,distric,province,postal_code,country
+Attiah Al Rashdy-Thuwal-Near Cornish RD,42736,274879 - 1,,+966 599202501,Thuwal,22.291815,39.116554,,1,2,42736,42737,Near Cornish RD,,,,Thuwal,WP,,Saudi Arabia
+RAGHAD ALHAYAT-Rabigh-Al Farnisiyyah Ash Sharqiyyah,42736,285708 - 1,,+966 547005670,Rabigh,22.792473,39.042940,,1,2,42736,42737,Al Farnisiyyah Ash Sharqiyyah,,,,Rabigh,WP,,Saudi Arabia
+Bandar Owebed Obed Alghanmy-Rabigh-Rabigh,42736,283318 - 1,,+966 546362324,Rabigh,22.828716,39.035416,,1,2,42736,42737,Rabigh,,,,Rabigh,WP,,Saudi Arabia
+AL MIRZA -Makkah-Al-Azizia,42736,241090 - 3,,+966 556168572,Makkah,21.401771,39.877915,,1,2,42736,42737,Al-Azizia,,,,Makkah,WP,,Saudi Arabia
+AL MIRZA -Makkah-Al Masjid Al Haram RD,42736,241090 - 4,,+966 556168572,Makkah,21.401771,39.877915,,1,2,42736,42737,Al Masjid Al Haram RD,,,,Makkah,WP,,Saudi Arabia
+KINDA TRD-Makkah-Alshouqia Min RD,42736,241062 - 1,,+966 555395195,Makkah,21.369842,39.803655,,1,2,42736,42737,Alshouqia Min RD,,,,Makkah,WP,,Saudi Arabia
+SROUOH ALDEAFAH-Makkah-Al Hujoon ST,42736,241403 - 1,,+966 555510281,Makkah,21.442825,39.797746,,1,2,42736,42737,Al Hujoon ST,,,,Makkah,WP,,Saudi Arabia
+YASSER AL THEBITY-Makkah-Mabdah ST,42736,241851 - 3,,+966 501276061,Makkah,21.305527,39.271133,,1,2,42736,42737,Mabdah ST,,,,Makkah,WP,,Saudi Arabia
+ALRAED AL SHREQI-Makkah-Al Nazha,42736,270270- 1,,+966 555584705,Makkah,21.502529,39.763689,,1,2,42736,42737,Al Nazha,,,,Makkah,WP,,Saudi Arabia
+Abdul Lateef Asady-Makkah-Altneem ST (Bir Ghanam),42736,250460 - 1,,+966 544510644,Makkah,21.554377,39.77655,,1,2,42736,42737,Altneem ST (Bir Ghanam),,,,Makkah,WP,,Saudi Arabia
+Abdul Lateef Asady-Makkah-An Nawwariyyah,42736,250460 - 2,,+966 508607729,Makkah,21.559899,39.773047,,1,2,42736,42737,An Nawwariyyah,,,,Makkah,WP,,Saudi Arabia
+Yasir Al Homrani-Makkah-Um Almomeneen Aysha,42736,280838 - 1,,+966 501879342,Makkah,21.471766,39.791134,,1,2,42736,42737,Um Almomeneen Aysha,,,,Makkah,WP,,Saudi Arabia
+MUSSA ESSA BAQUAN-Makkah-Husain Sarhan,42736,258947 - 1,,+966 508727267,Makkah,21.45906,39.881395,,1,2,42736,42737,Husain Sarhan,,,,Makkah,WP,,Saudi Arabia
+FUAD ABDULMUTALIB ALSHARIF-Makkah-Khaliydiah ST,42736,241088 - 1,,+966 507479972,Makkah,21.389645,39.786804,,1,2,42736,42737,Khaliydiah ST,,,,Makkah,WP,,Saudi Arabia
+FUAD ABDULMUTALIB ALSHARIF-Makkah-Rabia ST,42736,241088 - 2,,+966 504590358,Makkah,21.402,39.771,,1,2,42736,42737,Rabia ST,,,,Makkah,WP,,Saudi Arabia
+Murad A.M.Jamjoom-Makkah-Radwa 3,42736,277911 - 1,,+966 534906010,Makkah,21.400003,39.744762,,1,2,42736,42737,Radwa 3,,,,Makkah,WP,,Saudi Arabia
+AHMED OTHMAN ABDULLAH BATOOQ-Makkah-Al  Husainiya,42736,272193 1 ,,+966 564049536,Makkah,21.351641,39.782411,,1,2,42736,42737,Al  Husainiya,,,,Makkah,WP,,Saudi Arabia
+AL SHUAIBI-Makkah-Al Rusaifa Dist.,42736,241001 - 1,,+966 505570912,Makkah,21.410185,39.788932,,1,2,42736,42737,Al Rusaifa Dist.,,,,Makkah,WP,,Saudi Arabia
+ARIF MARZOOKI KUTBI CONSTRUSTION-Makkah-Bhata Al Quresh Dist.,42736,245142 - 1,,+966 566110599,Makkah,21.409142,39.787193,,1,2,42736,42737,Bhata Al Quresh Dist.,,,,Makkah,WP,,Saudi Arabia
+ARIF MARZOOKI KUTBI CONSTRUSTION-Makkah-Alkhalidyah Dist.,42736,272093 - 1,,+966 538568361,Makkah,21.396835,39.798323,,1,2,42736,42737,Alkhalidyah Dist.,,,,Makkah,WP,,Saudi Arabia
+BAKAR ZARAH ABDUL DALI-Makkah-Awali Dist.,42736,240967 - 1,,+966 503530603,Makkah,21.359971,39.874966,,1,2,42736,42737,Awali Dist.,,,,Makkah,WP,,Saudi Arabia
+BAKAR ZARAH ABDUL DALI-Makkah-Madinah Al Munawarah RD,42736,240967 - 2,,+966 503530603,Makkah,21.529271,39.785827,,1,2,42736,42737,Madinah Al Munawarah RD,,,,Makkah,WP,,Saudi Arabia
+BAKAR ZARAH ABDUL DALI-Makkah-Al Hajj ST,42736,240967 - 3,,+966 503530603,Makkah,21.477088,39.842447,,1,2,42736,42737,Al Hajj ST,,,,Makkah,WP,,Saudi Arabia
+BAKAR ZARAH ABDUL DALI-Makkah-Al Hujoon ST,42736,240967 - 4,,+966 503530603,Makkah,21.439956,39.796779,,1,2,42736,42737,Al Hujoon ST,,,,Makkah,WP,,Saudi Arabia
+IBRAHIM HEMAIDAN ALHARBI -Makkah-Al Husainiah RD,42736,267963 - 1,,+966 502795268,Makkah,21.259302,39.938793,,1,2,42736,42737,Al Husainiah RD,,,,Makkah,WP,,Saudi Arabia
+LUJEEN COMMERCIAL GROUP-Makkah-Prince Naif Bin Abdulaziz RD ,42736,241086 - 1,,+966 515155510,Makkah,21.402017,39.705613,,1,2,42736,42737,Prince Naif Bin Abdulaziz RD ,,,,Makkah,WP,,Saudi Arabia
+LUJEEN COMMERCIAL GROUP-Makkah-Al Usaylah District,42736,249037 - 1,,+966 515155510,Makkah,21.498448, 39.881964,,1,2,42736,42737,Al Usaylah District,,,,Makkah,WP,,Saudi Arabia
+LUJEEN COMMERCIAL GROUP-Makkah-Faiha Dist,42736,245569 - 1,,+966 566947712,Makkah,21.448844,39.764254,,1,2,42736,42737,Faiha Dist,,,,Makkah,WP,,Saudi Arabia
+MAMLIKAT ALAM ALMABANI -Makkah-Al Mansur & Umm Al Qura RD,42736,240995 - 1,,+966 500091371,Makkah,21.423813,39.806959,,1,2,42736,42737,Al Mansur & Umm Al Qura RD,,,,Makkah,WP,,Saudi Arabia
+MAMLIKAT ALAM ALMABANI -Makkah-Al Masjid Al Haram RD,42736,240996 - 1,,+966 598745554,Makkah,21.403417 ,39.875889,,1,2,42736,42737,Al Masjid Al Haram RD,,,,Makkah,WP,,Saudi Arabia
+MOTAAB AL KABI-Makkah-Off King Faisal RD (Route 4029),42736,241109 - 1,,+966 504533852,Makkah,21.478523,39.998675,,1,2,42736,42737,Off King Faisal RD (Route 4029),,,,Makkah,WP,,Saudi Arabia
+MOTAAB AL KABI-Makkah-Saraya Dist,42736,241109 - 2,,+966 504533852,Makkah,21.47837,39.998957,,1,2,42736,42737,Saraya Dist,,,,Makkah,WP,,Saudi Arabia
+YAHYA ABDULLAH ASSIRI-Makkah-Wadi Jaleel,42736,273121 - 1,,+966 591000879,Makkah,21.467038,39.889540,,1,2,42736,42737,Wadi Jaleel,,,,Makkah,WP,,Saudi Arabia
+ALJAZIRA CONSTRUCTION & TRD-Makkah-Waly Al Ahd,42736,278285 - 1,,+966 554545512,Makkah,21.322787,39.682904,,1,2,42736,42737,Waly Al Ahd,,,,Makkah,WP,,Saudi Arabia
+Abdulsamad Mohammed Bahri-Makkah-Al - Umrah Aljadeed,42736,279736 - 1,,+966 559840020,Makkah,21.507873,39.762884,,1,2,42736,42737,Al - Umrah Aljadeed,,,,Makkah,WP,,Saudi Arabia
+Madd Al Janoub -Makkah-Al Buhayrat (Umm Almomeneen Aysha),42736,277695 - 1 ,,+966 536400779,Makkah,21.471583, 39.790833,,1,2,42736,42737,Al Buhayrat (Umm Almomeneen Aysha),,,,Makkah,WP,,Saudi Arabia
+Tala Al Shareef-Makkah-Al Qadisiyyah RD,42736,277062 - 1,,+966 555400566,Makkah,21.457402,39.954748,,1,2,42736,42737,Al Qadisiyyah RD,,,,Makkah,WP,,Saudi Arabia
+Wesam Alshiukh-Makkah-Amna Bint Wahab ST,42736,280238 - 1 ,,+966 537788600,Makkah,21.423519,39.771266,,1,2,42736,42737,Amna Bint Wahab ST,,,,Makkah,WP,,Saudi Arabia
+AL MIRZA -Madinah-Abu Khaythamah,42736,241090 - 6,,+966 531069887,Madinah,24.47073,39.630639,,1,2,42736,42737,Abu Khaythamah,,,,Madinah,WP,,Saudi Arabia
+AL MIRZA -Madinah-As Sih,42736,241090 - 7,,+966 555510620,Madinah,24.472118,39.596512,,1,2,42736,42737,As Sih,,,,Madinah,WP,,Saudi Arabia
+JANAT ALALWAN PAINTS-Madina-Prince Muqrin Ibn Abdulaziz,42736,241093 - 4,,+966 504640795,Madina,24.47792,39.64755,,1,2,42736,42737,Prince Muqrin Ibn Abdulaziz,,,,Madina,WP,,Saudi Arabia
+AL MIRZA -Jeddah-Makrona-Bawadi,42736,241090 - 1,,+966 548062065,Jeddah,21.6133558,39.1774173,,1,2,42736,42737,Makrona-Bawadi,,,,Jeddah,WP,,Saudi Arabia
+AL MIRZA -Jeddah-Madina  RD,42736,241090 - 2,,+966 555649300,Jeddah,21.576956,39.166731,,1,2,42736,42737,Madina  RD,,,,Jeddah,WP,,Saudi Arabia
+AL MIRZA -Jeddah-Al Basateen Dist (Madinah RD),42736,241090 - 5,,+966 565405280,Jeddah,21.673738,39.127306,,1,2,42736,42737,Al Basateen Dist (Madinah RD),,,,Jeddah,WP,,Saudi Arabia
+ARABIAN PAINT -Jeddah-King Fahad Roat (60th ST) ,42736,241075- 1,,+966 599903399,Jeddah,21.5839422,39.1765537,,1,2,42736,42737,King Fahad Roat (60th ST) ,,,,Jeddah,WP,,Saudi Arabia
+ARABIAN PAINT -Jeddah-Quraish ST,42736,241075- 2,,+966 599903399,Jeddah,21.594658,39.14899,,1,2,42736,42737,Quraish ST,,,,Jeddah,WP,,Saudi Arabia
+Mdain al Ajeab-Jeddah-AL dakhlia st al froz area ,42736,277180 - 1,,+966 531918490,Jeddah,21.847061,39.10178,,1,2,42736,42737,AL dakhlia st al froz area ,,,,Jeddah,WP,,Saudi Arabia
+KINDA TRADING-Jeddah-Makrona St,42736,241101 - 1,,+966 502256432,Jeddah,21.589797,39.186415,,1,2,42736,42737,Makrona St,,,,Jeddah,WP,,Saudi Arabia
+Abdullah Saeed Al Jehani-Jeddah-Al Mahjeer,42736,279915 - 1,,+966 533425228,Jeddah,21.455571,39.207532,,1,2,42736,42737,Al Mahjeer,,,,Jeddah,WP,,Saudi Arabia
+QASWAT ALEBDDAH -Jeddah-Waziriya Min Rd,42736,243702 - 1,,+966 561314091,Jeddah,21.449767,39.197867,,1,2,42736,42737,Waziriya Min Rd,,,,Jeddah,WP,,Saudi Arabia
+ABDULLAH OTHMAN SAEEDI -Jeddah-Khomra - Al Qryniah Dist (60th ST),42736,273624 - 1,,+966 501775274,Jeddah,21.30124383145,39.24678709409,,1,2,42736,42737,Khomra - Al Qryniah Dist (60th ST),,,,Jeddah,WP,,Saudi Arabia
+ABDULLAH OTHMAN SAEEDI-Jeddah-Khomra - Tamaneen ST (80th ST),42736,273624 - 2,,+966 501775274,Jeddah,21.304575,21.304575,,1,2,42736,42737,Khomra - Tamaneen ST (80th ST),,,,Jeddah,WP,,Saudi Arabia
+AL TEZAM JEDDAH -Jeddah-Shrafiyah,42736,248340 - 1,,+966 543109570,Jeddah,21.502762,39.189021,,1,2,42736,42737,Shrafiyah,,,,Jeddah,WP,,Saudi Arabia
+AL TEZAM JEDDAH -Jeddah-North Obher,42736,248340 - 2,,+966 543109570,Jeddah,21.796555,39.087383,,1,2,42736,42737,North Obher,,,,Jeddah,WP,,Saudi Arabia
+AL TEZAM JEDDAH -Jeddah-Amir Abdul Majeed RD,42736,241013 - 1,,+966 569451513,Jeddah,21.773903,39.091473,,1,2,42736,42737,Amir Abdul Majeed RD,,,,Jeddah,WP,,Saudi Arabia
+Bander Bin Rubain-Jeddah- Hara ST,42736,241408 - 1,,+966 530268142,Jeddah,21.620095,39.156271,,1,2,42736,42737, Hara ST,,,,Jeddah,WP,,Saudi Arabia
+Hameed Al Sanani-Jeddah-Prince Saud Al Faisal,42736,241066 - 1,,+966 506618888,Jeddah,21.56927417,39.18739831,,1,2,42736,42737,Prince Saud Al Faisal,,,,Jeddah,WP,,Saudi Arabia
+Taif Al Tamayoz-Jeddah-Asfan RD,42736,245366 - 1,,+966 569962244,Jeddah,21.931473,39.355979,,1,2,42736,42737,Asfan RD,,,,Jeddah,WP,,Saudi Arabia
+Taif Al Tamayoz-Jeddah-Asfan RD,42736,245366 - 2,,+966 569962244,Jeddah,21.845411,39.202185,,1,2,42736,42737,Asfan RD,,,,Jeddah,WP,,Saudi Arabia
+MUSFIRAH KHADRAD AL MALKI-Jeddah-Al Naeem Dist.,42736,262248 - 1,,+966 503611485,Jeddah,21.68211078,39.1194163,,1,2,42736,42737,Al Naeem Dist.,,,,Jeddah,WP,,Saudi Arabia
+OMAR BINMUTLALQ AL-RASHEDI-Jeddah-Hail ST,42736,240984 - 1,,+966 535340526,Jeddah,23.501117,40.880065,,1,2,42736,42737,Hail ST,,,,Jeddah,WP,,Saudi Arabia
+SAEED ABAS HASHIM AL MUHABI-Jeddah-Arabayeen (Marwa Dist),42736,258653 - 1,,+966 567760002,Jeddah,21.619149,39.19327241,,1,2,42736,42737,Arabayeen (Marwa Dist),,,,Jeddah,WP,,Saudi Arabia
+Abdullah Bin Abdullah Al Qahtani -Jeddah-Umayr Al Kuzai (Olaya Dist),42736,277844 - 1,,+966 555936641,Jeddah,21.748493,39.142238,,1,2,42736,42737,Umayr Al Kuzai (Olaya Dist),,,,Jeddah,WP,,Saudi Arabia
+YASSER AL THEBITY-Jeddah-Hamdaniyah 1,42736,241851 - 1,,+966 554998826,Jeddah,21.79241011,39.2001844,,1,2,42736,42737,Hamdaniyah 1,,,,Jeddah,WP,,Saudi Arabia
+YASSER AL THEBITY-Jeddah-Hamdaniyah 3,42736,241851 - 2,,+966 554998826,Jeddah,21.792466,39.200506,,1,2,42736,42737,Hamdaniyah 3,,,,Jeddah,WP,,Saudi Arabia
+YASSER AL THEBITY-Jeddah-Hamdaniyah 2,42736,241851 - 4,,+966 554998826,Jeddah,21.738823,39.192751,,1,2,42736,42737,Hamdaniyah 2,,,,Jeddah,WP,,Saudi Arabia
+YASSER AL THEBITY-Jeddah-Guwaiza,42736,248343 - 1,,+966 554998826,Jeddah,24.4971466,39.2951991,,1,2,42736,42737,Guwaiza,,,,Jeddah,WP,,Saudi Arabia
+MOHAMD AHMED BASAQAR-Jeddah-Bakhashab RD,42736,241048 - 1,,+966 536869673,Jeddah,21.482761,39.229602,,1,2,42736,42737,Bakhashab RD,,,,Jeddah,WP,,Saudi Arabia
+Wadi Murekh-Jeddah-Wadi Murekh,42736,277774 - 1,,+966 503654655,Jeddah,21.532518,39.288197,,1,2,42736,42737,Wadi Murekh,,,,Jeddah,WP,,Saudi Arabia
+AL-JOWEHER TRADING-Jeddah-Bin Laden St.,42736,240993 - 1,,+966 592828401,Jeddah,22.799584,39.036912,,1,2,42736,42737,Bin Laden St.,,,,Jeddah,WP,,Saudi Arabia
+Mohammed Hassan Al Harty-Jeddah-Jizan RD (Khumrah Dist),42736,266366 - 1,,+966 556658836,Jeddah,21.323719,39.261593,,1,2,42736,42737,Jizan RD (Khumrah Dist),,,,Jeddah,WP,,Saudi Arabia
+KHALID MUSTAFA SABER-Jeddah-Al Samer Dist,42736,241040 - 1,,+966 552356001,Jeddah,21.566120, 39.243038,,1,2,42736,42737,Al Samer Dist,,,,Jeddah,WP,,Saudi Arabia
+KHALID MUSTAFA SABER-Jeddah-Arbeen ST,42736,241040 - 2,,+966 564723908,Jeddah,21.579856,39.208581,,1,2,42736,42737,Arbeen ST,,,,Jeddah,WP,,Saudi Arabia
+SEDAR ESTR EST.OBHR JEDDAH.-Jeddah-Prince Naif ST,42736,250459 - 1,,+966 555423427,Jeddah,21.766622,39.091048,,1,2,42736,42737,Prince Naif ST,,,,Jeddah,WP,,Saudi Arabia
+First Saudi-Jeddah-Al Naseem Dist.,42736,241099 - 1,,+966 555666218,Jeddah,21.516862,39.223186,,1,2,42736,42737,Al Naseem Dist.,,,,Jeddah,WP,,Saudi Arabia
+Rapid Technical-Jeddah-Al Faiha Dist,42736,250165 - 1,,+966 504602251,Jeddah,21.496523,39.213338,,1,2,42736,42737,Al Faiha Dist,,,,Jeddah,WP,,Saudi Arabia
+Al Sawan Est-Jeddah-Madinah RD,42736,280237- 1,,+966 540884649,Jeddah,21.514236,39.181739,,1,2,42736,42737,Madinah RD,,,,Jeddah,WP,,Saudi Arabia
+AL TASAHEEL MODERN TRADING-Jeddah-King. Abdullah Stadium,42736,273215 - 1,,+966 540528959,Jeddah,21.749778,39.148649,,1,2,42736,42737,King. Abdullah Stadium,,,,Jeddah,WP,,Saudi Arabia
+AL WAHA GENERAL CONTRACTING-Jeddah-Al-Rehab Dist.,42736,261658 - 1,,+966 566940530,Jeddah,21.5473414,39.2288238,,1,2,42736,42737,Al-Rehab Dist.,,,,Jeddah,WP,,Saudi Arabia
+BASAER AL SAUDI-Jeddah-Bariman,42736,272192 - 1,,+966 507834014,Jeddah,21.652515,39.239719,,1,2,42736,42737,Bariman,,,,Jeddah,WP,,Saudi Arabia
+BAZARAH TRADING-Jeddah-Sari ST,42736,241084 - 1,,+966 504625826,Jeddah,21.578868,39.157636,,1,2,42736,42737,Sari ST,,,,Jeddah,WP,,Saudi Arabia
+KHALID BARIAN-Jeddah-Al Naeem Dist.,42736,272857 - 1,,+966 566408835,Jeddah,21.617375,39.149597,,1,2,42736,42737,Al Naeem Dist.,,,,Jeddah,WP,,Saudi Arabia
+KHALID BARIAN-Jeddah-Hera'a St.,42736,272857 - 2,,+966 566408835,Jeddah,21.611339 ,39.142452,,1,2,42736,42737,Hera'a St.,,,,Jeddah,WP,,Saudi Arabia
+Ultra Creativity Est. -Jeddah-Umm Al-Qara ST - Al Safa Dist.,42736,277315 - 1,,+966 564813869,Jeddah,21.595562,39.220498,,1,2,42736,42737,Umm Al-Qara ST - Al Safa Dist.,,,,Jeddah,WP,,Saudi Arabia
+MTD CO.FOR CONSTRUCTION-Jeddah-Marjan ST,42736,244344 - 1,,+966 555682606,Jeddah,21.696703,39.104781,,1,2,42736,42737,Marjan ST,,,,Jeddah,WP,,Saudi Arabia
+QASEM MOH'D AL-SALEH TRADING-Jeddah-Al Batarji St.,42736,241043 - 1,,+966 502567028,Jeddah,21.598356,39.123316,,1,2,42736,42737,Al Batarji St.,,,,Jeddah,WP,,Saudi Arabia
+WAFAQ AL-ALLMYAH-Jeddah-Hera'a St.,42736,240987 - 1,,+966 505601902,Jeddah,21.624313,39.209373,,1,2,42736,42737,Hera'a St.,,,,Jeddah,WP,,Saudi Arabia
+ZOHRA AL MATAR-Jeddah-Prince Majid ST,42736,251855 - 1,,+966 504597393,Jeddah,21.600846,39.191560,,1,2,42736,42737,Prince Majid ST,,,,Jeddah,WP,,Saudi Arabia
+Al Wafi Advanced-Jeddah-Madinah RD,42736,276291 - 1,,+966 549137810,Jeddah,21.53512743673 ,39.18358271,,1,2,42736,42737,Madinah RD,,,,Jeddah,WP,,Saudi Arabia
+ABDUL RAHMAN BATARFI-JEDDAH-Tahliya (Near Al Baik),42736,240961 - 1,,+966 597184212,JEDDAH,21.563482,39.209252,,1,2,42736,42737,Tahliya (Near Al Baik),,,,JEDDAH,WP,,Saudi Arabia
+ABDUL RAHMAN BATARFI-JEDDAH-King Abdulaziz RD - Mohamadiya,42736,240961 - 2,,+966 597184212,JEDDAH,21.686703,39.109624,,1,2,42736,42737,King Abdulaziz RD - Mohamadiya,,,,JEDDAH,WP,,Saudi Arabia
+AHMED A. JABEER ALSAYD-JEDDAH-Rehail ST,42736,241828 - 1,,+966 566450301,JEDDAH,21.798250,39.140335,,1,2,42736,42737,Rehail ST,,,,JEDDAH,WP,,Saudi Arabia
+AHMED A. JABEER ALSAYD-JEDDAH-Hira ST,42736,241828 - 2,,+966 551005228,JEDDAH,21.611715,39.144525,,1,2,42736,42737,Hira ST,,,,JEDDAH,WP,,Saudi Arabia
+AL REESHI-JEDDAH-Al Samer Dist.,42736,272371 - 1,,+966 505672419,JEDDAH,21.565033, 39.248264,,1,2,42736,42737,Al Samer Dist.,,,,JEDDAH,WP,,Saudi Arabia
+AL REESHI-JEDDAH-Al Samer Dist.,42736,272371 - 2,,+966 507537101,JEDDAH,21.565,39.248,,1,2,42736,42737,Al Samer Dist.,,,,JEDDAH,WP,,Saudi Arabia
+ALAM AL RUHAM AL HADITH-JEDDAH-King Fahd RD,42736,241095 - 1,,+966 551161511,JEDDAH,21.555252,39.188357,,1,2,42736,42737,King Fahd RD,,,,JEDDAH,WP,,Saudi Arabia
+ANWAR AL SHUHAB-JEDDAH-Al-Samir Dist. Jawad ST,42736,264937 - 1,,+966 581042660,JEDDAH,21.593027,39.237412,,1,2,42736,42737,Al-Samir Dist. Jawad ST,,,,JEDDAH,WP,,Saudi Arabia
+ANWAR AL SHUHAB-JEDDAH-Arbeen ST,42736,253391 - 1,,+966 581042660,JEDDAH,21.544149,39.216256,,1,2,42736,42737,Arbeen ST,,,,JEDDAH,WP,,Saudi Arabia
+ARCHITECTURAL EST. (ARWEST)-JEDDAH-Bani Malik,42736,241034 - 1,,+966 504996166,JEDDAH,21.798250,39.140335,,1,2,42736,42737,Bani Malik,,,,JEDDAH,WP,,Saudi Arabia
+ARCHITECTURAL EST. (ARWEST)-JEDDAH-Palesteen ST,42736,241034 - 2,,+966 504996166,JEDDAH,21.533301,39.199947,,1,2,42736,42737,Palesteen ST,,,,JEDDAH,WP,,Saudi Arabia
+FUAD ABDULMUTALIB ALSHARIF-JEDDAH-Iskan ST,42736,241083 - 1,,+966 507479972,JEDDAH,21.45575621919,39.21869736849,,1,2,42736,42737,Iskan ST,,,,JEDDAH,WP,,Saudi Arabia
+HUSSEIN SALEH ALAMOUDI-JEDDAH-Jamiyah ST,42736,241052 - 1,,+966 540995557,JEDDAH,21.473697,39.239064,,1,2,42736,42737,Jamiyah ST,,,,JEDDAH,WP,,Saudi Arabia
+JANAT ALALWAN PAINTS-JEDDAH-Amir fawaz Dist,42736,241093 - 1,,+966 505648398,JEDDAH,21.42831118357,39.29825499940,,1,2,42736,42737,Amir fawaz Dist,,,,JEDDAH,WP,,Saudi Arabia
+JANAT ALALWAN PAINTS-JEDDAH-Jawaid Dist,42736,241093 - 2,,+966 508011911,JEDDAH,21.40985051145,39.29755819893,,1,2,42736,42737,Jawaid Dist,,,,JEDDAH,WP,,Saudi Arabia
+JANAT ALALWAN PAINTS-JEDDAH-Kilo 14,42736,241093 - 3,,+966 560234601,JEDDAH,21.44765386847,39.30097167981,,1,2,42736,42737,Kilo 14,,,,JEDDAH,WP,,Saudi Arabia
+MOHAMED NASER AL SHAHRI-JEDDAH-Obher,42736,241053 - 1,,+966 591108804,JEDDAH,21.809743,39.06815,,1,2,42736,42737,Obher,,,,JEDDAH,WP,,Saudi Arabia
+MOHAMED NASER AL SHAHRI-JEDDAH-Al Sanabel,42736,241053 - 2,,+966 506664837,JEDDAH,21.39181939,39.29787029,,1,2,42736,42737,Al Sanabel,,,,JEDDAH,WP,,Saudi Arabia
+MOHAMED NASER AL SHAHRI-JEDDAH-Garnatha ST,42736,241053 - 3,,+966 591108804,JEDDAH,21.544935,39.193653,,1,2,42736,42737,Garnatha ST,,,,JEDDAH,WP,,Saudi Arabia
+Al AOON A.MAZ-Jeddah-Sanabel RD,42736,251266 - 1,,+966 500828662,Jeddah,21.409093,39.258737,,1,2,42736,42737,Sanabel RD,,,,Jeddah,WP,,Saudi Arabia
+Al AOON A.MAZ-Jeddah-Sanabel RD,42736,251266 - 2,,+966 500828663,Jeddah,21.400318,39.277180,,1,2,42736,42737,Sanabel RD,,,,Jeddah,WP,,Saudi Arabia
+Ismail Ashraf H.Alfarooq-JEDDAH-Hamdania,42736,276989 - 1,,+966 563779966,JEDDAH,21.762486,39.200318,,1,2,42736,42737,Hamdania,,,,JEDDAH,WP,,Saudi Arabia
+Hayat Al Alwan-JEDDAH-Prince Sultan ST,42736,260876 - 1,,+966  506664294,JEDDAH,21.661217,39.122578,,1,2,42736,42737,Prince Sultan ST,,,,JEDDAH,WP,,Saudi Arabia
+SADEEM AL KHAIR FOR CONTR. LTD.-JEDDAH-Aabir Al Qarath ST - Obhur,42736,240970 - 1,,+966 506366904,JEDDAH,21.7562133,39.120996,,1,2,42736,42737,Aabir Al Qarath ST - Obhur,,,,JEDDAH,WP,,Saudi Arabia
+SONS SHAFIQUE ABDULWAHID TUR-JEDDAH-Hira'a St.,42736,243663 - 1,,+966 556519246,JEDDAH,21.60791,39.128799,,1,2,42736,42737,Hira'a St.,,,,JEDDAH,WP,,Saudi Arabia
+WAFIKA SALEH AL ZARAD (Ramz Al Hijazi)-JEDDAH-Makrona ST,42736,240956 - 1,,+966 502469686,JEDDAH,21.55619331,39.19332603,,1,2,42736,42737,Makrona ST,,,,JEDDAH,WP,,Saudi Arabia
+Abdullah Babhair-Jeddah-Binladen ST,42736,241041 - 1,,+966 541219049,Jeddah,21.47293629278,39.26073930717,,1,2,42736,42737,Binladen ST,,,,Jeddah,WP,,Saudi Arabia
+Foud Mohammed Est. Al-Rashedi-JEDDAH-Haraj,42736,274960 - 1,,+966 599687541,JEDDAH,21.44350114069,39.25581947974,,1,2,42736,42737,Haraj,,,,JEDDAH,WP,,Saudi Arabia
+PAINTS THE MIDDE EAST-JEDDAH-Bahra,42736,262176 - 1,,+966 501528847,JEDDAH,21.4005123,39.4453142,,1,2,42736,42737,Bahra,,,,JEDDAH,WP,,Saudi Arabia
+PAINTS THE MIDDE EAST-JEDDAH-Mahmeed (Near Bahra),42736,262176 - 2,,+966 555783567,JEDDAH,21.45234734258,39.39148708286,,1,2,42736,42737,Mahmeed (Near Bahra),,,,JEDDAH,WP,,Saudi Arabia
+Al Futtaim-Jeddah-Madinah RD (Near Hira ST),42736,286987 - 1,,+966 556686575,Jeddah,21.618164 ,39.152172,,1,2,42736,42737,Madinah RD (Near Hira ST),,,,Jeddah,WP,,Saudi Arabia
+ABDULLAH OMAR BAGALF-Jeddah-Madinah RD,42736,240985 - 1,,+966 553376676,Jeddah,21.5714432,39.1684815,,1,2,42736,42737,Madinah RD,,,,Jeddah,WP,,Saudi Arabia
+YOUSAF HASHIM SUBHI-Jeddah-Khulais Dist,42736,248489 - 1,,+966 544241678,Jeddah,22.107283,39.3108880,,1,2,42736,42737,Khulais Dist,,,,Jeddah,WP,,Saudi Arabia
+YOUSAF HASHIM SUBHI-Jeddah-Asfan RD,42736,248489  - 2,,+966 544241678,Jeddah,21.931473,39.355979,,1,2,42736,42737,Asfan RD,,,,Jeddah,WP,,Saudi Arabia
+SALEH AL- SHATREE-Jeddah-Al Naeem Dist.,42736,241081 - 1,,+966 542444982,Jeddah,21.644141,39.142380,,1,2,42736,42737,Al Naeem Dist.,,,,Jeddah,WP,,Saudi Arabia
+ABDULLA AHMED AL NASHARY -Hally-Hally,42736,241059 - 3,,+966 504527642,Hally,18.764133,41.388821,,1,2,42736,42737,Hally,,,,Hally,WP,,Saudi Arabia
+SAEED ABDULLA AL OMARI-Gilwa-Main RD,42736,241089 - 2,,+966 500515772,Gilwa,19.939342,41.2542270,,1,2,42736,42737,Main RD,,,,Gilwa,WP,,Saudi Arabia
+ABDULLAH FARAG AL JADANI-Dahban- Dahban-Min Rd,42736,241067 - 1,,+966 551942933,Dahban,21.940361,39.122834,,1,2,42736,42737, Dahban-Min Rd,,,,Dahban,WP,,Saudi Arabia
+MAWTEN AL-EMAR-Baljurashi-Head RD ,42736,241106 - 3,,+966 508310793,Baljurashi,19.857485,41.579665,,1,2,42736,42737,Head RD ,,,,Baljurashi,WP,,Saudi Arabia
+MOHAMMED AL GAMDI-Baljurashi-King Abdulaziz RD,42736,240977 - 1,,+966 537284982,Baljurashi,19.872333,41.574353,,1,2,42736,42737,King Abdulaziz RD,,,,Baljurashi,WP,,Saudi Arabia
+TARIQ RAJAB HUSSAIN ALAHMADAIN  -Al Wasgah-Al Wasgah,42736,259314 - 1,,+966 567967762,Al Wasgah,19.983465,40.572983,,1,2,42736,42737,Al Wasgah,,,,Al Wasgah,WP,,Saudi Arabia
+HASSAN AL SAWAT-Al Ta'if-Hawaiy-Min RD,42736,241044 - 1,,+966 507687273,Al Ta'if,21.446598,40.502054,,1,2,42736,42737,Hawaiy-Min RD,,,,Al Ta'if,WP,,Saudi Arabia
+HASSAN AL SAWAT-Al Ta'if-Khurma,42736,241044 - 2,,+996 507687273,Al Ta'if,21.913279,42.02671,,1,2,42736,42737,Khurma,,,,Al Ta'if,WP,,Saudi Arabia
+HASSAN AL SAWAT-Al Ta'if-Jamiya District,42736,241044 - 3,,+966 507687273,Al Ta'if,21.268101,40.414447,,1,2,42736,42737,Jamiya District,,,,Al Ta'if,WP,,Saudi Arabia
+HASSAN AL SAWAT-Al Ta'if-Umm Aldoom,42736,241044 - 4,,+966 555099938,Al Ta'if,22.61097777597,41.34540136,,1,2,42736,42737,Umm Aldoom,,,,Al Ta'if,WP,,Saudi Arabia
+ABDULLA AHMED AL NASHARY -Al Qunfudhah-Al Qunfidhah,42736,241059 - 2,,+966 504527642,Al Qunfudhah,19.132303,41.081797,,1,2,42736,42737,Al Qunfidhah,,,,Al Qunfudhah,WP,,Saudi Arabia
+ABDULLA AHMED AL NASHARY -Al Qouz-Ahmed Abdullazeez RD,42736,241059 - 1,,+966 504527642,Al Qouz,18.970853,41.31968,,1,2,42736,42737,Ahmed Abdullazeez RD,,,,Al Qouz,WP,,Saudi Arabia
+ABDULLA AHMED AL NASHARY -Al Mudhaylif-Al Mudhaylif,42736,241059 - 4,,+966 504527642,Al Mudhaylif,19.524892,41.053423,,1,2,42736,42737,Al Mudhaylif,,,,Al Mudhaylif,WP,,Saudi Arabia
+MAWTEN AL-EMAR-Al Mandaq-Head RD ,42736,241106 - 4,,+966 508310793,Al Mandaq,20.144671,41.291194,,1,2,42736,42737,Head RD ,,,,Al Mandaq,WP,,Saudi Arabia
+SAEED ABDULLA AL OMARI-Al Makhwah-Alsok,42736,241089 - 1,,+966 500515772,Al Makhwah,19.788671,41.437645,,1,2,42736,42737,Alsok,,,,Al Makhwah,WP,,Saudi Arabia
+OMAR AL AMOUDI-Al Lith-Head RD ,42736,241050 - 1,,+966 508959553,Al Lith,20.151781,40.28084,,1,2,42736,42737,Head RD ,,,,Al Lith,WP,,Saudi Arabia
+KHALID M.M.AL BASHEERI-Al Jumum-Al Jumum - Hada RD,42736,240962 - 1,,+966 501879342,Al Jumum,21.625613 ,39.70396,,1,2,42736,42737,Al Jumum - Hada RD,,,,Al Jumum,WP,,Saudi Arabia
+MAWTEN AL-EMAR-Al Baha-Bni Sar RD ,42736,241106 - 1,,+966 508310793,Al Baha,20.080939,41.445042,,1,2,42736,42737,Bni Sar RD ,,,,Al Baha,WP,,Saudi Arabia
+MAWTEN AL-EMAR-Al Aqiq-Head RD ,42736,241106 - 2,,+966 508310793,Al Aqiq,20.26333,41.653863,,1,2,42736,42737,Head RD ,,,,Al Aqiq,WP,,Saudi Arabia
+ABDULLAH ALI-Adam-Adam,42736,262542 - 1,,+966 566550840,Adam,20.440903,40.877002,,1,2,42736,42737,Adam,,,,Adam,WP,,Saudi Arabia
+HAMEED ALI ABDUL RAHEEM-Yanbu- King Fahd RD ,42736,241516 - 1,,+966 545679046,Yanbu,24.105556 ,38.062896,,1,2,42736,42737, King Fahd RD ,,,,Yanbu,NP,,Saudi Arabia
+HAMEED ALI ABDUL RAHEEM-Yanbu-Omar Ibn Alkhattab,42736,241516 - 2,,+966 507686074,Yanbu,24.0837,38.051236,,1,2,42736,42737,Omar Ibn Alkhattab,,,,Yanbu,NP,,Saudi Arabia
+HAMEED ALI ABDUL RAHEEM-Yanbu-King Abdulaziz RD,42736,241516 - 4,,+966 541896745,Yanbu,24.079259,38.091536,,1,2,42736,42737,King Abdulaziz RD,,,,Yanbu,NP,,Saudi Arabia
+HAMEED ALI ABDUL RAHEEM-Yanbu-Hamza Ibn Abdul Muttalib RD ,42736,241516 - 5,,+966 508384489,Yanbu,24.014170, 38.193031,,1,2,42736,42737,Hamza Ibn Abdul Muttalib RD ,,,,Yanbu,NP,,Saudi Arabia
+HAMEED ALI ABDUL RAHEEM-Yanbu-Prince Muqrin Bin Abdulaziz,42736,241516 - 6,,+966 509397655,Yanbu,24.119743,38.049056,,1,2,42736,42737,Prince Muqrin Bin Abdulaziz,,,,Yanbu,NP,,Saudi Arabia
+Dolvien Al-Dahabi-Yanbu-King Khalid RD,42736,274896 - 1,,+966 556049352,Yanbu,24.109647,38.053028,,1,2,42736,42737,King Khalid RD,,,,Yanbu,NP,,Saudi Arabia
+Dolvien Al-Dahabi-Yanbu-Uthman Ibn Affan,42736,274896 - 2,,+966 556049352,Yanbu,24.0876351,38.0626634,,1,2,42736,42737,Uthman Ibn Affan,,,,Yanbu,NP,,Saudi Arabia
+Dolvien Al-Dahabi-Yanbu-King Abdulaziz RD,,274896 - 3,,+966 556049352,Yanbu,24.069441,38.116093,,,,,,King Abdulaziz RD,,,,Yanbu,NP,,Saudi Arabia
+BUSHRAA AL ENEZI-Yanbu-Taima,,288480 - 1,,+966 542772691,Yanbu,27.611740,38.548721,,,,,,Taima,,,,Yanbu,NP,,Saudi Arabia
+NADIA AHMED M.ASAALL-Umluj-King Saud ,,241389 - 1,,+966 543645214,Umluj,25.03755,37.265645,,,,,,King Saud ,,,,Umluj,NP,,Saudi Arabia
+SHADDAN TRADING  -Turaif-King Abdullah Bin Abdulaziz ST,,271017 - 2,,+966 550503130,Turaif,31.663961 ,38.648687,,,,,,King Abdullah Bin Abdulaziz ST,,,,Turaif,NP,,Saudi Arabia
+ABDULLAH AL-GAHTANI -Tabuk-King Saud RD ,,241435 - 1,,+966 530868618,Tabuk,28.393292,36.574713,,,,,,King Saud RD ,,,,Tabuk,NP,,Saudi Arabia
+DAR ATLAS -Tabuk-King Fahad RD,,241385 - 1,,+966 500274632,Tabuk,28.399403,36.529457,,,,,,King Fahad RD,,,,Tabuk,NP,,Saudi Arabia
+DAR ATLAS -Tabuk-King Saud RD,,241385 - 2,,+966 500274632,Tabuk,28.402706,36.558651,,,,,,King Saud RD,,,,Tabuk,NP,,Saudi Arabia
+Al Haitham Center-Tabuk-Prince Metaib ST,,282323 - 1,,+966 554595100,Tabuk,28.351225,36.529434,,,,,,Prince Metaib ST,,,,Tabuk,NP,,Saudi Arabia
+MANSOUR EID AL-ATAWI-Tabuk-Off King Khalid RD,,251411 -1 ,,+966 549985330,Tabuk,28.435209,36.521179,,,,,,Off King Khalid RD,,,,Tabuk,NP,,Saudi Arabia
+DUNNYA AL INSHAAT -Tabuk-Tabuk,,242143 - 1,,+966 562000014,Tabuk,28.421944,36.564747,,,,,,Tabuk,,,,Tabuk,NP,,Saudi Arabia
+KHALID OWAID AL SHARARI -Tabarjal-Near Islamabad Hotel Tubarjal,,240969 - 1,,+966 592200394,Tabarjal,30.493490,38.221649,,,,,,Near Islamabad Hotel Tubarjal,,,,Tabarjal,NP,,Saudi Arabia
+Hammad Hamoud AL JUMAID -Sakakah-King Fahad Ibn Abdulaziz RD,,241105 - 1,,+966 506556830,Sakakah,29.9492739,40.1944397,,,,,,King Fahad Ibn Abdulaziz RD,,,,Sakakah,NP,,Saudi Arabia
+FAN AL-MALAAB -Sakaka-King Fahad Ibn Abdulaziz RD,,264458 - 1,,+966 566676683,Sakaka,29.9708702,40.2154541,,,,,,King Fahad Ibn Abdulaziz RD,,,,Sakaka,NP,,Saudi Arabia
+MOHAMED Refaa -Mahd Al Thahab-Main RD,,266870 - 1,,+966 550328590,Mahd Al Thahab,23.501117,40.880065,,,,,,Main RD,,,,Mahd Al Thahab,NP,,Saudi Arabia
+Al Omaran Al- Araby-Madinah-Qurban,,271609 - 1,,+966 551213318,Madinah,24.0105,38.2631,,,,,,Qurban,,,,Madinah,NP,,Saudi Arabia
+AL MANAL AL RAFEE -Madinah-Prince Sultan Ibn Abdulaziz RD,, 272787 - 1,,+966 555302037,Madinah,24.410934,39.588383,,,,,,Prince Sultan Ibn Abdulaziz RD,,,,Madinah,NP,,Saudi Arabia
+AL SAMI ENTERPRISES-Madinah-As Sih RD ,,241532 - 1,,+966 506321642,Madinah,24.47852,39.595620,,,,,,As Sih RD ,,,,Madinah,NP,,Saudi Arabia
+ANAS EST.-Madinah-Ahijra RD ,,273659 - 1,,+966 590082153,Madinah,24.445053,39.648544,,,,,,Ahijra RD ,,,,Madinah,NP,,Saudi Arabia
+MAHER JABR AL-JUHANI-Madinah-Salahuddin Alayubi RD,,267894 - 1,,+966 590029000,Madinah,24.389523,39.625591,,,,,,Salahuddin Alayubi RD,,,,Madinah,NP,,Saudi Arabia
+MARZOOQ AL-SUBHI EST.AL-SALLAM-Madinah-Prince Naif Ibn Abdulaziz RD,,261043 - 1,,+966 553228917,Madinah,24.47503,39.549306,,,,,,Prince Naif Ibn Abdulaziz RD,,,,Madinah,NP,,Saudi Arabia
+NASIR JARALLAH F.ALM0ZAINI -Madinah-As Salam RD,,254038 - 1,,+966 541092020,Madinah,24.466673,39.600572,,,,,,As Salam RD,,,,Madinah,NP,,Saudi Arabia
+RASMI HAMOUD AL JEHANI  -Madinah-Al Imam Al Bukhari,,241386 - 1,,+966 543199705,Madinah,24.447335,39.675418,,,,,,Al Imam Al Bukhari,,,,Madinah,NP,,Saudi Arabia
+TAJ TAHAIBA -Madinah-King Abdullah RD ,,241085 - 1,,+966 532903873,Madinah,24.495634,39.608515,,,,,,King Abdullah RD ,,,,Madinah,NP,,Saudi Arabia
+TAJ TAHAIBA -Madinah-Al Imam Muslim,,248606 - 1,,+966 566599942,Madinah,24.451507,39.509301,,,,,,Al Imam Muslim,,,,Madinah,NP,,Saudi Arabia
+Zayid Al-Harbi -Madinah-Abu Alqasim Ibn Abdulmalik ,,251415 - 1,,+966 554353222,Madinah,24.415616,39.591204,,,,,,Abu Alqasim Ibn Abdulmalik ,,,,Madinah,NP,,Saudi Arabia
+Zayid Al-Harbi -Madinah-Aljamiath RD,,251415 - 2,,+966 554353222,Madinah,24.386675,39.524077,,,,,,Aljamiath RD,,,,Madinah,NP,,Saudi Arabia
+AL-ZAWRAK CONTRACTING -Madinah-30th ST Al Aqool,,280856 - 1,,+966 597568248,Madinah,24.495792,39.699936,,,,,,30th ST Al Aqool,,,,Madinah,NP,,Saudi Arabia
+Naesh Alharbi Est.-Madinah-Al Henakiyah,,282354 - 1,,+966 568904515,Madinah,24.860554,40.497715 ,,,,,,Al Henakiyah,,,,Madinah,NP,,Saudi Arabia
+BALDKOM EST GURAYIAT--Gurayat- King Abdullah RD ,,253208 - 1,,+966 555152973,Gurayat,31.336649,37.345948,,,,,, King Abdullah RD ,,,,Gurayat,NP,,Saudi Arabia
+Hammad Hamoud AL JUMAID  -Dumah Al Jandal-King Fahd RD,,241105 - 2,,+966 540250491,Dumah Al Jandal,29.811063 ,39.853994,,,,,,King Fahd RD,,,,Dumah Al Jandal,NP,,Saudi Arabia
+ABDULLAH ABDUL RAHMAN AL SOBHI-Duba-King Abdullah,,241387 - 1,,+966 544052957,Duba,27.358161, 35.690445,,,,,,King Abdullah,,,,Duba,NP,,Saudi Arabia
+HAMEED ALI ABDUL RAHEEM-Badr-King Fahad RD ,,241516 - 3,,+966 503145302,Badr,23.776062,38.794353,,,,,,King Fahad RD ,,,,Badr,NP,,Saudi Arabia
+SHADDAN TRADING-Arar-Prince Fahad Bin Jalawi RD,,271017 - 1,,+966 530238796,Arar,30.962110,41.045415,,,,,,Prince Fahad Bin Jalawi RD,,,,Arar,NP,,Saudi Arabia
+AL-BALWI -Alula-King Faisal RD ,, 241381 - 1,,+966 557956878,Alula,23.776055,38.794498,,,,,,King Faisal RD ,,,,Alula,NP,,Saudi Arabia
+AL AUD AL THAHABI-Al Wajh-Omer Bin Abdulaziz,,241525 - 1,,+966 508345300,Al Wajh,26.23328,36.457508,,,,,,Omer Bin Abdulaziz,,,,Al Wajh,NP,,Saudi Arabia
+Khalid Mesfer  LASLOM  -Yadamah-Main RD,,241108 - 7,,+966 546795270,Yadamah,18.526129,44.208042,,,,,,Main RD,,,,Yadamah,SP,,Saudi Arabia
+AL-JADEBYA AL-FADAIEA   -Wadi Binhajbal-Main RD (Route 255),,282260 - 1,,+966 503733854,Wadi Binhajbal,18.6109905,42.6774169,,,,,,Main RD (Route 255),,,,Wadi Binhajbal,SP,,Saudi Arabia
+Njum Abha for  est -Tendaha-Main RD (Route 10),,271335 - 1,,+966 597290518,Tendaha,18.3544813,42.8241321,,,,,,Main RD (Route 10),,,,Tendaha,SP,,Saudi Arabia
+Majed Ahmed Alassiri-Tathleeth-King Abdulaziz RD,,282851 - 1,,+966 535573182,Tathleeth,19.532930,43.501621,,,,,,King Abdulaziz RD,,,,Tathleeth,SP,,Saudi Arabia
+FAIZ ATIF ABDEL RAHMAN SHAHRY-Tanomah-King Faisal RD,,241397 - 1,,+966 555761600,Tanomah,18.935261,42.187260,,,,,,King Faisal RD,,,,Tanomah,SP,,Saudi Arabia
+Khalid Mesfer  LASLOM  -Sharorah-Al Fahad District,,241108 - 9,,+966 545181996,Sharorah,17.495180,47.108192,,,,,,Al Fahad District,,,,Sharorah,SP,,Saudi Arabia
+ALI ASBAN KHATANI  -Sarat Ubaidah-King Khalid Ibn Abdulaziz,,241017 - 2,,+966 504470357,Sarat Ubaidah,18.084553,43.134880,,,,,,King Khalid Ibn Abdulaziz,,,,Sarat Ubaidah,SP,,Saudi Arabia
+SAFAR SAUD AL OTHEEBY -Samtah-Route 5,,241401 - 3,,+966 500904722,Samtah,16.6018567,42.9354153,,,,,,Route 5,,,,Samtah,SP,,Saudi Arabia
+SAFAR SAUD AL OTHEEBY -Sabya-King Faisal RD,,241401 - 2,,+966 557559980,Sabya,17.1492406,42.6381195,,,,,,King Faisal RD,,,,Sabya,SP,,Saudi Arabia
+Al Bashayer Saudi Company-Sabt Alallayah-Main RD,,241110 - 2,,+966 531070496,Sabt Alallayah,19.591734,41962212,,,,,,Main RD,,,,Sabt Alallayah,SP,,Saudi Arabia
+AAMAL ALSATEH  -Rijal Almaa-Main RD,,241396 - 1,,+966 530247302,Rijal Almaa,18.202409,42.281782,,,,,,Main RD,,,,Rijal Almaa,SP,,Saudi Arabia
+Naser Faiz Al-Hallaf -Rania-Main RD,,265295 - 1,,+966 504534773,Rania,21.260019,42.84462,,,,,,Main RD,,,,Rania,SP,,Saudi Arabia
+Mohammed Abdullah Atef Al-Shehry -Namerah-Route 211,,240945 - 4,,+966 545710158,Namerah,19.570919,41.670410,,,,,,Route 211,,,,Namerah,SP,,Saudi Arabia
+Khalid Mesfer  LASLOM  -Najran -Al-Haden dist.,,241108 - 8,,+966 540596247,Najran ,17.458523,44.121888,,,,,,Al-Haden dist.,,,,Najran ,SP,,Saudi Arabia
+Khalid Mesfer  LASLOM  -Najran-King Abdulaziz RD,,241108 - 1,,+966 545181861,Najran,17.542515,44.222301,,,,,,King Abdulaziz RD,,,,Najran,SP,,Saudi Arabia
+Khalid Mesfer  LASLOM  -Najran-Route 15 (Al Arese),,241108 - 2,,+966 545181597,Najran,17.568714,44.335295,,,,,,Route 15 (Al Arese),,,,Najran,SP,,Saudi Arabia
+Khalid Mesfer  LASLOM  -Najran-Al Shorfa Dist,,241108 - 3,,+966 545181802 /+966 554269316,Najran,17.507122,44.333542,,,,,,Al Shorfa Dist,,,,Najran,SP,,Saudi Arabia
+Mohammed Abdullah Atef Al-Shehry -Mahyel Asser-Main RD ,,240945 - 2,,+966 591031383,Mahyel Asser,18.549256,42.0562,,,,,,Main RD ,,,,Mahyel Asser,SP,,Saudi Arabia
+Mohammed Abdullah Atef Al-Shehry -Mahyel Asser-Main RD,,240945 - 5,,+966 591031383,Mahyel Asser,18.509257,42.064826,,,,,,Main RD,,,,Mahyel Asser,SP,,Saudi Arabia
+ALI ASBAN KHATANI  -Khamis Mushit-King Khalid RD,,241017 - 1,,+966 557728352,Khamis Mushit,18.297281,42.729652,,,,,,King Khalid RD,,,,Khamis Mushit,SP,,Saudi Arabia
+ALI ASBAN KHATANI  -Khamis Mushit-Rona,,241017 - 3,,+966 596683530,Khamis Mushit,18.211499,42.812268,,,,,,Rona,,,,Khamis Mushit,SP,,Saudi Arabia
+ALI ASBAN KHATANI  -Khamis Mushit-Imam Muhammad Ibn Saud,,241017 - 4,,+966 596683530,Khamis Mushit,18.297617,42.704437,,,,,,Imam Muhammad Ibn Saud,,,,Khamis Mushit,SP,,Saudi Arabia
+Ibrahim Musa Assery -Khamis Al Bahar-Route 209,,276448 - 1,,+966 504758406,Khamis Al Bahar,18.319700,41.907009,,,,,,Route 209,,,,Khamis Al Bahar,SP,,Saudi Arabia
+SAFAR SAUD AL OTHEEBY -Jizan-Al Mutalla ST,,241401 - 1,,+966 535398980,Jizan,16.896817,42.5515196,,,,,,Al Mutalla ST,,,,Jizan,SP,,Saudi Arabia
+SAFAR SAUD AL OTHEEBY -Jizan-Prince Faisal Bin Fahad ST,,241401 - 8,,+966 535398980,Jizan,16.894753,42.580776,,,,,,Prince Faisal Bin Fahad ST,,,,Jizan,SP,,Saudi Arabia
+Khalid Mesfer  LASLOM  -Hubuna-Route 1215,,241108 - 5,,+966 508460803,Hubuna,17.850666,44.031406,,,,,,Route 1215,,,,Hubuna,SP,,Saudi Arabia
+DAHYAT HALBA   -Halaba-Route 15,,247414 - 1,,+966 583458566,Halaba,19.269320,42.088200,,,,,,Route 15,,,,Halaba,SP,,Saudi Arabia
+Khalid Mesfer  LASLOM  -Dhahran Al Janub-Route 15,,241108 - 4,,+966 545182015,Dhahran Al Janub,17.668030,43.508057,,,,,,Route 15,,,,Dhahran Al Janub,SP,,Saudi Arabia
+SAFAR SAUD AL OTHEEBY -Damad-Main RD,,241401 - 6,,+966 535398980,Damad,17.107762,42.770579,,,,,,Main RD,,,,Damad,SP,,Saudi Arabia
+Al Bashayer Saudi Company-Bushaytah-Route 15,,241110 - 1,,+966 502446535,Bushaytah,19.591991,41.893627,,,,,,Route 15,,,,Bushaytah,SP,,Saudi Arabia
+MOHAMMED ABDULLAH AL-MOHMADAI-Bisha-Near Civil Right,,241107 - 2,,+966 507658961,Bisha,20.039648,42.589656,,,,,,Near Civil Right,,,,Bisha,SP,,Saudi Arabia
+MOHAMMED ABDULLAH AL-MOHMADAI-Bisha-Namran,,241107 - 3,,+966 559100775,Bisha,20.070608,42.626735,,,,,,Namran,,,,Bisha,SP,,Saudi Arabia
+Mohammed Abdullah Atef Al-Shehry -Bariq-Main RD,,240945 - 3,,+966 17 2835354,Bariq,18.93496,41.936037,,,,,,Main RD,,,,Bariq,SP,,Saudi Arabia
+DAHYAT HALBA   -Bani Amr-Route 15,,247414 - 2,,+966 508360944,Bani Amr,19.383314,42.042816,,,,,,Route 15,,,,Bani Amr,SP,,Saudi Arabia
+SAFAR SAUD AL OTHEEBY -Baish-King Abdul Aziz RD,,241401 - 9,,+966 506316327,Baish,17.36487955019,42.54560699171,,,,,,King Abdul Aziz RD,,,,Baish,SP,,Saudi Arabia
+AAMAL ALSATEH  -Al-Wadeen-Main RD,,241396 - 3,,+966 501095963,Al-Wadeen,18.093557,42.807808,,,,,,Main RD,,,,Al-Wadeen,SP,,Saudi Arabia
+MOHAMMED ABDULLAH AL-MOHMADAI-Alnaqee-Main RD (Off Al Riyadh RD),,241107 - 1,,+966 555765594,Alnaqee,18.22535,42.505985,,,,,,Main RD (Off Al Riyadh RD),,,,Alnaqee,SP,,Saudi Arabia
+Mohammed Abdullah Atef Al-Shehry -Almajaridah-Badr RD,,240945 - 1,,+966 532082687,Almajaridah,19.117050,41.922062,,,,,,Badr RD,,,,Almajaridah,SP,,Saudi Arabia
+AAMAL ALSATEH  -Al-Darb-Main RD,,241396 - 2,,+966 552079776,Al-Darb,17.73184735205,42.26068516986,,,,,,Main RD,,,,Al-Darb,SP,,Saudi Arabia
+DAHYAT HALBA   -Al Namas-King Faisal RD,,247414 - 3,,+966 583458566,Al Namas,19.140404,42.121700,,,,,,King Faisal RD,,,,Al Namas,SP,,Saudi Arabia
+Khalid Mesfer  LASLOM  -Al Harajah-Route 15,,241108 - 6,,+966 508460803,Al Harajah,17.921093,43.369469,,,,,,Route 15,,,,Al Harajah,SP,,Saudi Arabia
+Al Bashayer Saudi Company-Al Bashayer-Route 15,,241110 - 3,,+966 502446535,Al Bashayer,19.729845,41.920521,,,,,,Route 15,,,,Al Bashayer,SP,,Saudi Arabia
+SAFAR SAUD AL OTHEEBY -Ahad Al Masarihah-King Abdullah RD,,241401 - 5,,+966 557564726,Ahad Al Masarihah,16.710556,42.948788,,,,,,King Abdullah RD,,,,Ahad Al Masarihah,SP,,Saudi Arabia
+SAFAR SAUD AL OTHEEBY -Addayer-Bani Malik RD,,241401 - 7,,+966 535398980,Addayer,17.341782,43.142185,,,,,,Bani Malik RD,,,,Addayer,SP,,Saudi Arabia
+SAFAR SAUD AL OTHEEBY -Abu Arish-Main RD,,241401 - 4,,+966 556308654,Abu Arish,16.58030,42.50157,,,,,,Main RD,,,,Abu Arish,SP,,Saudi Arabia
+EAGLE INTERNATIONAL  -Abha-King Fahad Branch RD,,241098 - 1,,+966 553564610,Abha,18.235680,42.589561,,,,,,King Fahad Branch RD,,,,Abha,SP,,Saudi Arabia
+EAGLE INTERNATIONAL  -Abha-Namsa Dist,,241098 - 2,,+966 558580046,Abha,18.215472, 42.509222,,,,,,Namsa Dist,,,,Abha,SP,,Saudi Arabia
+EAGLE INTERNATIONAL  -Abha-Al Muftha Dist,,241098 - 3,,+966 558580046,Abha,18.212184,42.493496,,,,,,Al Muftha Dist,,,,Abha,SP,,Saudi Arabia
+PAINT EST .-Wadi Dawasir -Wadi Dawasir ,,241288 - 5,,+966 554790936,Wadi Dawasir ,20.45591,44.827335,,,,,,Wadi Dawasir ,,,,Wadi Dawasir ,CP,,Saudi Arabia
+SHADDAN TRADING-Shaqra-Shaqraa,,241294 - 9,,+966 566099017,Shaqra,25.251319,45.261407,,,,,,Shaqraa,,,,Shaqra,CP,,Saudi Arabia
+AL BAYANI -Riyadh -Prince Saud Bin Mohammed ,,249859 - 1,,+966 569066927,Riyadh ,24.823641,46.747669,,,,,,Prince Saud Bin Mohammed ,,,,Riyadh ,CP,,Saudi Arabia
+Abdullah Ali Al Ashri -Riyadh -Naseem ,,288581 - 1,,+966 555121357,Riyadh ,24.734701,46.839349,,,,,,Naseem ,,,,Riyadh ,CP,,Saudi Arabia
+IBRAHIM S.AL-TUKH'AIFI -Riyadh -Prince Turki Ibn Abdulaziz,,241258 - 1,,+966 566776695,Riyadh ,24.747864,46.618241,,,,,,Prince Turki Ibn Abdulaziz,,,,Riyadh ,CP,,Saudi Arabia
+MOHD.AHMAD AL-QURAISHI-Riyadh -King Salman RD,,261937 - 1,,+966 504297384,Riyadh ,24.83121,46.62359,,,,,,King Salman RD,,,,Riyadh ,CP,,Saudi Arabia
+SAWADER CENTER FOR PAINTING -Riyadh -Abraj,,241010 - 1,,+966 536046760,Riyadh ,24.598138,46.687086,,,,,,Abraj,,,,Riyadh ,CP,,Saudi Arabia
+SAWADER CENTER FOR PAINTING -Riyadh -Suwaidi,,241010 - 2,,+966 508243497,Riyadh ,24.572377,46.664632,,,,,,Suwaidi,,,,Riyadh ,CP,,Saudi Arabia
+TELEMAKERS-Riyadh -Abu Ubaydah Amir Ibn Al Jarrah,,259912 - 1,,+966 500801719,Riyadh ,24.672320,46.816210,,,,,,Abu Ubaydah Amir Ibn Al Jarrah,,,,Riyadh ,CP,,Saudi Arabia
+NAWADIR AL RAWAYE -Riyadh -Prince Ahmed Bin Abdulaziz RD ,,241152 - 1,,+966 532798923,Riyadh ,24.635444,46.590734,,,,,,Prince Ahmed Bin Abdulaziz RD ,,,,Riyadh ,CP,,Saudi Arabia
+TADAWAL AL-AMLAK REAL ESTATE  CO.-Riyadh -Ashaikh Jaber Alahmed Alsabah,,270125 - 1,,+966 556795067,Riyadh ,24.83066,46.79169,,,,,,Ashaikh Jaber Alahmed Alsabah,,,,Riyadh ,CP,,Saudi Arabia
+MOSAED SAUD AWAID AL MUTAIRY -Riyadh -Al Fayha Dist.,,276097 - 1,,+966 532267657,Riyadh ,24.680597,46.799271,,,,,,Al Fayha Dist.,,,,Riyadh ,CP,,Saudi Arabia
+MISFER HAMAD MOHD. ALQAHTANI -Riyadh -Arafat Branch RD,,259187 - 2,,+966 531848557,Riyadh ,24.56913,46.77285,,,,,,Arafat Branch RD,,,,Riyadh ,CP,,Saudi Arabia
+MISFER HAMAD MOHD. ALQAHTANI -Riyadh -Al - bilal ST,,259187 - 4,,+966 509449729,Riyadh ,24.58748,46.601107,,,,,,Al - bilal ST,,,,Riyadh ,CP,,Saudi Arabia
+MISFER HAMAD MOHD. ALQAHTANI -Riyadh -AL-namer,,259187 - 5,,+966 502855217,Riyadh ,24.55903,46.57194,,,,,,AL-namer,,,,Riyadh ,CP,,Saudi Arabia
+ALLON AL-SABA -Riyadh -King Abdulaziz RD,,265240 - 1,,+966 556040796,Riyadh ,24.869087,46.618443,,,,,,King Abdulaziz RD,,,,Riyadh ,CP,,Saudi Arabia
+DURAT AL-FALAH-Riyadh -Exit 9,,241331 - 1,,+966 507111807,Riyadh ,24.811476,46.81508,,,,,,Exit 9,,,,Riyadh ,CP,,Saudi Arabia
+ABDULRAHMN A.AZIZ A.SHALAN-Riyadh -Khalid Ibn Al Waleed ST,,241366 - 1,,+966 504216763,Riyadh ,24.789544,46.745334,,,,,,Khalid Ibn Al Waleed ST,,,,Riyadh ,CP,,Saudi Arabia
+ABDULRAHMN A.AZIZ A.SHALAN-Riyadh -Imam Saud Bin Faisal RD,,241366 - 2,,+966 500955670,Riyadh ,24.786674,46.613435,,,,,,Imam Saud Bin Faisal RD,,,,Riyadh ,CP,,Saudi Arabia
+AWAD BIN BARAK ALMUSRAFI-Riyadh -Adh Dhahabi,,241413 - 1,,+966 507165325,Riyadh ,24.566132,46.545145,,,,,,Adh Dhahabi,,,,Riyadh ,CP,,Saudi Arabia
+AWAD BIN BARAK ALMUSRAFI-Riyadh -AlNamar Dist.,,241413 - 2,,+966 551817805,Riyadh ,24.55324,46.507771,,,,,,AlNamar Dist.,,,,Riyadh ,CP,,Saudi Arabia
+NOUF ADOOS AL SAIBANI -Riyadh -Prince Saud Bin Mohammed Bin Muqrin RD,,266799 - 1,,+966 501091839,Riyadh ,24.85509,46.82838,,,,,,Prince Saud Bin Mohammed Bin Muqrin RD,,,,Riyadh ,CP,,Saudi Arabia
+RAMZ ALKHER -Riyadh -Al Shafa ST,,274507 - 1,,+966 500342334,Riyadh ,24.61883,46.53437,,,,,,Al Shafa ST,,,,Riyadh ,CP,,Saudi Arabia
+PAINT TECHNIQUES-Riyadh -Al Badr Area,,258983 - 1,,+966 592156256,Riyadh ,24.56102,46.70788,,,,,,Al Badr Area,,,,Riyadh ,CP,,Saudi Arabia
+PAINT TECHNIQUES-Riyadh -New Industries,,258983 - 2,,+966 551020595,Riyadh ,24.544947,46.717293,,,,,,New Industries,,,,Riyadh ,CP,,Saudi Arabia
+PAINT TECHNIQUES-Riyadh -Farazdak,,258983 - 3,,+966 543459431,Riyadh ,24.63841,46.72684,,,,,,Farazdak,,,,Riyadh ,CP,,Saudi Arabia
+PAINT TECHNIQUES-Riyadh -Ghubaira,,258983 - 4,,+966 544502725,Riyadh ,24.62089,46.73488,,,,,,Ghubaira,,,,Riyadh ,CP,,Saudi Arabia
+PAINT TECHNIQUES-Riyadh -Exit 18,,258983 - 5,,+966 559075675,Riyadh ,24.64405,46.83433,,,,,,Exit 18,,,,Riyadh ,CP,,Saudi Arabia
+PAINT TECHNIQUES-Riyadh -Malaz,,258983 - 6,,+966 548364677,Riyadh ,24.675460,46.746450,,,,,,Malaz,,,,Riyadh ,CP,,Saudi Arabia
+PAINT TECHNIQUES-Riyadh -Naseriyah,,258983 - 7,,+966 545514910,Riyadh ,24.649454,46.670393,,,,,,Naseriyah,,,,Riyadh ,CP,,Saudi Arabia
+PAINT TECHNIQUES-Riyadh -Sulay,,258983 - 8,,+966 544502725,Riyadh ,24.64977,46.78251,,,,,,Sulay,,,,Riyadh ,CP,,Saudi Arabia
+PAINT TECHNIQUES-Riyadh -King Salman RD,,258983 - 9,,+966 532326963,Riyadh ,24.799394,46.643548,,,,,,King Salman RD,,,,Riyadh ,CP,,Saudi Arabia
+PAINT TECHNIQUES-Riyadh -Khalid Abdulaziz RD,,258983 - 10 ,,+966 532326963,Riyadh ,24.750552,46.574084,,,,,,Khalid Abdulaziz RD,,,,Riyadh ,CP,,Saudi Arabia
+PAINT TECHNIQUES-Riyadh -Shaikh Hasan Ibn Hussain Ibn Ali RD,,258983 - 11,,+966 559835767,Riyadh ,24.787572,46.768037,,,,,,Shaikh Hasan Ibn Hussain Ibn Ali RD,,,,Riyadh ,CP,,Saudi Arabia
+PAINT TECHNIQUES-Riyadh -Khalid Ibn Walid ST,,258983 - 12,,+966 556292683,Riyadh ,24.796355,46.742478,,,,,,Khalid Ibn Walid ST,,,,Riyadh ,CP,,Saudi Arabia
+PAINT TECHNIQUES-Riyadh -Imam Saud Bin Faisal RD,,258983 - 13,,+966 501811176,Riyadh ,24.796355,46.742478,,,,,,Imam Saud Bin Faisal RD,,,,Riyadh ,CP,,Saudi Arabia
+PAINT TECHNIQUES-Riyadh -Hamzah Ibn Abdul Muttalib,,258983 - 14,,+966 502509772,Riyadh ,24.587704,46.625021,,,,,,Hamzah Ibn Abdul Muttalib,,,,Riyadh ,CP,,Saudi Arabia
+TURKEY SAHMY AL-SABIE-Riyadh -Al Fawaz district,,265234 - 1,,+966 503780627,Riyadh ,24.50113,46.633154,,,,,,Al Fawaz district,,,,Riyadh ,CP,,Saudi Arabia
+N.I. Alhumaidan-Riyadh -Takasusui RD,,241289 - 1,,+966 568659307,Riyadh ,24.686941,46.674492,,,,,,Takasusui RD,,,,Riyadh ,CP,,Saudi Arabia
+N.I. Alhumaidan-Riyadh -Shemasi,,241289 - 2,,+966 509877801,Riyadh ,24.63472,46.700681,,,,,,Shemasi,,,,Riyadh ,CP,,Saudi Arabia
+Al Turiqi O.S Al Onaizi-Riyadh -Karawan Dist,,287110 - 1,,+966 550885156,Riyadh ,24.82467,46.57258,,,,,,Karawan Dist,,,,Riyadh ,CP,,Saudi Arabia
+Hassan Hussain Al Zarwi-Riyadh -Shumaisee Old RD,,279100 - 1,,+966 580700656,Riyadh ,24.62768,46.69566,,,,,,Shumaisee Old RD,,,,Riyadh ,CP,,Saudi Arabia
+TAMAYOUZ AL-ALWAN TRADING-Riyadh -Abi Bakr As Siddiq RD,,250314 - 1,,+966 504690369,Riyadh ,24.74656,46.70166,,,,,,Abi Bakr As Siddiq RD,,,,Riyadh ,CP,,Saudi Arabia
+URBAN ECONOMY -Riyadh -Al-Wadi,,276614 - 2,,+966 535830818,Riyadh ,24.8057,46.671956,,,,,,Al-Wadi,,,,Riyadh ,CP,,Saudi Arabia
+ATHAL -Riyadh -Al Salam,,241297 - 1,,+966 503403257,Riyadh ,24.707578,46.812356,,,,,,Al Salam,,,,Riyadh ,CP,,Saudi Arabia
+ATHAL -Riyadh -Exit 6,,241297 - 1,,+966 531219557,Riyadh ,24.82510,46.65650,,,,,,Exit 6,,,,Riyadh ,CP,,Saudi Arabia
+NAIF FAISAL AL -OTAIBI -Riyadh -Al-Shifa,,248680 - 1,,+966 509484804,Riyadh ,24.54423,46.66516,,,,,,Al-Shifa,,,,Riyadh ,CP,,Saudi Arabia
+NAIF FAISAL AL -OTAIBI -Riyadh -Alshifa shop 2,,248680 - 2,,+966 509484804,Riyadh ,24.53447,46.6979,,,,,,Alshifa shop 2,,,,Riyadh ,CP,,Saudi Arabia
+PAINT EST .-Riyadh -AL KHARAJ,,241288 - 1,,+966 506937827,Riyadh ,24.152255,47.301269,,,,,,AL KHARAJ,,,,Riyadh ,CP,,Saudi Arabia
+PAINT EST .-Riyadh -Mohammadiya,,241288 - 9,,+966 551584652,Riyadh ,24.73543,46.647927,,,,,,Mohammadiya,,,,Riyadh ,CP,,Saudi Arabia
+PAINT EST .-Riyadh -Sulamaniya,,241288 - 10 ,,+966 567390256,Riyadh ,24.71531,46.69653,,,,,,Sulamaniya,,,,Riyadh ,CP,,Saudi Arabia
+ANAS ABDULLAH HAMMAD   -Riyadh -Al Amanah ,,249035 - 1,,+966 500730307,Riyadh ,24.88436,46.61188,,,,,,Al Amanah ,,,,Riyadh ,CP,,Saudi Arabia
+SAWAHEL ALAMMAN   -Riyadh -Gornata,,241410 - 1,,+966 544506043,Riyadh ,24.804861,46.737499,,,,,,Gornata,,,,Riyadh ,CP,,Saudi Arabia
+ALYASMEEN SHADOW -Riyadh -Al Jenadriyah RD,,267839 - 1,,+966 596789943,Riyadh ,24.86113,46.8498,,,,,,Al Jenadriyah RD,,,,Riyadh ,CP,,Saudi Arabia
+ALYASMEEN SHADOW -Riyadh -Al Sahaba RD,,267839 - 2,,+966 5551211357,Riyadh ,24.836149,46.765930,,,,,,Al Sahaba RD,,,,Riyadh ,CP,,Saudi Arabia
+ALYASMEEN SHADOW -Riyadh -Al Hatten Dist,,267839 - 3,,+966 5551211357,Riyadh ,24.77540,46.61781,,,,,,Al Hatten Dist,,,,Riyadh ,CP,,Saudi Arabia
+Building Construction & Trading-Riyadh -Alremal,,242065 - 1,,+966 554025490,Riyadh ,24.83402,46.80987,,,,,,Alremal,,,,Riyadh ,CP,,Saudi Arabia
+AL MULIM -Riyadh -Al-Amana,,275801 - 1,,+966 538817220,Riyadh ,24.85588,46.63527,,,,,,Al-Amana,,,,Riyadh ,CP,,Saudi Arabia
+Meshai Shyie Aldosary  -Riyadh -King Abdilazizi RD ,,279771 - 1,,+966 502093807,Riyadh ,24.16528,47.23310,,,,,,King Abdilazizi RD ,,,,Riyadh ,CP,,Saudi Arabia
+Al Rebash -Riyadh -Al-Imam Ahmed Bin Hanbel ST,,277675 - 1,,+966 507275737,Riyadh ,24.705555,46.783752,,,,,,Al-Imam Ahmed Bin Hanbel ST,,,,Riyadh ,CP,,Saudi Arabia
+ALTADBEEK AL-AMTHAL -Riyadh -AL-MAHDIAH,,276312 - 1,,+966 533077989,Riyadh ,24.66975,46.5476,,,,,,AL-MAHDIAH,,,,Riyadh ,CP,,Saudi Arabia
+Amash Mosa Alshamari  -Riyadh -Wadi laban,,287383 - 1,,+966 596673117,Riyadh ,24.653053,46.597008,,,,,,Wadi laban,,,,Riyadh ,CP,,Saudi Arabia
+Salah Alamoudi Trading -Riyadh -Al Wzarat St,,279102 - 1,,+966 505554844,Riyadh ,24.681644,46.711468,,,,,,Al Wzarat St,,,,Riyadh ,CP,,Saudi Arabia
+Ali Seddiq Ataif Trading -Riyadh -Aziziaih,,287384 - 1,,+966 563112827,Riyadh ,24.582514,46.764003,,,,,,Aziziaih,,,,Riyadh ,CP,,Saudi Arabia
+Ali Seddiq Ataif Trading -Riyadh -Maan Bin Zaida ST,,287384 - 2,,+966 563112827,Riyadh ,24.60427,46.75198,,,,,,Maan Bin Zaida ST,,,,Riyadh ,CP,,Saudi Arabia
+DURRA ZULFI CONTRACTING -Riyadh -Al Zulfi,,241354 - 1,,+966 552872497,Riyadh ,26.294954,44.818103,,,,,,Al Zulfi,,,,Riyadh ,CP,,Saudi Arabia
+DURRA ZULFI CONTRACTING -Riyadh -Al Zulfi,,241354 - 2,,+966 552872498,Riyadh ,26.297546,44.806236,,,,,,Al Zulfi,,,,Riyadh ,CP,,Saudi Arabia
+Adoa Rhoan -Riyadh -Najm Ad Din Al Ayyubi RD ,,277431 - 1,,+966 598446556,Riyadh ,24.552750,46.584526,,,,,,Najm Ad Din Al Ayyubi RD ,,,,Riyadh ,CP,,Saudi Arabia
+M. A.  AL FOZAN EST.-Riyadh -Hotta Sudiar,,241250 - 1,,+966 534909636/ +966 544822121,Riyadh ,25.59017,45.63641,,,,,,Hotta Sudiar,,,,Riyadh ,CP,,Saudi Arabia
+M. A.  AL FOZAN EST.-Riyadh -Al Majma,,241250 - 2,,+966 503166106,Riyadh ,25.92033,45.36566,,,,,,Al Majma,,,,Riyadh ,CP,,Saudi Arabia
+SHAMS ALAMAN EST.-Riyadh -Alnadeem,,267018 - 1,,+966 509169136,Riyadh ,24.79435,46.86677,,,,,,Alnadeem,,,,Riyadh ,CP,,Saudi Arabia
+EMAR WA FANON CONTRACTING TING EST-Riyadh -Rawda,,261283 - 1,,+966 553119565,Riyadh ,24.74310,46.77703,,,,,,Rawda,,,,Riyadh ,CP,,Saudi Arabia
+MASKAN ALRAI CONT EST.-Riyadh -Fayha ,,262048 - 1,,+966 500801719,Riyadh ,25.17049,46.37374,,,,,,Fayha ,,,,Riyadh ,CP,,Saudi Arabia
+BARUQ SAHARI EST.-Riyadh -Aliasameen,,264460 - 1,,+966 506100823,Riyadh ,24.83622,46.68336,,,,,,Aliasameen,,,,Riyadh ,CP,,Saudi Arabia
+UNITED UNION TRADING & CONT EST.-Riyadh -Eishbelya,,279103 - 1,,+966 501884552,Riyadh ,24.80532,46.80251,,,,,,Eishbelya,,,,Riyadh ,CP,,Saudi Arabia
+ABYAT SAUDIA BUILDING MATERIAL CO.-Riyadh -Algadeer,,274087 - 1,,+966 547373605,Riyadh ,24.76723,46.66068,,,,,,Algadeer,,,,Riyadh ,CP,,Saudi Arabia
+EID HAMAD ALMANSOUR EST.-Riyadh -Almonesia,,271268 - 1,,+966 597652768,Riyadh ,24.81630,46.77528,,,,,,Almonesia,,,,Riyadh ,CP,,Saudi Arabia
+TAMAYUZ NAJD CONT.  EST.-Riyadh -Waha,,241153 - 1,,+966 504212873,Riyadh ,24.748935,46.722707,,,,,,Waha,,,,Riyadh ,CP,,Saudi Arabia
+SAUD AL-MUTAIRY EST.-Riyadh -Nassim,,256885 - 1,,+966 500052039,Riyadh ,24.730746,46.824336,,,,,,Nassim,,,,Riyadh ,CP,,Saudi Arabia
+Nasir Mezel AlShamary Est.-Riyadh -Hafr Albaten,,273784 - 1,,+966 509996568,Riyadh ,28.40829,45.96547,,,,,,Hafr Albaten,,,,Riyadh ,CP,,Saudi Arabia
+ALAQSSA EYES CONTRACTNIG EST.-Riyadh -Deria,,267139 -1,,+966 505900280,Riyadh ,24.76984,46.58451,,,,,,Deria,,,,Riyadh ,CP,,Saudi Arabia
+Abdul Aziz Al-Hokail-Riyadh -Othman Bin Afan,,241364 - 1,,+966 505557515,Riyadh ,24.778318,46.686293,,,,,,Othman Bin Afan,,,,Riyadh ,CP,,Saudi Arabia
+HOME APPLIANCE TRADING-Riyadh -Malga,,254271 - 1,,+966 508953319,Riyadh ,24.80791,46.60233,,,,,,Malga,,,,Riyadh ,CP,,Saudi Arabia
+CONVERGENCE INVESTMENT FOR TRADING CO.-Riyadh -Takhsussi,,259911 - 1,,+966 566441891,Riyadh ,24.75263,46.63979,,,,,,Takhsussi,,,,Riyadh ,CP,,Saudi Arabia
+EASTERN DECORATION FOR PAINTS-Riyadh -Al-Sahafa,,241116 - 1,,+966 594418227,Riyadh ,24.77215,46.62585,,,,,,Al-Sahafa,,,,Riyadh ,CP,,Saudi Arabia
+A.Hakim bin helal bin zaid-Riyadh -Heteen,,277344 - 1,,+966 544477743,Riyadh ,24.80125,46.60024,,,,,,Heteen,,,,Riyadh ,CP,,Saudi Arabia
+A.Hakim bin helal bin zaid-Riyadh -King Salman St,,277344 - 2,,+966 544477743,Riyadh ,24.82259,46.594005,,,,,,King Salman St,,,,Riyadh ,CP,,Saudi Arabia
+OCEAN CONSTRUCTION -Riyadh -Al-Narges,,245365 - 1,,+966 501010800,Riyadh ,24.867514,46.640865,,,,,,Al-Narges,,,,Riyadh ,CP,,Saudi Arabia
+Perfect Homes-Riyadh -Heteen,,271284 - 1,,+966 505113302,Riyadh ,24.77652, 46.57841,,,,,,Heteen,,,,Riyadh ,CP,,Saudi Arabia
+QIMET AL BADER PAINTS SHOP -Riyadh -Baghlaf,,241292 - 1,,+966 500024189,Riyadh ,24.764553,46.802583,,,,,,Baghlaf,,,,Riyadh ,CP,,Saudi Arabia
+QIMET AL BADER PAINTS SHOP -Riyadh -Al-Falah,,241292 - 2,,+966 593570319,Riyadh ,24.78614,46.704157,,,,,,Al-Falah,,,,Riyadh ,CP,,Saudi Arabia
+QIMET AL BADER PAINTS SHOP -Riyadh -Al-Mursalat,,241292 - 3,,+966 545208924,Riyadh ,24.754283,46.67932,,,,,,Al-Mursalat,,,,Riyadh ,CP,,Saudi Arabia
+QIMET AL BADER PAINTS SHOP -Riyadh -Al-Mursalat-king abdul aziz rd,,241292 - 4,,+966 537227681,Riyadh ,24.75062,46.67804,,,,,,Al-Mursalat-king abdul aziz rd,,,,Riyadh ,CP,,Saudi Arabia
+QIMET AL BADER PAINTS SHOP -Riyadh -Yarmouk,,241292 - 5,,+966 502929986,Riyadh ,24.804772,46.797991,,,,,,Yarmouk,,,,Riyadh ,CP,,Saudi Arabia
+QIMET AL BADER PAINTS SHOP -Riyadh -Erqa,,241292 - 6,,+966 558072485,Riyadh ,24.68530,46.58496,,,,,,Erqa,,,,Riyadh ,CP,,Saudi Arabia
+AL INSHA ALSHAMIL CONT-Riyadh -Wadi Laban,,241352 - 1,,+966 502001254,Riyadh ,24.632486,46.563525,,,,,,Wadi Laban,,,,Riyadh ,CP,,Saudi Arabia
+AL INSHA ALSHAMIL  -Riyadh -Dahiyat Laban,,241352 - 2,,+966 557700117,Riyadh ,24.62851,46.52194,,,,,,Dahiyat Laban,,,,Riyadh ,CP,,Saudi Arabia
+Abdullah A-AlAziz Al-Rozaihan-Riyadh -Al-Khair,,270785 - 1,,+966 559994446,Riyadh ,24.81805,46.59633,,,,,,Al-Khair,,,,Riyadh ,CP,,Saudi Arabia
+Saleh Abdullah Jarbo Saiari  -Riyadh -Al Aziziah RD ,,269855 - 1,,+966 503161285,Riyadh ,24.580071,46.782040,,,,,,Al Aziziah RD ,,,,Riyadh ,CP,,Saudi Arabia
+Saleh Abdullah Jarbo Saiari  -Riyadh -Prince Ibn Abdulrahman RD,,269855 - 1,,+966 547042534,Riyadh ,24.610001,46.726727,,,,,,Prince Ibn Abdulrahman RD,,,,Riyadh ,CP,,Saudi Arabia
+SAKA'EK CONTRACTING -Riyadh -Exit 5 Twaree RD,,254097 - 1,,+966 580801180,Riyadh ,24.8931,46.60604,,,,,,Exit 5 Twaree RD,,,,Riyadh ,CP,,Saudi Arabia
+Al Rehla Al Mutaqadima-Riyadh -Aljenadriah,,279734 - 1,,+966 596633928,Riyadh ,24.81030,46.86821,,,,,,Aljenadriah,,,,Riyadh ,CP,,Saudi Arabia
+Al Rehla Al Mutaqadima-Riyadh -Imam Al Shafee,,279734 - 2,,+966 596633928,Riyadh ,24.69689 ,46.80661,,,,,,Imam Al Shafee,,,,Riyadh ,CP,,Saudi Arabia
+NASIR IBRAHIM ALHUMAIDAN-Riyadh -Baghlaf,,241134 - 1,,+966 502255947,Riyadh ,24.763751,46.833864,,,,,,Baghlaf,,,,Riyadh ,CP,,Saudi Arabia
+ABDULLA HAZZAH AL FADL -Riyadh -Anas Ibn Malik ST,,279855 - 1,,+966 500702771,Riyadh ,24.81176,46.62636,,,,,,Anas Ibn Malik ST,,,,Riyadh ,CP,,Saudi Arabia
+KHALID ABDULLAH AL-MOSAAD -Riyadh -Othman Bin Affan Rd.,,281317 - 1,,+966 500407103 / +966 505176565,Riyadh ,24.830574,46.681831,,,,,,Othman Bin Affan Rd.,,,,Riyadh ,CP,,Saudi Arabia
+ALWAN ALQALAA TRD.  -Riyadh -Khaled Ibn Al Waleed,,241300 - 1,,+966 502988017,Riyadh ,24.76103,46.76389,,,,,,Khaled Ibn Al Waleed,,,,Riyadh ,CP,,Saudi Arabia
+SHADDAN TRADING-Riyadh -Nuzha,,241294 - 1,,+966 505281155,Riyadh ,24.76368,46.70116,,,,,,Nuzha,,,,Riyadh ,CP,,Saudi Arabia
+SHADDAN TRADING-Riyadh -Exit5,,241294 - 10,,+966 551486782,Riyadh ,24.783637,46.662647,,,,,,Exit5,,,,Riyadh ,CP,,Saudi Arabia
+SHADDAN TRADING-Riyadh -Exit15,,241294 - 11,,+966 503225692,Riyadh ,24.682399,46.785192,,,,,,Exit15,,,,Riyadh ,CP,,Saudi Arabia
+SHADDAN TRADING-Riyadh -Eyan al jawa,,241294 - 12,,+966 507688967,Riyadh ,26.492823,43.625248,,,,,,Eyan al jawa,,,,Riyadh ,CP,,Saudi Arabia
+SHADDAN TRADING-Riyadh -Takhasusi St,,241294 - 14,,+966 565329353,Riyadh ,24.681667,46.677163,,,,,,Takhasusi St,,,,Riyadh ,CP,,Saudi Arabia
+SHADDAN TRADING-Riyadh -Bukairyah,,241294 - 17,,+966 533200181,Riyadh ,24.625998,46.597031,,,,,,Bukairyah,,,,Riyadh ,CP,,Saudi Arabia
+SHADDAN TRADING-Riyadh -Qayasomah,,241294 - 19 ,,+966 562248626,Riyadh ,28.30346,46.12558,,,,,,Qayasomah,,,,Riyadh ,CP,,Saudi Arabia
+BOYOUT MAMORA -Riyadh -Al Jubaylah,,274751 - 1,,+966 506090053,Riyadh ,24.89418, 46.44151,,,,,,Al Jubaylah,,,,Riyadh ,CP,,Saudi Arabia
+ABDUL RAHMAN Z ALMUHTEB -Riyadh -Najm Ad Din Al Ayyubi RD,,254095 - 1,,+966 509676840,Riyadh ,24.551540,46.602400,,,,,,Najm Ad Din Al Ayyubi RD,,,,Riyadh ,CP,,Saudi Arabia
+AHMED S. AL AHMARI  -Riyadh -Umm Al Hamam ST,,254517 - 1,,+966 508226217,Riyadh ,24.691904,46.650475,,,,,,Umm Al Hamam ST,,,,Riyadh ,CP,,Saudi Arabia
+FAHAD MOHD. AL ISSA  -Riyadh -Manee Almoridy ST,,251704 - 1,,+966 504482083,Riyadh ,24.690444,46.587083,,,,,,Manee Almoridy ST,,,,Riyadh ,CP,,Saudi Arabia
+IBRAHIM SULEMAN Almutary -Riyadh -AL HAZAM DIST.,,280525 - 1,,+966536356983,Riyadh ,24.54203,46.65281,,,,,,AL HAZAM DIST.,,,,Riyadh ,CP,,Saudi Arabia
+THAMARAT AL-MOUSIM TRADING -Riyadh -Sare Talateen,,243160 - 1,,+966 500302817,Riyadh ,24.80843,46.89942,,,,,,Sare Talateen,,,,Riyadh ,CP,,Saudi Arabia
+Asateel Alamar -Riyadh -Horimela,,276592 - 1,,+966 590022216,Riyadh ,25.11046,46.10445,,,,,,Horimela,,,,Riyadh ,CP,,Saudi Arabia
+Asateel Alamar -Riyadh -Thadeg,,276592 - 2,,+966 590022216,Riyadh ,25.27973,45.86608,,,,,,Thadeg,,,,Riyadh ,CP,,Saudi Arabia
+Bashar Al-Shayeh-Riyadh -Abo Bakr Al-Sedk,,274531 - 1,,+966 541000688,Riyadh ,24.89554,46.62650,,,,,,Abo Bakr Al-Sedk,,,,Riyadh ,CP,,Saudi Arabia
+Matar Awad Alonaizi-Riyadh-Nazeem Almoheed ST,,275737 - 1,,+966 558584514,Riyadh,24.809125,46.878254,,,,,,Nazeem Almoheed ST,,,,Riyadh,CP,,Saudi Arabia
+SHADDAN TRADING-Riyadh-Sajir,,241294 - 3,,+966 568749300,Riyadh,25.18687,44.60116,,,,,,Sajir,,,,Riyadh,CP,,Saudi Arabia
+SHADDAN TRADING-Riyadh-Hail,,241294 - 13,,+966 562248626,Riyadh,27.49868,41.67488,,,,,,Hail,,,,Riyadh,CP,,Saudi Arabia
+SHADDAN TRADING-Riyadh-Hafer Baten,,241294 - 18,,+966 509996733,Riyadh,28.43439,45.96758,,,,,,Hafer Baten,,,,Riyadh,CP,,Saudi Arabia
+SHADDAN TRADING-Rfha-Khaled Ibn Al Waleed,,241294 - 20 ,,+966 533200181,Rfha,26.15515,43.61977,,,,,,Khaled Ibn Al Waleed,,,,Rfha,CP,,Saudi Arabia
+AL SHOWAY CONTRACT -Quawayia-Quawayia,,241318 - 1,,+966 508692201,Quawayia,24.06456,45.28644,,,,,,Quawayia,,,,Quawayia,CP,,Saudi Arabia
+SHADDAN TRADING-Qassim-Badayya,,241294 - 2,,+966 504882231,Qassim,25.98449,43.73581,,,,,,Badayya,,,,Qassim,CP,,Saudi Arabia
+SHADDAN TRADING-Qassim-Al Rass,,241294 - 4,,+966 563766061,Qassim,25.87320,43.52311,,,,,,Al Rass,,,,Qassim,CP,,Saudi Arabia
+SHADDAN TRADING-Qassim-Muznib,,241294 - 5,,+966 563766061,Qassim, 25.85292,44.22677,,,,,,Muznib,,,,Qassim,CP,,Saudi Arabia
+SHADDAN TRADING-Qassim-Riyad Al Khabra,,241294 - 6,,+966 501992358,Qassim,26.06454,43.55779,,,,,,Riyad Al Khabra,,,,Qassim,CP,,Saudi Arabia
+SHADDAN TRADING-Qassim-Buridah,,241294 - 7,,+966 551566080,Qassim,26.34289,43.97255,,,,,,Buridah,,,,Qassim,CP,,Saudi Arabia
+SHADDAN TRADING-Qassim-Dawadmi,,241294 - 8,,+966 566099017,Qassim,24.51131,44.40134,,,,,,Dawadmi,,,,Qassim,CP,,Saudi Arabia
+SHADDAN TRADING-Qassim-Onizah,,241294 - 15 ,,+966 502564344,Qassim,26.09304,44.00736,,,,,,Onizah,,,,Qassim,CP,,Saudi Arabia
+MUSAED A. AL-MALKI -Mozahmia -Mozahmia City,,241136 - 2,,+966 505140274,Mozahmia ,24.471809,46.264198,,,,,,Mozahmia City,,,,Mozahmia ,CP,,Saudi Arabia
+PAINT EST .-Layla Flaj-Layla Al Flaj,,241288 - 4 ,,+966 582927343,Layla Flaj,22.287480,46.716014,,,,,,Layla Al Flaj,,,,Layla Flaj,CP,,Saudi Arabia
+PAINT EST .-Hota Bani Tamim-Hota Bani Tamim,,241288 - 8 ,,+966 503259660,Hota Bani Tamim,23.49591,46.85307,,,,,,Hota Bani Tamim,,,,Hota Bani Tamim,CP,,Saudi Arabia
+MUSAED A. AL-MALKI -Durma-Main ST sittin,,241136 - 1,,+966 596532435,Durma, 24.602442,46.126811,,,,,,Main ST sittin,,,,Durma,CP,,Saudi Arabia
+MISFER HAMAD MOHD. ALQAHTANI -Darul Baida-Azizia Sitheen ST,,259187 - 3,,+966 509963867,Darul Baida,24.56174,46.79186,,,,,,Azizia Sitheen ST,,,,Darul Baida,CP,,Saudi Arabia
+ADIL AMMAR AL MUTAIRY-Daria -King Abdullah Bin Abdulaziz RD ,,256734 - 1,,+966 555280143,Daria , 24.71656, 42.93143,,,,,,King Abdullah Bin Abdulaziz RD ,,,,Daria ,CP,,Saudi Arabia
+SHADDAN TRADING-Buridah-Rashidiya,,241294 - 16,,+966 507265133,Buridah,26.416685,43.913876,,,,,,Rashidiya,,,,Buridah,CP,,Saudi Arabia
+KHALID AL SHAMMARY-BAQAA-Baqaa Main ST,,247956 - 1,,+966 500778229,BAQAA,27.904306,42.38892,,,,,,Baqaa Main ST,,,,BAQAA,CP,,Saudi Arabia
+SULTAN MOHD. SULEMAN AL MANSOOR -Assayah-Main ST ,,274011 - 1,,+966 552448144,Assayah,26.76214,44.19950,,,,,,Main ST ,,,,Assayah,CP,,Saudi Arabia
+PAINT EST .-AL-Delam-AL-Delam,,241288 - 2,,+966 505109297,AL-Delam,23.98775,47.13811,,,,,,AL-Delam,,,,AL-Delam,CP,,Saudi Arabia
+PAINT EST .-Al Sulayail-Al Sulayail,,241288 - 11,,+966 504141444,Al Sulayail,20.47521,45.58212,,,,,,Al Sulayail,,,,Al Sulayail,CP,,Saudi Arabia
+PAINT EST .-Al Kharj-BADIA,,241288 - 7,,+966 554790936,Al Kharj,24.15616,47.32244,,,,,,BADIA,,,,Al Kharj,CP,,Saudi Arabia
+PAINT EST .-Al Kharaj-Al- Muhandeese,,241288 - 3,,+966 502093807,Al Kharaj,24.12781,47.27562,,,,,,Al- Muhandeese,,,,Al Kharaj,CP,,Saudi Arabia
+PAINT EST .-Al Kharaj-Al Kharaj,,241288 - 6,,+966 506937827,Al Kharaj,24.158009,47.32486,,,,,,Al Kharaj,,,,Al Kharaj,CP,,Saudi Arabia
+EALAF  WORKER EST.-Afif-King Abdulaziz RD,,241871 - 1,,+966 594816619,Afif,23.911665,42.920601,,,,,,King Abdulaziz RD,,,,Afif,CP,,Saudi Arabia
+HUSSAIN HAMAD AL AMEER -SAYHAT-AL SALIM,,241157 - 1,,+966 552002000,SAYHAT,26.47,50.05,,,,,,AL SALIM,,,,SAYHAT,EP,,Saudi Arabia
+Saied Fahd Al Hajri-Safwa-Al Imam Ali Abi Talib RD,,279178 - 1,,+966 559479504,Safwa,26.651636,49.956539,,,,,,Al Imam Ali Abi Talib RD,,,,Safwa,EP,,Saudi Arabia
+RED SEA TRADING -Safaniya-Main RD (Olaya),,241207 - 1,,+966 558770088,Safaniya,27.942620,48.659270,,,,,,Main RD (Olaya),,,,Safaniya,EP,,Saudi Arabia
+NASSER A AL-HAWASHI -Ras Tanurah-King Abdullah Bin Abdul Aziz,,241240 - 1,,+966 503870853,Ras Tanurah,26.71,50.06,,,,,,King Abdullah Bin Abdul Aziz,,,,Ras Tanurah,EP,,Saudi Arabia
+NASSER A AL-HAWASHI -Ras Tanurah-King Abdullah Bin Abdul Aziz,,241240 - 2,,+966 533252479,Ras Tanurah,26.72,50.07,,,,,,King Abdullah Bin Abdul Aziz,,,,Ras Tanurah,EP,,Saudi Arabia
+OPHIR FOR GENERAL CONTRACTING -Jubail-Al Faiha ST,,245302 - 1,,+966 552916094,Jubail,27.12,49.55,,,,,,Al Faiha ST,,,,Jubail,EP,,Saudi Arabia
+OPHIR FOR GENERAL CONTRACTING -Jubail-Al Jabal ST,,245302 - 2,,+966 552916094,Jubail,27.01,49.06,,,,,,Al Jabal ST,,,,Jubail,EP,,Saudi Arabia
+Sadeem -Jubail-Al Jabal ST,,274509 - 1,,+966 507442339,Jubail,27.01,49.65,,,,,,Al Jabal ST,,,,Jubail,EP,,Saudi Arabia
+JUBAIL CORPORATION  -Jubail-Al Jabal ST,,241447 - 1,,+966 562117648,Jubail,26.99,49.66,,,,,,Al Jabal ST,,,,Jubail,EP,,Saudi Arabia
+MEESAQ AL TAHDI GEN.CONTRACTING-Jubail-Prince Abdullah Bin Abdul Aziz,,280123 - 1,,+966 538326407,Jubail,26.9919160,49.6569490,,,,,,Prince Abdullah Bin Abdul Aziz,,,,Jubail,EP,,Saudi Arabia
+ABDUL AZIZ ISMAIL SONS  -Hafouf-Munaifa ST,,241204 - 1,,+966 504127016,Hafouf,25.35,49.58,,,,,,Munaifa ST,,,,Hafouf,EP,,Saudi Arabia
+ABDUL AZIZ ISMAIL SONS  -Hafouf-Baladia ST,,241204 - 2,,+966 591435532,Hafouf,25.61,49.56,,,,,,Baladia ST,,,,Hafouf,EP,,Saudi Arabia
+COLOUR PALACE FOR PAINTS -Hafouf-Hulaila RD,,241490 - 1,,+966 548663183,Hafouf,25.44,49.66,,,,,,Hulaila RD,,,,Hafouf,EP,,Saudi Arabia
+COLOUR PALACE FOR PAINTS -Hafouf-Riyadh RD,,241490 - 2,,+966 509409701,Hafouf,25.36,49.55,,,,,,Riyadh RD,,,,Hafouf,EP,,Saudi Arabia
+GULF AMARAH CO.-Hafouf-Sitteen ST,,241449 - 1,,+966 540088498,Hafouf,25.36,49.61,,,,,,Sitteen ST,,,,Hafouf,EP,,Saudi Arabia
+RAWHA INTERNATIONAL-DAMMAM-AL-NADA,,241162 - 1,,+966 506349888,DAMMAM,26.42,50.11,,,,,,AL-NADA,,,,DAMMAM,EP,,Saudi Arabia
+RAWHA INTERNATIONAL-DAMMAM-Imam Muhammad Ibn Abdulwahab ST,,241162 - 2,,+966 503802275,DAMMAM,26.360470,50.068610,,,,,,Imam Muhammad Ibn Abdulwahab ST,,,,DAMMAM,EP,,Saudi Arabia
+HASSAN SAAD AL RAJEH-DAMMAM-Om Al Sahiq,,241451 - 1,,+966 509086760,DAMMAM,26.65,49.92,,,,,,Om Al Sahiq,,,,DAMMAM,EP,,Saudi Arabia
+INSTITUTION SWEETER COLOR DECO-DAMMAM-Al Rabwa Dist,,241861 - 1,,+966 567094703,DAMMAM,26.35,50.14,,,,,,Al Rabwa Dist,,,,DAMMAM,EP,,Saudi Arabia
+FUTURE DEVELOPMENT CONST-DAMMAM-Aldoha ST,,241508 - 1,,+966 555090035,DAMMAM,26.32,50.16,,,,,,Aldoha ST,,,,DAMMAM,EP,,Saudi Arabia
+MOSSA A. AL-HUSSIAN -DAMMAM-42nd ST,,241174 - 1,,+966 542930560,DAMMAM,26.42,50.07,,,,,,42nd ST,,,,DAMMAM,EP,,Saudi Arabia
+RADI BIN SAEID ALYAME-DAMMAM-King Saud ST,,267666 - 1,,+966 540973500,DAMMAM,26.43,50.04,,,,,,King Saud ST,,,,DAMMAM,EP,,Saudi Arabia
+IBRAHIM AL-ANAZI TRADING -DAMMAM-Al Saghat Al Aali ST,,266261 - 1,,+966 504268099,DAMMAM,26.4,50.06,,,,,,Al Saghat Al Aali ST,,,,DAMMAM,EP,,Saudi Arabia
+Osama Al Thwimer-DAMMAM-Al Fakriyah,,275799 - 1,,+966 568478523,DAMMAM,26.3467081,50.0542671,,,,,,Al Fakriyah,,,,DAMMAM,EP,,Saudi Arabia
+Dana of Arab Oreient -Dammam-King Saud RD,,279616 - 1,,+966 564235550,Dammam,26.421633,50.003025,,,,,,King Saud RD,,,,Dammam,EP,,Saudi Arabia
+MUSTAFA BIN ABBASS AL QATTAN  CONTRACTING -DAMMAM-Al Jafer ST,,247604 - 1,,+966 548050095,DAMMAM,25.38,49.67,,,,,,Al Jafer ST,,,,DAMMAM,EP,,Saudi Arabia
+HUSSAIN ALI M.ALI -DAMMAM-Faisal ST,,241181 - 1,,+966 564151694,DAMMAM,26.47,50.05,,,,,,Faisal ST,,,,DAMMAM,EP,,Saudi Arabia
+STYLE & ART -DAMMAM-Usman Bin Affan RD,,241241 - 1,,+966 592889136,DAMMAM,26.40,50.10,,,,,,Usman Bin Affan RD,,,,DAMMAM,EP,,Saudi Arabia
+Dorrah Sanam Genral Contracting-DAMMAM-Al Amer Naif St,,278381 - 1,,+966 563412992,DAMMAM,26.39171884917,50.09194479188,,,,,,Al Amer Naif St,,,,DAMMAM,EP,,Saudi Arabia
+SAID AID AL GARNI TRADING -DAMMAM-Khalid Bin Waleed RD,,241194 - 1,,+966 507337288,DAMMAM,26.36,50.20,,,,,,Khalid Bin Waleed RD,,,,DAMMAM,EP,,Saudi Arabia
+"SALMAN ALI ALMUBARAK FOR PAINT-DAMMAM-Comercial ST ,Hayal Nada",,241501 - 1,,+966 592345269,DAMMAM,26.36,50.08,,,,,,"Comercial ST ,Hayal Nada",,,,DAMMAM,EP,,Saudi Arabia
+ZUHAIR A. H. AL-MUJJADEDI -DAMMAM-Azizia,,241206 - 5,,+966 567284918,DAMMAM,26.21,50.19,,,,,,Azizia,,,,DAMMAM,EP,,Saudi Arabia
+JOHAN EST. -DAMMAM-King Abdul Aziz  ST,,241208 -1 ,,+966 504801246,DAMMAM,26.45,50.11,,,,,,King Abdul Aziz  ST,,,,DAMMAM,EP,,Saudi Arabia
+NAIF SULAIMAN AL AROUJ  -DAMMAM-Dhahran DAMAM RD,,241492 - 1,,+966 569135154,DAMMAM,26.37,50.12,,,,,,Dhahran DAMAM RD,,,,DAMMAM,EP,,Saudi Arabia
+BWABT AL DAR -DAMMAM-ALMNAR  ST,,244647 - 1,,+966 544726165,DAMMAM,26.37,49.96,,,,,,ALMNAR  ST,,,,DAMMAM,EP,,Saudi Arabia
+Raid Abdulrahman Al-Ruzaihan  -DAMMAM-Uthman Bin Affan ST ,,276170 - 1,,+966 502602280,DAMMAM,26.379507,50.103904,,,,,,Uthman Bin Affan ST ,,,,DAMMAM,EP,,Saudi Arabia
+Jameel H Ali-Dammam-Abu Hurairah ST,,285715 -1,,+966 508938173,Dammam,26.460928,50.092239,,,,,,Abu Hurairah ST,,,,Dammam,EP,,Saudi Arabia
+NOOR AL SANA EST. -DAMMAM-AL KORNISH,,247284 -2,,+966 533197192,DAMMAM,26.45,50.08,,,,,,AL KORNISH,,,,DAMMAM,EP,,Saudi Arabia
+MOHAMMED ABD.ALKHATER  -DAMMAM-(10th ST) Madinat Alommal ,,241454 - 1,,+966 507896506,DAMMAM,26.43,50.11,,,,,,(10th ST) Madinat Alommal ,,,,DAMMAM,EP,,Saudi Arabia
+ABDUL WAHID MOIS  -DAMMAM-Om Alhamam ,,241461 - 1,,+966 502422338,DAMMAM,26.52,50.00,,,,,,Om Alhamam ,,,,DAMMAM,EP,,Saudi Arabia
+MOHAMMAD A.ALLUWIM  -DAMMAM-Prince Naif ST,,241233 - 1,,+966 507391296,DAMMAM,26.46,50.06,,,,,,Prince Naif ST,,,,DAMMAM,EP,,Saudi Arabia
+ZAYNAB OMRAN AL SAEED EST-DAMMAM-AL-FARSAN,,285988 - 1,,+ 966 508807808,DAMMAM,26.3575727,49.9645301,,,,,,AL-FARSAN,,,,DAMMAM,EP,,Saudi Arabia
+SHADDAN TRADING  -DAMMAM-Al Khwrezme ST,,241166 - 1,,+966 501265497,DAMMAM,26.42,50.02,,,,,,Al Khwrezme ST,,,,DAMMAM,EP,,Saudi Arabia
+SHADDAN TRADING  -DAMMAM-Fahd ST,,241166 - 2,,+966 534767282,DAMMAM,26.40,50.15,,,,,,Fahd ST,,,,DAMMAM,EP,,Saudi Arabia
+TAREK AL SHIMMARI-DAMMAM-Aboobacker ST - Ghannam,,248338  - 1,,+966 583677750,DAMMAM,26.3788145,50.058922,,,,,,Aboobacker ST - Ghannam,,,,DAMMAM,EP,,Saudi Arabia
+TAREK AL SHIMMARI-DAMMAM-Faisaliya,,248338  - 2,,+996 536189894,DAMMAM,26.38,50.05,,,,,,Faisaliya,,,,DAMMAM,EP,,Saudi Arabia
+ SANA INTERNATIONAL WORKS  -DAMMAM-Al malik abdulaziz st,,241173 - 1,,+966 599002353,DAMMAM,26.44,50.10,,,,,,Al malik abdulaziz st,,,,DAMMAM,EP,,Saudi Arabia
+Sana Star-DAMMAM-Khaleg St,,278508 - 1,,+966 503152860,DAMMAM,26.443586,50.091804,,,,,,Khaleg St,,,,DAMMAM,EP,,Saudi Arabia
+ABYAT SAUDIA BUILDING MATERIAL -DAMMAM-Prince Faisal Bin Fahd RD,,242646 - 1,,+966 503851419,DAMMAM,26.31,50.17,,,,,,Prince Faisal Bin Fahd RD,,,,DAMMAM,EP,,Saudi Arabia
+NOOR AL SANA EST. -ANAK-AILKHALIJ,,247284 -3,,+966 505811349,ANAK,26.52,50.03,,,,,,AILKHALIJ,,,,ANAK,EP,,Saudi Arabia
+Musaed Al Malki-Al Sarar-Main RD,,281934 - 1,,+966 594200223,Al Sarar,26.99322,48.48.715,,,,,,Main RD,,,,Al Sarar,EP,,Saudi Arabia
+NOOR AL SANA EST. -Al Qatif-AL RYADH,,247284 -1,,+966 533197192,Al Qatif,26.56,50.06,,,,,,AL RYADH,,,,Al Qatif,EP,,Saudi Arabia
+RAED M ALI AL-SAFFAR  -Al Qatif-OHED,,241243 - 1,,+966 597291676,Al Qatif,26.57,50.05,,,,,,OHED,,,,Al Qatif,EP,,Saudi Arabia
+RAED M ALI AL-SAFFAR  -Al Qatif-AL RYADH,,241243 - 2,,+966 504690155,Al Qatif,26.56002460,50.0019430,,,,,,AL RYADH,,,,Al Qatif,EP,,Saudi Arabia
+MARHOON -Al Qatif-IMAM ALI ST,,259774 - 1,,+966 506846645,Al Qatif,26.05,50.00,,,,,,IMAM ALI ST,,,,Al Qatif,EP,,Saudi Arabia
+Naim Al Dabal-Al Qatif-IMAM ALI ST,,273434 - 1,,+966 555867136,Al Qatif,26.5636980,50.0364530,,,,,,IMAM ALI ST,,,,Al Qatif,EP,,Saudi Arabia
+MAKI ALI ABU FOR EST.-Al Qatif-Riyadh RD,,241193 - 1,,+966 592866163,Al Qatif,26.55,50.01,,,,,,Riyadh RD,,,,Al Qatif,EP,,Saudi Arabia
+MOOSA TURKI AL MOWAIS CONT.& DÉCOR-Al Qatif-Zain Alabideen ST,,282455 - 1,,+966 563335810,Al Qatif,26.518467,50.003971,,,,,,Zain Alabideen ST,,,,Al Qatif,EP,,Saudi Arabia
+SAAD AL-BADAR  -AL QARYAH Al Olayha-Main RD,,241507 - 2,,+966 533972750,AL QARYAH Al Olayha,27.56,47.70,,,,,,Main RD,,,,AL QARYAH Al Olayha,EP,,Saudi Arabia
+SAAD AL-BADAR  -Al Nairyah-Main RD,,241507 - 1,,+966 558770088,Al Nairyah,27.47,48.47,,,,,,Main RD,,,,Al Nairyah,EP,,Saudi Arabia
+MODERN EXECUTION GATE GENERAL  -Al Khobar-Al Aziziya (60th ST),,253359 - 1,,+966 555849459,Al Khobar,26.15,50.14,,,,,,Al Aziziya (60th ST),,,,Al Khobar,EP,,Saudi Arabia
+ZUHAIR A. H. AL-MUJJADEDI -Al Khobar-Aqrabia,,241206 - 1,,+966 508832778,Al Khobar,26.30,50.19,,,,,,Aqrabia,,,,Al Khobar,EP,,Saudi Arabia
+ZUHAIR A. H. AL-MUJJADEDI -Al Khobar-Azizia,,241206 - 2,,+966 535251421,Al Khobar,26.21,50.21,,,,,,Azizia,,,,Al Khobar,EP,,Saudi Arabia
+ZUHAIR A. H. AL-MUJJADEDI -Al Khobar-Main Khobar,,241206 - 3,,+966 533829792,Al Khobar,26.28,50.21,,,,,,Main Khobar,,,,Al Khobar,EP,,Saudi Arabia
+ZUHAIR A. H. AL-MUJJADEDI -Al Khobar-Khobar Shumalia,,241206 - 4,,+966 534080052,Al Khobar,26.30,50.22,,,,,,Khobar Shumalia,,,,Al Khobar,EP,,Saudi Arabia
+ZUHAIR A. H. AL-MUJJADEDI -Al Khobar-Thuqba,,241206 - 6,,+966 556561791,Al Khobar,26.28,50.20,,,,,,Thuqba,,,,Al Khobar,EP,,Saudi Arabia
+RED SEA TRADING -Al Khafji-King Abdulla ST,,241207 - 2,,+966 503947019,Al Khafji,28.42,48.50,,,,,,King Abdulla ST,,,,Al Khafji,EP,,Saudi Arabia
+RED SEA TRADING -Al Khafji-Abdullah Bin Abdul Aziz St.,,241207 - 3,,+966 502128657,Al Khafji,28.452109,48.489242,,,,,,Abdullah Bin Abdul Aziz St.,,,,Al Khafji,EP,,Saudi Arabia
+NASSER A AL-HAWASHI -Al Jish-Zain Alabideen ST,,241240 - 3,,+966 503870853,Al Jish,26.5124450,49.9749590,,,,,,Zain Alabideen ST,,,,Al Jish,EP,,Saudi Arabia
+MILFI FOHAID ALDOSSARY  -Abqaiq-Jeddah ST,,241438 - 1,,+966 507128043,Abqaiq,25.93,49.66,,,,,,Jeddah ST,,,,Abqaiq,EP,,Saudi Arabia
+AHMED KHALID MOHAMMED ALHUWAIJI- Al Ahsa-Al Mazroayah,,258724 - 1,,+966 532317007, Al Ahsa,25.37,49.58,,,,,,Al Mazroayah,,,, Al Ahsa,EP,,Saudi Arabia
+YOUSEF ALI  AL OMRAN- Al Ahsa-Al Rawidah,,264588 - 1,,+966 505914836, Al Ahsa,25.36,49.61,,,,,,Al Rawidah,,,, Al Ahsa,EP,,Saudi Arabia
+Al-Namareq House- Al Ahsa-Dahran ST,,266429 - 1,,+966 564140970, Al Ahsa,25.40,49.58,,,,,,Dahran ST,,,, Al Ahsa,EP,,Saudi Arabia
+RAMADAN EST. FOR PAINT- Al Ahsa-AL OQEER,, 241209 - 1,,+966 501622725, Al Ahsa,25.39,49.60,,,,,,AL OQEER,,,, Al Ahsa,EP,,Saudi Arabia
+RAMADAN EST.FOR PAINTS-MUBARAZ- Al Ahsa-King Faisal RD,,241225 - 1,,+966 567250277, Al Ahsa,25.434185,49.582863,,,,,,King Faisal RD,,,, Al Ahsa,EP,,Saudi Arabia

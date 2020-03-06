@@ -1,0 +1,84 @@
+name,last_evaluation,acc_no,email,address,latitude,longitude,image,status,shop_type_id,created,modified,address_search,door_number,street_number,colony,distric,province,postal_code,country
+AL MIRZA BUILDING MET.CETR.CO. ,1/1/2017,241090-1,Test@mail.com,Jeddah,21.6133558,39.1774173,,1,1,1/1/2017,1/1/2017,Jeddah,1,1,1,Jeddah,Jeddah,1,Saudi Arabia
+AL MIRZA BUILDING MET.CETR.CO. ,1/2/2017,241090-2,Test@mail.com,Jeddah,21.576956,39.166731,,1,1,1/2/2017,1/2/2017,Jeddah,1,1,1,Jeddah,Jeddah,2,Saudi Arabia
+AL MIRZA BUILDING MET.CETR.CO. ,1/3/2017,241090-3,Test@mail.com,Jeddah,21.673738,39.127306,,1,1,1/3/2017,1/3/2017,Jeddah,1,1,1,Jeddah,Jeddah,3,Saudi Arabia
+Al AOON A.MAZ EST,1/4/2017,251266-1,Test@mail.com,Jeddah,21.409093,39.258737,,1,1,1/4/2017,1/4/2017,Jeddah,1,1,1,Jeddah,Jeddah,4,Saudi Arabia
+Al AOON A.MAZ EST,1/5/2017,251266-2,Test@mail.com,Jeddah,21.400318,39.277180,,1,1,1/5/2017,1/5/2017,Jeddah,1,1,1,Jeddah,Jeddah,5,Saudi Arabia
+ARABIAN PAINT EST.,1/6/2017,241075-1,Test@mail.com,Jeddah,21.5839422,39.1765537,,1,1,1/6/2017,1/6/2017,Jeddah,1,1,1,Jeddah,Jeddah,6,Saudi Arabia
+ARABIAN PAINT EST.,1/7/2017,241075-2,Test@mail.com,Jeddah,21.594658,39.14899,,1,1,1/7/2017,1/7/2017,Jeddah,1,1,1,Jeddah,Jeddah,7,Saudi Arabia
+Mdain al Ajeab  Est . ,1/8/2017,277180,Test@mail.com,Jeddah,21.847061,39.10178,,1,1,1/8/2017,1/8/2017,Jeddah,1,1,1,Jeddah,Jeddah,8,Saudi Arabia
+KINDA TRADING INVESTMENT CO.,1/9/2017,241101,Test@mail.com,Jeddah,21.589797,39.186415,,1,1,1/9/2017,1/9/2017,Jeddah,1,1,1,Jeddah,Jeddah,9,Saudi Arabia
+Abdullah Saeed Al Jehani,1/10/2017,279915,Test@mail.com,Jeddah,21.455571,39.207532,,1,1,1/10/2017,1/10/2017,Jeddah,1,1,1,Jeddah,Jeddah,10,Saudi Arabia
+QASWAT ALEBDDAH EST.,1/11/2017,243702,Test@mail.com,Jeddah,21.449767,39.197867,,1,1,1/11/2017,1/11/2017,Jeddah,1,1,1,Jeddah,Jeddah,11,Saudi Arabia
+ABDULLAH OMAR BAGALF EST.,1/12/2017,240985,Test@mail.com,Jeddah,21.5714432,39.1684815,,1,1,1/12/2017,1/12/2017,Jeddah,1,1,1,Jeddah,Jeddah,12,Saudi Arabia
+ABDULLAH OTHMAN SAEEDI TRD. EST.,1/13/2017,273624-1,Test@mail.com,Jeddah,21.30124383145,39.24678709409,,1,1,1/13/2017,1/13/2017,Jeddah,1,1,1,Jeddah,Jeddah,13,Saudi Arabia
+ABDULLAH OTHMAN SAEEDI TRD. EST.,1/14/2017,273624-2,Test@mail.com,Jeddah,21.304575,21.304575,,1,1,1/14/2017,1/14/2017,Jeddah,1,1,1,Jeddah,Jeddah,14,Saudi Arabia
+AL TEZAM JEDDAH EST.,1/15/2017,248340-1,Test@mail.com,Jeddah,21.502762,39.189021,,1,1,1/15/2017,1/15/2017,Jeddah,1,1,1,Jeddah,Jeddah,15,Saudi Arabia
+AL TEZAM JEDDAH EST.,1/16/2017,248340-2,Test@mail.com,Jeddah,21.796555,39.087383,,1,1,1/16/2017,1/16/2017,Jeddah,1,1,1,Jeddah,Jeddah,16,Saudi Arabia
+AL TEZAM JEDDAH EST.,1/17/2017,241013,Test@mail.com,Jeddah,21.773903,39.091473,,1,1,1/17/2017,1/17/2017,Jeddah,1,1,1,Jeddah,Jeddah,17,Saudi Arabia
+Bander Bin Rubain,1/18/2017,241408,Test@mail.com,Jeddah,21.620095,39.156271,,1,1,1/18/2017,1/18/2017,Jeddah,1,1,1,Jeddah,Jeddah,18,Saudi Arabia
+Hameed Al Sanani,1/19/2017,241066,Test@mail.com,Jeddah,21.56927417,39.18739831,,1,1,1/19/2017,1/19/2017,Jeddah,1,1,1,Jeddah,Jeddah,19,Saudi Arabia
+Taif Al Tamayoz  Est . ,1/20/2017,245366-1,Test@mail.com,Jeddah,21.931473,39.355979,,1,1,1/20/2017,1/20/2017,Jeddah,1,1,1,Jeddah,Jeddah,20,Saudi Arabia
+Taif Al Tamayoz  Est . ,1/21/2017,245366-2,Test@mail.com,Jeddah,21.845411,39.202185,,1,1,1/21/2017,1/21/2017,Jeddah,1,1,1,Jeddah,Jeddah,21,Saudi Arabia
+MUSFIRAH KHADRAD AL MALKI EST.,1/22/2017,262248,Test@mail.com,Jeddah,21.68211078,39.1194163,,1,1,1/22/2017,1/22/2017,Jeddah,1,1,1,Jeddah,Jeddah,22,Saudi Arabia
+OMAR BINMUTLALQ AL-RASHEDI EST.,1/23/2017,240984,Test@mail.com,Jeddah,23.501117,40.880065,,1,1,1/23/2017,1/23/2017,Jeddah,1,1,1,Jeddah,Jeddah,23,Saudi Arabia
+SAEED ABAS HASHIM AL MUHABI,1/24/2017,258653,Test@mail.com,Jeddah,21.619149,39.19327241,,1,1,1/24/2017,1/24/2017,Jeddah,1,1,1,Jeddah,Jeddah,24,Saudi Arabia
+Abdullah Bin Abdullah Al Qahtani ,1/25/2017,277844,Test@mail.com,Jeddah,21.748493,39.142238,,1,1,1/25/2017,1/25/2017,Jeddah,1,1,1,Jeddah,Jeddah,25,Saudi Arabia
+YASSER AL THEBITY  EST.,1/26/2017,241851-1,Test@mail.com,Jeddah,21.79241011,39.2001844,,1,1,1/26/2017,1/26/2017,Jeddah,1,1,1,Jeddah,Jeddah,26,Saudi Arabia
+YASSER AL THEBITY  EST.,1/27/2017,241851-2,Test@mail.com,Jeddah,21.792466,39.200506,,1,1,1/27/2017,1/27/2017,Jeddah,1,1,1,Jeddah,Jeddah,27,Saudi Arabia
+YASSER AL THEBITY  EST.,1/28/2017,241851-3,Test@mail.com,Jeddah,21.738823,39.192751,,1,1,1/28/2017,1/28/2017,Jeddah,1,1,1,Jeddah,Jeddah,28,Saudi Arabia
+YASSER AL THEBITY  EST.,1/29/2017,248343,Test@mail.com,Jeddah,24.4971466,39.2951991,,1,1,1/29/2017,1/29/2017,Jeddah,1,1,1,Jeddah,Jeddah,29,Saudi Arabia
+MOHAMD AHMED BASAQAR TRAD.EST,1/30/2017,241048,Test@mail.com,Jeddah,21.482761,39.229602,,1,1,1/30/2017,1/30/2017,Jeddah,1,1,1,Jeddah,Jeddah,30,Saudi Arabia
+Wadi Murekh Est.,1/31/2017,277774,Test@mail.com,Jeddah,21.532518,39.288197,,1,1,1/31/2017,1/31/2017,Jeddah,1,1,1,Jeddah,Jeddah,31,Saudi Arabia
+AL-JOWEHER TRADING EST.,2/1/2017,240993,Test@mail.com,Jeddah,22.799584,39.036912,,1,1,2/1/2017,2/1/2017,Jeddah,1,1,1,Jeddah,Jeddah,32,Saudi Arabia
+Mohammed Hassan Al Harty,2/2/2017,266366,Test@mail.com,Jeddah,21.323719,39.261593,,1,1,2/2/2017,2/2/2017,Jeddah,1,1,1,Jeddah,Jeddah,33,Saudi Arabia
+SALEH AL- SHATREE EST.,2/3/2017,241081,Test@mail.com,Jeddah,21.644141,39.142380,,1,1,2/3/2017,2/3/2017,Jeddah,1,1,1,Jeddah,Jeddah,34,Saudi Arabia
+YOUSAF HASHIM SUBHI EST.,2/4/2017,248489-1,Test@mail.com,Jeddah,,,,1,1,2/4/2017,2/4/2017,Jeddah,1,1,1,Jeddah,Jeddah,35,Saudi Arabia
+YOUSAF HASHIM SUBHI EST.,2/5/2017,248489-2,Test@mail.com,Jeddah,21.931473,39.355979,,1,1,2/5/2017,2/5/2017,Jeddah,1,1,1,Jeddah,Jeddah,36,Saudi Arabia
+KHALID MUSTAFA SABER EST,2/6/2017,241040-1,Test@mail.com,Jeddah,21.566120, 39.243038,,1,1,2/6/2017,2/6/2017,Jeddah,1,1,1,Jeddah,Jeddah,37,Saudi Arabia
+KHALID MUSTAFA SABER EST,2/7/2017,241040-2,Test@mail.com,Jeddah,21.579856,39.208581,,1,1,2/7/2017,2/7/2017,Jeddah,1,1,1,Jeddah,Jeddah,38,Saudi Arabia
+SEDAR ESTR EST.OBHR JEDDAH.,2/8/2017,250459,Test@mail.com,Jeddah,21.766622,39.091048,,1,1,2/8/2017,2/8/2017,Jeddah,1,1,1,Jeddah,Jeddah,39,Saudi Arabia
+First Saudi Est.,2/9/2017,241099,Test@mail.com,Jeddah,21.516862,39.223186,,1,1,2/9/2017,2/9/2017,Jeddah,1,1,1,Jeddah,Jeddah,40,Saudi Arabia
+MOHAMMED ABDULLAH AL SHAHRI,2/10/2017,266523,Test@mail.com,Jeddah,21.548429,39.238859,,1,1,2/10/2017,2/10/2017,Jeddah,1,1,1,Jeddah,Jeddah,41,Saudi Arabia
+Rapid Technical Est.,2/11/2017,250165,Test@mail.com,Jeddah,21.496523,39.213338,,1,1,2/11/2017,2/11/2017,Jeddah,1,1,1,Jeddah,Jeddah,42,Saudi Arabia
+Al Sawan Est,2/12/2017,280237,Test@mail.com,Jeddah,21.514236,39.181739,,1,1,2/12/2017,2/12/2017,Jeddah,1,1,1,Jeddah,Jeddah,43,Saudi Arabia
+AL TASAHEEL MODERN TRADING EST.,2/13/2017,273215,Test@mail.com,Jeddah,21.749778,39.148649,,1,1,2/13/2017,2/13/2017,Jeddah,1,1,1,Jeddah,Jeddah,44,Saudi Arabia
+AL WAHA GENERAL CONTRACTING EST.,2/14/2017,261658,Test@mail.com,Jeddah,21.5473414,39.2288238,,1,1,2/14/2017,2/14/2017,Jeddah,1,1,1,Jeddah,Jeddah,45,Saudi Arabia
+BASAER AL SAUDI,2/15/2017,272192,Test@mail.com,Jeddah,21.652515,39.239719,,1,1,2/15/2017,2/15/2017,Jeddah,1,1,1,Jeddah,Jeddah,46,Saudi Arabia
+BAZARAH TRADING EST.,2/16/2017,241084,Test@mail.com,Jeddah,21.578868,39.157636,,1,1,2/16/2017,2/16/2017,Jeddah,1,1,1,Jeddah,Jeddah,47,Saudi Arabia
+KHALID BARIAN EST.,2/17/2017,272857,Test@mail.com,Jeddah,21.617375,39.149597,,1,1,2/17/2017,2/17/2017,Jeddah,1,1,1,Jeddah,Jeddah,48,Saudi Arabia
+Ultra Creativity Est. ,2/18/2017,277315,Test@mail.com,Jeddah,21.595562,39.220498,,1,1,2/18/2017,2/18/2017,Jeddah,1,1,1,Jeddah,Jeddah,49,Saudi Arabia
+MTD CO.FOR CONSTRUCTION,2/19/2017,244344,Test@mail.com,Jeddah,21.696703,39.104781,,1,1,2/19/2017,2/19/2017,Jeddah,1,1,1,Jeddah,Jeddah,50,Saudi Arabia
+QASEM MOH'D AL-SALEH TRADING.,2/20/2017,241043,Test@mail.com,Jeddah,21.598356,39.123316,,1,1,2/20/2017,2/20/2017,Jeddah,1,1,1,Jeddah,Jeddah,51,Saudi Arabia
+ALI HAMDAN IBRAHIM JEHANI EST. ,2/21/2017,250494,Test@mail.com,Jeddah,21.62334134,39.16430684,,1,1,2/21/2017,2/21/2017,Jeddah,1,1,1,Jeddah,Jeddah,52,Saudi Arabia
+WAFAQ AL-ALLMYAH EST.,2/22/2017,240987,Test@mail.com,Jeddah,21.624313,39.209373,,1,1,2/22/2017,2/22/2017,Jeddah,1,1,1,Jeddah,Jeddah,53,Saudi Arabia
+ZOHRA AL MATAR EST.,2/23/2017,251855,Test@mail.com,Jeddah,21.600846,39.191560,,1,1,2/23/2017,2/23/2017,Jeddah,1,1,1,Jeddah,Jeddah,54,Saudi Arabia
+Al Wafi Advanced,2/24/2017,276291,Test@mail.com,Jeddah,21.53512743673 ,39.18358271,,1,1,2/24/2017,2/24/2017,Jeddah,1,1,1,Jeddah,Jeddah,55,Saudi Arabia
+ABDUL RAHMAN BATARFI,2/25/2017,240961-1,Test@mail.com,Jeddah,21.563482,39.209252,,1,1,2/25/2017,2/25/2017,Jeddah,1,1,1,Jeddah,Jeddah,56,Saudi Arabia
+ABDUL RAHMAN BATARFI,2/26/2017,240961-2,Test@mail.com,Jeddah,21.686703,39.109624,,1,1,2/26/2017,2/26/2017,Jeddah,1,1,1,Jeddah,Jeddah,57,Saudi Arabia
+AHMED A. JABEER ALSAYD EST,2/27/2017,241828,Test@mail.com,Jeddah,21.798250,39.140335,,1,1,2/27/2017,2/27/2017,Jeddah,1,1,1,Jeddah,Jeddah,58,Saudi Arabia
+AHMED A. JABEER ALSAYD EST,2/28/2017,241824,Test@mail.com,Jeddah,21.611715,39.144525,,1,1,2/28/2017,2/28/2017,Jeddah,1,1,1,Jeddah,Jeddah,59,Saudi Arabia
+AL REESHI EST,3/1/2017,272371,Test@mail.com,Jeddah,21.565033, 39.248264,,1,1,3/1/2017,3/1/2017,Jeddah,1,1,1,Jeddah,Jeddah,60,Saudi Arabia
+ALAM AL RUHAM AL HADITH EST. SITEEN ST.,3/2/2017,241095,Test@mail.com,Jeddah,21.555252,39.188357,,1,1,3/2/2017,3/2/2017,Jeddah,1,1,1,Jeddah,Jeddah,61,Saudi Arabia
+ANWAR AL SHUHAB EST.SAMIS ST.-,3/3/2017,264937,Test@mail.com,Jeddah,21.593027,39.237412,,1,1,3/3/2017,3/3/2017,Jeddah,1,1,1,Jeddah,Jeddah,62,Saudi Arabia
+ANWAR AL SHUHAB EST.SAMIS ST.-,3/4/2017,253391,Test@mail.com,Jeddah,21.544149,39.216256,,1,1,3/4/2017,3/4/2017,Jeddah,1,1,1,Jeddah,Jeddah,63,Saudi Arabia
+ARCHITECTURAL EST. (ARWEST),3/5/2017,241034-1,Test@mail.com,Jeddah,21.798250,39.140335,,1,1,3/5/2017,3/5/2017,Jeddah,1,1,1,Jeddah,Jeddah,64,Saudi Arabia
+ARCHITECTURAL EST. (ARWEST),3/6/2017,241034-2,Test@mail.com,Jeddah,21.533301,39.199947,,1,1,3/6/2017,3/6/2017,Jeddah,1,1,1,Jeddah,Jeddah,65,Saudi Arabia
+Test,3/7/2017,241083,Test@mail.com,Jeddah,21.45575621919,39.21869736849,,1,1,3/7/2017,3/7/2017,Jeddah,1,1,1,Jeddah,Jeddah,66,Saudi Arabia
+HUSSEIN SALEH ALAMOUDI TRDG.ES.JAMIYAH-,3/8/2017,241052,Test@mail.com,Jeddah,21.473697,39.239064,,1,1,3/8/2017,3/8/2017,Jeddah,1,1,1,Jeddah,Jeddah,67,Saudi Arabia
+JANAT ALALWAN PAINTS,3/9/2017,241093-1,Test@mail.com,Jeddah,21.42831118357,39.29825499940,,1,1,3/9/2017,3/9/2017,Jeddah,1,1,1,Jeddah,Jeddah,68,Saudi Arabia
+JANAT ALALWAN PAINTS,3/10/2017,241093-2,Test@mail.com,Jeddah,21.40985051145,39.29755819893,,1,1,3/10/2017,3/10/2017,Jeddah,1,1,1,Jeddah,Jeddah,69,Saudi Arabia
+JANAT ALALWAN PAINTS,3/11/2017,241093-3,Test@mail.com,Jeddah,21.44765386847,39.30097167981,,1,1,3/11/2017,3/11/2017,Jeddah,1,1,1,Jeddah,Jeddah,70,Saudi Arabia
+MOHAMED NASER AL SHAHRI EST. ,3/12/2017,241053-1,Test@mail.com,Jeddah,21.809743,39.06815,,1,1,3/12/2017,3/12/2017,Jeddah,1,1,1,Jeddah,Jeddah,71,Saudi Arabia
+MOHAMED NASER AL SHAHRI EST. ,3/13/2017,241053-2,Test@mail.com,Jeddah,21.39181939,39.29787029,,1,1,3/13/2017,3/13/2017,Jeddah,1,1,1,Jeddah,Jeddah,72,Saudi Arabia
+MOHAMED NASER AL SHAHRI EST. ,3/14/2017,241053-3,Test@mail.com,Jeddah,21.544935,39.193653,,1,1,3/14/2017,3/14/2017,Jeddah,1,1,1,Jeddah,Jeddah,73,Saudi Arabia
+Ismail Ashraf H.Alfarooq,3/15/2017,276989,Test@mail.com,Jeddah,21.762486,39.200318,,1,1,3/15/2017,3/15/2017,Jeddah,1,1,1,Jeddah,Jeddah,74,Saudi Arabia
+Hayat Al Alwan,3/16/2017,260876,Test@mail.com,Jeddah,21.661217,39.122578,,1,1,3/16/2017,3/16/2017,Jeddah,1,1,1,Jeddah,Jeddah,75,Saudi Arabia
+SADEEM AL KHAIR FOR CONTR. LTD.,3/17/2017,240970,Test@mail.com,Jeddah,21.7562133,39.120996,,1,1,3/17/2017,3/17/2017,Jeddah,1,1,1,Jeddah,Jeddah,76,Saudi Arabia
+SONS SHAFIQUE ABDULWAHID TUR EST.,3/18/2017,243663,Test@mail.com,Jeddah,21.60791,39.128799,,1,1,3/18/2017,3/18/2017,Jeddah,1,1,1,Jeddah,Jeddah,77,Saudi Arabia
+WAFIKA SALEH AL ZARAD TRD EST. (Ramz Al Hijazi),3/19/2017,240956,Test@mail.com,Jeddah,21.55619331,39.19332603,,1,1,3/19/2017,3/19/2017,Jeddah,1,1,1,Jeddah,Jeddah,78,Saudi Arabia
+Abdullah Babhair Trd. Est.,3/20/2017,241041,Test@mail.com,Jeddah,21.47293629278,39.26073930717,,1,1,3/20/2017,3/20/2017,Jeddah,1,1,1,Jeddah,Jeddah,79,Saudi Arabia
+Foud Mohammed Est. Al-Rashedi,3/21/2017,274960,Test@mail.com,Jeddah,21.44350114069,39.25581947974,,1,1,3/21/2017,3/21/2017,Jeddah,1,1,1,Jeddah,Jeddah,80,Saudi Arabia
+PAINTS THE MIDDE EAST,3/22/2017,262176-1,Test@mail.com,Jeddah,21.4005123,39.4453142,,1,1,3/22/2017,3/22/2017,Jeddah,1,1,1,Jeddah,Jeddah,81,Saudi Arabia
+PAINTS THE MIDDE EAST,3/23/2017,262176-2,Test@mail.com,Jeddah,21.45234734258,39.39148708286,,1,1,3/23/2017,3/23/2017,Jeddah,1,1,1,Jeddah,Jeddah,82,Saudi Arabia
+Al Firdous Gulf Arabian Trading Co. (Al Futtaim),3/24/2017,286987,Test@mail.com,Jeddah,21.618164 ,39.152172,,1,1,3/24/2017,3/24/2017,Jeddah,1,1,1,Jeddah,Jeddah,83,Saudi Arabia
